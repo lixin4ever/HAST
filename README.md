@@ -1,2 +1,2 @@
 # HAST
-Aspect Term Extraction with History Attention and Selective Transformation
+Aspect Term Extraction with History Attention and Selective Transformation (IJCAI 2018)
