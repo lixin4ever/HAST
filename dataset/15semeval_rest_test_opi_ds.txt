@@ -1,0 +1,685 @@
+Love +1
+recommend +1
+Great +1
+favorite +1
+incredible +1, fantastic +1, braised +1, amazing +1
+Overpriced -1, tasty +1
+mediocre -1, best +1
+overpriced -1
+other +1, great +1, worth +1
+Tasty +1
+awesome +1, friendly +1
+best +1, hot +1
+back +1
+NIL
+best +1, main -1
+NIL
+NIL
+Super +1, YUMMY +1
+New +1, warm +1
+NIL
+small +1
+fun +1, like +1
+Will +1, wish +1
+Excellent +1, interior +1
+kind +1, like +1
+good +1
+Great +1
+Reliable +1, Fresh +1
+NIL
+fresh +1, delicious +1
+NIL
+lacking -1
+NIL
+better +1
+Best +1
+NIL
+Creative +1, fresh +1
+Excellent +1, delicious +1
+cheap -1, yummy +1
+Love +1
+nice +1
+hidden +1, worth +1
+only +1
+NIL
+romantic +1
+nice +1
+attentive +1, delicious +1, great +1
+back +1
+Great +1
+back +1
+open +1, late +1
+Good +1, favorite +1
+recommended +1
+Excellent +1, great +1
+first +1
+courteous +1
+limited -1, prepared +1, richly +1, delicious +1
+NIL
+NIL
+favorite +1
+love +1, good +1
+NIL
+fanatical -1, fun +1, low -1
+good +1, spectacular +1
+fun +1, star +1
+average -1
+NIL
+rude -1, attentive +1
+back +1
+love +1
+good +1
+friendly +1
+smiling +1, welcome +1
+nice +1, clean +1
+pretty +1
+perfectly +1
+NIL
+only +1, downside -1, only +1
+back +1
+WORST -1
+fresh +1, warm +1, attentive +1
+recommend +1
+awesome +1
+fresh +1
+overpriced -1, mediocre -1
+disappointed -1
+top +1
+warm +1
+attentive +1
+NIL
+other +1, good +1
+NIL
+excellent +1
+NIL
+Red +1, Dragon -1, favorite +1
+Red +1, Dragon -1
+like +1
+NIL
+bother -1
+Favorite +1
+best +1, favorite +1
+unpretentious +1, good +1, pleasant +1
+back +1, nice +1
+creative +1, delicious +1
+NIL
+GOOD +1
+LOVE +1
+NIL
+last +1, New +1
+like +1
+bland -1
+NIL
+NIL
+like +1
+scandalous -1, better +1
+NIL
+bad -1
+Great +1
+NIL
+NIL
+good +1, clean +1
+great +1
+favorite +1, great +1, celebrated +1
+good +1
+Love +1
+recommend +1, beautiful +1
+Nice +1, special +1
+NIL
+NIL
+NIL
+NIL
+NIL
+Nice +1
+NIL
+NIL
+Great +1
+delicious +1
+beautifully +1
+talented +1, delicious +1
+NIL
+NIL
+great +1
+great +1, especially +1
+great +1
+fresh +1
+yummy +1
+weakness -1
+average -1
+NIL
+decent +1, good +1, friendly +1
+Best +1
+amazing +1
+small +1, best +1, New +1
+Small +1, clean +1
+might +1, otherwise +1
+excellent +1
+Best +1
+best +1
+Great +1, amazing +1
+incredible +1, last +1
+Fresh +1
+NIL
+want +1, real +1, hot +1
+NIL
+Delicious +1, creative +1, fun +1
+NIL
+special +1
+romantic +1
+cozy +1
+Most -1, like +1
+NIL
+only +1, daring +1, daring +1
+special +1
+NIL
+Fabulous +1
+NIL
+elegant +1, fabulous +1
+wonderful +1
+NIL
+top +1
+Thank +1
+NIL
+back +1
+unfriendly -1, filthy -1
+high +1
+NIL
+like +1
+better +1
+NIL
+disgusting -1
+NIL
+NIL
+Good +1
+NIL
+extensive +1, knowledgeable +1
+horrible -1, cold +1, free +1, disappointing -1
+main -1, wonderful +1
+filet +1
+good +1
+several +1
+prestige +1
+beautiful +1, hope +1, little -1
+short +1, great +1, romantic +1, cozy +1
+small +1, perfect +1
+extremely -1, fast +1, understood +1
+crazy -1
+NIL
+NIL
+NIL
+Will +1, great +1
+NIL
+NIL
+Noodle -1
+different +1, favorite +1
+understand +1, humor +1, refreshing +1, personality +1
+first +1, hope +1, half +1
+NIL
+like +1
+NIL
+amazing +1, fresh +1, best +1
+mean -1
+relish +1
+amazing +1, fun +1, hot +1, PLEASE +1, favor +1
+BEST +1
+last +1, true +1, other +1, New +1
+great +1
+great +1, lemon -1
+worth +1
+NIL
+worth +1
+Great +1
+NIL
+NIL
+great +1, nice +1, average -1
+NIL
+smilingly +1, free +1, last +1
+willing +1
+Yes +1
+like +1
+like +1
+prepared +1
+good +1, lack -1, intelligent +1
+late +1, Blue +1, pretty +1, good +1, dismal -1
+NIL
+recommend +1
+NIL
+NIL
+Great +1, great +1
+priced +1
+NIL
+great +1
+Awesome +1
+Inexpensive +1, great +1
+unbelievable -1
+NIL
+pleased +1
+Good +1, creative +1
+excellent +1, like +1
+great +1, awesome +1
+special +1, regular +1
+delicious +1, great +1, green +1
+delicious +1
+Amazing +1
+interior +1
+Great +1
+NIL
+pretty +1, nice +1, lacking -1, crazy -1
+good +1
+Despite -1, confusing -1, will +1
+NIL
+pretty +1, good +1
+fancy +1, good +1
+favorite +1, most -1, agree +1, spicy +1
+top +1, spicy +1
+back +1
+horrible -1
+disappointing -1
+NIL
+NIL
+stunned +1, disappointing -1
+NIL
+will +1
+Best +1
+MOST -1, wonderful +1, New +1
+most -1, tasty +1, most -1, delicious +1
+bad -1, bad -1
+NIL
+NIL
+great +1, great +1, great +1, great +1
+delicious +1
+true +1, love +1
+best +1
+NIL
+NIL
+NIL
+great +1, hot +1
+hot +1, plenty +1, outside +1
+great +1, late +1
+great +1
+Great +1
+little -1, good +1
+average -1
+only +1, pleasant +1
+great +1
+great +1
+amazing +1, phenomenal +1
+prepared +1, pretty +1, tiny +1
+NIL
+beautiful +1
+Best +1
+AMAZING +1, FAVORITE +1
+love +1
+NIL
+amazing +1, priced +1
+AMAZING +1, different +1, nice +1
+awesome +1, other +1, back +1
+NIL
+good +1
+GREAT +1
+recommended +1
+best +1, best +1
+great +1
+real +1
+Wish +1, kind +1, superb +1, top +1, worth +1
+NIL
+delicious +1, special +1
+NIL
+NIL
+good +1
+good +1
+argue -1, clearly +1, priced +1
+NIL
+Yes +1, beautiful +1, most -1
+NIL
+NIL
+NIL
+real +1
+NIL
+NIL
+NIL
+good +1, amazing +1
+excellent +1
+disaster -1
+good +1
+kind +1, impressive +1
+expensive -1, worth +1
+NIL
+New +1, will +1
+worth +1, sadly -1, best +1
+great +1
+will +1, rich +1
+will +1, worth +1
+Yes +1, good +1, better +1
+sadly -1
+NIL
+Terrible -1
+agree +1, like +1, other +1
+good +1
+bad -1
+back +1, other +1
+celebrate +1, special +1, different +1
+unpleasant -1
+unpleasant -1, unpleasant -1
+late +1, complain -1
+like +1
+excited +1
+beautiful +1
+pleasant +1
+horrible -1
+despite -1, only +1
+long -1, other +1
+better +1
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+only +1
+top +1, main -1, first +1, only +1, back +1, other +1, half +1
+good +1
+NIL
+NIL
+terribly -1
+wish +1
+NIL
+NIL
+NIL
+Wow +1, large +1, will +1, please +1
+first +1, little -1
+simple +1
+disappointment -1
+NIL
+fried +1, delicious +1, tiny +1
+special +1, pretty +1
+NIL
+little -1
+NIL
+like +1, okay +1
+convenient +1, might +1
+other +1
+NIL
+Thai +1, Fried +1, good +1
+happy +1, grilled -1, Mahi +1, Mahi +1
+excellent +1
+NIL
+good +1, little -1, expensive -1, fresh +1
+large +1
+back +1
+Great +1
+NIL
+amazing +1, love +1, best +1
+NIL
+NIL
+like +1, complimentary +1
+appreciate +1
+prepared +1, complimentary +1
+BEST +1
+RAVE +1
+NIL
+expensive -1, worth +1
+NIL
+only +1, great +1
+top +1
+Wretched -1
+will +1, only +1
+NIL
+disgusted -1
+NIL
+NIL
+mediocre -1, only +1, half +1, disgusting -1, clearly +1, bad -1
+complaints -1, lack -1, might +1, want +1
+main -1, sanity +1, lying -1
+NIL
+NIL
+aggressive -1, disgusted -1, back +1, only +1, most -1
+only +1, lover +1, half +1
+bad -1
+repulsive -1
+NIL
+Gorgeous +1, ideal +1, romantic +1
+NIL
+gorgeous +1
+spectacular +1, recommendations +1, amazing +1
+recommend +1, special +1
+NIL
+NIL
+NIL
+NIL
+average -1
+bad -1
+horrible -1
+worst -1
+like +1, fast +1, decent +1
+NIL
+real +1, lack -1
+good +1
+NIL
+perfect +1
+NIL
+mess -1
+NIL
+NIL
+Authentic +1
+NIL
+NIL
+NIL
+worth +1
+amazing +1
+phenomenal +1
+extremely -1, tasty +1
+love +1
+Love +1
+NIL
+great +1, good +1, nice +1, great +1, other +1
+like +1, better +1, good +1
+Most -1, Romantic +1
+undoubtedly +1, favorite +1, most -1, romantic +1
+only +1, hidden +1, will +1, like +1
+like +1, will +1, stars +1
+cute +1, little -1
+fixe +1, wonderful +1
+better +1
+delightful +1, amuse +1
+first +1, Green +1
+Grilled -1, Grilled -1, better +1
+NIL
+NIL
+interesting +1, extraordinary +1, green +1, phenomenal +1
+great +1, yes +1, super +1, reasonable +1, good +1
+memorable +1
+Terrible -1, compliment +1
+like +1
+NIL
+NIL
+tired -1
+extremely -1, rude -1, horrible -1
+NIL
+Great +1
+other +1, cold +1
+love +1
+only +1
+other +1
+better +1
+only +1, prefer +1
+fresh +1, great +1, free +1, good +1
+right +1, punch -1, like +1
+hot +1, good +1, yes +1, fantastic +1, perfect +1
+NIL
+Celebrated +1
+good +1
+good +1
+main -1, good +1
+NIL
+high +1, good +1, back +1
+NIL
+want +1
+weird -1, dizzy -1, delusional -1
+weird -1
+clearly +1
+comforting +1
+NIL
+Good +1
+NIL
+great +1, tasty +1, sitting +1, small +1, like +1
+nice +1, romantic +1
+recommend +1, sitting +1
+NIL
+NIL
+great +1
+excellent +1
+mean -1, especially +1, warm +1, attentive +1
+bad -1
+NIL
+back +1
+NIL
+NIL
+new +1, fascinating +1, flourishing +1, right +1
+ghastly -1, ashamed -1
+NIL
+scorn -1
+perfectly +1
+different +1, fun +1, delicious +1
+pretty +1, good +1, better +1
+nice +1, attractive +1, reasonable +1
+NIL
+NIL
+open +1
+honestly +1
+avid +1, new +1, recommended +1
+happy +1
+NIL
+good +1
+appalled -1
+extremely -1
+NIL
+bland -1
+okay +1
+NIL
+hidden +1
+better +1
+back +1
+wish +1
+back +1
+desert -1
+NIL
+bad -1, like +1
+NIL
+NIL
+preposterous -1
+want +1
+UNPLEASANT -1
+NIL
+NIL
+last +1, first +1, yes +1
+good +1
+NIL
+mean -1
+Worst -1
+cool +1, good +1, grilled -1, pretty +1, tasty +1
+Moving +1
+stars +1
+NIL
+different +1, new +1
+NIL
+live +1
+expensive -1
+most -1, prompt +1, pleasant +1
+NIL
+spectacular +1
+distraction -1, cold +1
+other +1
+Great +1, Hot +1
+live +1
+most -1
+hot +1, top +1, amazing +1
+worth +1, will +1, happy +1
+Only +1, complaint -1, reasonable +1
+great +1, great +1
+Fabulous +1
+live +1
+little -1, special +1, last +1
+fantastic +1, greet +1, hideous -1, exceptional +1
+NIL
+will +1
+NIL
+NIL
+only +1, last +1
+friendly +1, nasty -1, personal +1
+super +1
+will +1, better +1
+might +1, want +1, first +1
+NIL
+last +1
+incredibly +1, arrogant -1
+NIL
+bad -1
+smug -1, arrogant -1, condescending -1
+wise +1, disturb -1
+NIL
+Best +1, long -1
+superb +1
+Lamb +1, special +1, perfect +1
+good +1
+great +1
+great +1, better +1
+NIL
+recommend +1
+Hot +1
+first +1, hot +1, average -1, hot +1
+hot +1, real +1
+Great +1
+real +1, cold +1
+recommend +1
+Cool +1, back +1, cold +1
+NIL
+NIL
+awful -1
+NIL
+main -1, half +1
+NIL
+rude -1, extremely -1, poorly -1
+meager -1, half +1
+other +1, complaining -1
+expensive -1, disrespectful -1
+hassle -1
+good +1, outstanding +1
+accolades +1
+last +1
+Mistakes -1
+back +1, other +1, good +1, better +1
+Expensive -1
+great +1
+Wow +1
+stale -1, overpriced -1
+NIL
+expensive -1, prefer +1
+rude -1
+NIL
+above -1
+horrible -1
+right +1
+rude -1, want +1
+only +1
+like +1, insane -1
+NIL
+NIL
+NIL
+like +1, other +1, unfortunately -1
+Shame -1, horrible -1, rude -1
+bad -1
+like +1
+good +1
+good +1
+HORRID -1
+NIL
+NIL
+please +1
+half +1, peeve -1
+NIL
+NIL
+wish +1, like +1, wish +1

@@ -1,0 +1,800 @@
+top +1
+fastest +1
+fresh -1, hot +1
+OUTSTANDING +1
+best +1, New +1, fresh -1, very -1, clean +1
+NIL
+very -1, decent +1
+BEST +1, spicy +1, great +1
+NIL
+love +1, VERY -1, good -1
+NIL
+decent +1
+live +1, unforgettable +1
+horrible -1, so +1, rude -1, disinterested -1
+NIL
+small +1
+will +1, fresh -1, great +1, reasonable +1
+Great +1, dreadful -1
+out +1, mediocre -1
+like +1
+friendly +1
+will +1, back +1
+incredible +1, personal +1, favorite +1
+better -1, other +1
+secret +1, great +1
+extremely -1, tasty +1, presented +1, excellent +1
+LITTLE -1, LATE +1
+NIL
+BEST +1
+most -1, delicious +1
+recommend +1, superb +1, friendly +1
+craving +1, serious -1, desire +1, cozy +1, exquisite +1
+NIL
+great +1
+delightful +1, adorable +1, delectable +1
+will +1, very -1, happy +1
+good -1, nice +1
+pretentious -1, inappropriate -1, lunch +1
+NIL
+more -1, friendly +1
+NIL
+good -1
+want +1, good -1, tasting +1, wrong -1
+incredible +1
+very -1, attentive +1
+Overall -1, great +1, new +1, good -1
+NIL
+great +1, pleasant +1, tasty +1, large +1, recommend +1
+like +1
+good -1, recommend +1
+very -1, expensive -1
+NIL
+Good -1, right +1, more -1
+love +1
+New +1, want +1
+top +1, attentive +1, great +1
+NIL
+Great +1, great +1, great +1, best +1, GREAT +1
+most -1, favorite +1, inexpensive +1, very -1, good -1, special -1, excellent +1, great +1
+long -1, favorite +1
+whole +1
+worth +1
+interesting +1, priced +1
+delicious +1, clearly +1, fresh -1
+cooked -1, fresh -1, obviously -1
+excellent +1, great +1, inexpensive +1, out +1
+spicy +1, highlight +1
+best +1
+NIL
+utterly -1, disappointed -1
+Huge +1, great +1, attentive +1, pretty +1, good -1
+disappointed -1
+NIL
+great +1, better -1
+NIL
+NIL
+amazing +1
+recommendation +1, out +1
+glad +1, very -1, good -1, friendly +1, courteous +1
+delicious +1
+back +1
+large +1, noisy -1, fantastic +1, superb +1
+harsh -1
+NIL
+EXCELLENT +1
+NIL
+nice +1, long -1, crowded -1, devotion +1, great +1
+so +1
+relaxing -1
+NIL
+NIL
+less +1
+ambience +1, more -1, relaxed +1
+great +1, homemade +1
+best +1
+like +1, classic +1
+beautiful +1
+very -1, romantic +1
+wonderful +1, imaginative +1
+very -1, good -1
+worst -1
+stale -1, pretty +1
+sweet +1
+roasted +1, fine +1
+warm +1, comfortable +1, sexy +1
+great +1, big +1, reasonable +1, good -1
+NIL
+few -1, extra +1, cute +1, friendliness +1
+Most -1, priced +1
+excellent +1, great +1
+Only +1, overpriced -1, fell -1, short +1
+decent +1, great +1
+so +1
+like +1, perfect +1
+rave +1, hot +1
+hidden +1, delight +1, quaint +1, good -1
+most -1, average -1, good -1, best +1, so +1
+angry -1
+very -1, nice +1, welcome +1
+Yes +1, more -1, expensive -1, so +1
+terrible -1
+fresh -1, tasty +1, WORTH +1
+delicious +1, large +1
+else -1, high -1
+friendly +1, good -1
+friendly +1, shame -1, supportive +1
+NIL
+NIL
+excellent +1
+best +1
+amazing +1
+very -1, good -1, so +1
+real -1
+Smoked -1
+right +1
+done -1, very -1, tasty +1
+very -1, courteous +1, attentive +1
+NIL
+cooked -1, fine +1
+insanely -1, good -1
+great +1, good -1
+NIL
+small +1, crazy -1
+loud -1, inconsiderate -1
+lacking -1
+NIL
+great +1, nice +1, hot +1
+delicious +1
+especially +1, creme -1, brulee +1, good -1, enough -1, own +1, worth +1
+NIL
+delicious +1
+real -1, good -1
+want +1
+NIL
+delicious +1
+NIL
+only +1, little -1
+wonderful +1
+personal +1
+yummy +1
+BEST +1, Chinese +1
+happy +1
+attractive +1, little -1
+very -1, friendly +1
+very -1, friendly +1, out +1
+Great +1, great +1
+delicious +1, perfect +1
+wonderful +1, done -1, delicious +1
+Tiny -1, very -1, fast +1
+NIL
+free +1
+beautiful +1, perfect +1
+NIL
+best +1, New +1
+after +1
+very -1, comforting +1, better -1, average -1, out +1, extensive +1
+chinese +1, better -1
+only +1, whole +1
+soft +1
+excellent +1
+worst -1
+unbelievably -1, friendly +1, dream +1, good -1
+recommend +1, garlic +1
+Best +1
+NIL
+best +1
+welcome +1, better -1
+little -1, heavy +1
+excellent +1, informative +1
+great +1, comfortable +1
+dungeon -1
+fresh -1, yummy +1, pretty +1
+great +1, good -1, cooked -1, amazed +1
+fantastic +1
+liking +1
+Great +1, great +1, nice +1
+other +1
+SMALL +1, average -1
+favor +1
+first +1
+back +1, comfortable +1
+love +1
+NIL
+NIL
+only +1, worthy +1, so +1, Herald +1, out +1
+NIL
+nice +1, very -1, trendy +1
+hot +1
+great +1, cool +1, excellent +1, delicious +1
+divine +1
+bad -1, obnoxious -1, back +1
+NIL
+worth +1, especially +1
+lamb +1, perfectly +1, cooked -1, awesome +1
+especially +1, like +1, soft +1
+authentic +1
+NIL
+good -1, good -1
+nice +1
+extremely -1, friendly +1, pleasant +1
+done -1
+Italian +1, French +1
+After +1, so +1, great +1, celebrate +1, nite -1
+delicious +1, out +1
+so +1
+excellent +1, cute +1, extremely -1, lush +1
+traditional +1, simple +1, italian +1
+NIL
+good -1, excellent +1, same +1
+sashimi +1, little -1
+NIL
+better -1
+NIL
+NIL
+great +1, hot +1, wonderful +1, great +1, like +1, delicious +1
+live +1
+graceless -1, rude -1, waiting -1, out +1
+only +1, great +1, so +1, romantic +1, comfortable +1
+green +1
+worst -1, average -1
+lunch +1
+BEST +1, New +1
+several +1
+very -1, cheap -1
+fresh -1
+great +1, reasonable +1
+clean +1, like +1
+after +1
+NIL
+regular +1
+very -1, good -1, good -1
+kind +1, like +1
+terrible -1
+out +1, cold +1, very -1
+so +1, ridiculously -1, wonderful +1
+NIL
+terrible -1
+recommend +1
+horrible -1
+slow +1
+NIL
+very -1, good -1
+will +1, back +1
+very -1, nice +1
+black +1, shredded -1
+unattractive -1, want +1, overpriced -1, most -1, awful -1, like +1, might +1
+back +1
+best +1, Italian +1
+cozy +1
+great +1
+SEVERE -1
+few -1, out +1
+Horrible -1
+more -1
+delicious +1, recommended +1
+back +1
+NIL
+priced +1
+NIL
+NIL
+fantastic +1
+indulge -1
+So +1, healthy +1
+worse -1, prime +1
+several +1
+out +1
+very -1, fussy -1
+outstanding +1
+NIL
+NIL
+NIL
+pretty +1, good -1
+few -1, will +1
+few -1
+great +1
+recommend +1
+will +1, liking +1
+worst -1
+NIL
+nice +1, right +1
+great +1
+NIL
+out +1, after +1
+kind +1, gracious +1
+truly +1
+very -1, good -1, great +1
+Noodle -1
+like +1
+more -1, after +1
+miserable -1
+bad -1
+best +1, New +1
+very -1, friendly +1, will +1
+charming +1, interior +1, extremely -1, friendly +1, attentive +1
+creative +1
+new +1, will +1
+first +1, very -1, pleasant +1
+back +1, very -1, overall -1
+great +1, good -1, delicious +1
+wonderful +1
+personal +1, favorite +1
+nice +1, crispy -1
+best +1
+excellent +1, great +1
+so +1
+fantastic +1
+spinach +1, lamb +1
+great +1, very -1, cheap -1
+Unfortunately -1, lunch +1, done -1
+real -1, star +1
+skillfully +1, perfect +1
+wonderful +1
+so +1, happy +1, more -1
+back +1
+prime +1
+so +1, fresh -1, own +1, so +1, perfect +1
+NIL
+amazing +1, love +1
+solicitous +1, friendly +1, glad +1, wonderful +1, stunningly +1, creative +1
+love +1
+most -1
+NIL
+excellent +1
+cheap -1
+NIL
+better -1, overpriced -1
+NIL
+great +1
+great +1
+best +1, pretty +1, solid +1, worth +1
+so +1, good -1, so +1, waiting -1, nightmare -1
+best +1
+NIL
+very -1, old -1, charm +1
+real -1
+wonderful +1
+First +1, great +1, ambience +1
+NIL
+NIL
+mean -1
+very -1, plenty +1
+Like +1, favorite +1
+extremely -1, nice +1
+raw +1, cold +1
+good -1, more -1, want +1
+LIKE +1, PLEASED +1
+Average -1
+cute +1, simple +1
+wonderful +1
+PERFECT +1, WRONG -1
+NIL
+back +1, cooked -1
+great +1
+Half +1
+fast +1, friendly +1, great +1
+very -1
+garlic +1
+delicious +1, other +1, very -1, inexpensive +1
+after +1, few -1, bad -1, back +1
+fresh -1, crispy -1
+french +1, recommend +1
+NIL
+NIL
+worth +1
+favorite +1
+favorite +1
+priced +1, very -1, fresh -1
+NIL
+good -1, very -1, good -1
+real -1, treasure +1, mediocre -1, Italian +1
+prompt +1, right +1, very -1, friendly +1
+warmly +1, excellent +1
+better -1, very -1
+nice +1
+pretty +1, good -1
+rude -1
+will +1
+NIL
+very -1, friendly +1, rude -1, great +1
+recommend +1
+foie +1, sweet +1
+NIL
+YUMMY +1
+NIL
+nice +1, more -1
+shame -1, love +1
+very -1, quick -1, great +1
+average -1
+DISAPPOINTED -1
+VERY -1
+arrogant -1, high -1
+average -1, best +1
+prompt +1, friendly +1
+NIL
+hot +1
+very -1, cool +1
+good -1, done -1, justify +1
+casual +1
+will +1, disappointed -1
+Great +1, like +1
+After +1, great +1
+wary -1
+like +1
+good -1, less +1, expensive -1
+homemade +1, recommend +1
+NIL
+pleasant +1
+main -1
+hope +1, like +1
+disappointing -1, top +1
+only +1, amazing +1, homemade +1, out +1
+homemade +1, unbelievable -1, most -1, amazing +1
+priced +1, fresh -1
+fast +1, delicious +1
+NIL
+Best +1
+traditional +1, Italian +1, great +1, cheap -1, cozy +1
+iced +1, hot +1, white +1, extremely -1, happy +1
+late +1, lunch +1
+bad -1
+NIL
+recommend +1
+slow +1, small +1, so +1
+doubt -1, want +1, out +1, special -1, entertaining +1, out +1, will +1
+recommend +1, want +1, like +1
+pretty +1, cool +1, worth +1, hassle -1
+unfortunate -1
+best +1, New +1, great +1, tasty +1
+pretty +1, poor -1, average -1, outside +1, crazy -1
+GREAT +1, cheap -1, friendly +1
+few -1
+real -1, talent +1, real -1
+great +1, want +1, good -1, Curry +1
+stew -1, stew -1, good -1, refreshing +1, hot +1
+good -1, healthy +1, lunch +1
+bad -1, so +1, out +1
+Sorry -1
+NIL
+fresh -1
+first +1, done -1, back +1
+recommend +1, black +1, roasted +1, best +1
+so +1, annoyed -1, else -1
+dark -1, cooked -1
+recommend +1
+NIL
+good -1, like +1, good -1, same +1
+very -1, warm +1
+Common -1, so +1
+NIL
+outstanding +1
+cheap -1, SO +1, worth +1
+delicate +1
+delicious +1, great +1
+real -1
+NIL
+nice +1, open +1, especially +1
+Simple +1, healthy +1, cheap -1
+fantastic +1, same +1
+fair +1, good -1, quick -1, very -1
+adorable +1, delicious +1
+Garlic +1
+better -1, court +1
+extremely -1, friendly +1, outside +1
+Cool +1
+Sashimi +1, big +1, enough -1, most -1, like +1
+crusted +1, fresh -1, yummy +1
+lovely +1, dedicated +1, pleasant +1, prompt +1
+ultra +1, sweet +1, light +1
+expensive -1, harried -1
+empty +1
+extensive +1, priced +1
+want +1, fresh -1, tasty +1
+adorable +1
+Speedy +1, great +1, decent +1, friendly +1, enjoyable +1
+SUSPICIOUS -1
+ONLY +1, OPPORTUNITY +1, AUTHENTIC +1, ITALIAN +1
+worth +1
+simple +1
+Generously +1, grilled +1, most -1
+worst -1, new +1, so +1
+red -1, Great +1, soft +1, nice +1
+large +1
+twist -1
+lack -1
+love +1, Little -1, else -1, discourage -1, RUDE -1
+Unfortunately -1, live +1, convenient +1, more -1, like +1, hidden +1, treasure +1
+like +1
+simple +1
+live +1, first +1
+might +1, tiny -1, cozy +1, GREAT +1
+excellent +1, authentic +1, Italian +1, fresh -1
+hidden +1, waiting -1
+other +1, romantic +1, like +1, great +1
+only +1, better -1, like +1
+regular +1, right +1
+disappointing -1, only +1, new +1
+very -1, good -1, similar +1
+nasty -1, high -1, priced +1, cheap -1
+new +1, special -1, better -1, big +1
+Perfectly +1, generous +1
+understand +1, better -1, like +1, Chinese +1
+awful -1
+good -1
+lovely +1, friendly +1
+little -1, wonderfully +1, warm +1
+perfect +1, quick -1
+great +1
+great +1, whole +1, great +1
+Italian +1, authentic +1
+only +1, complaint -1, might +1, fortune +1, bad -1, luck +1
+Good -1, quick -1, lunch +1
+back +1
+dreadfully -1, slow +1, only +1, half +1, smile +1, nice +1
+excellent +1, braised +1, lamb +1, mashed +1
+lunch +1
+So +1, like +1
+fried +1, dumplings +1, fried +1
+will +1
+french +1, terrific +1
+complain -1, will +1
+wide +1
+lucky +1, back +1, out +1
+great +1, traditional +1
+Fresh -1, spinach +1, delicious +1
+Disappointingly -1, wonderful +1
+Short +1, Black +1
+back +1, only +1, exotic +1
+worth +1
+fuss -1, additional -1
+happy +1, so +1, cheap -1
+After +1, waiting -1
+mundane -1, mediocre -1, nice +1, above -1
+narrow -1, quick -1, tasty +1
+French +1
+crowded -1, back +1, so +1, nice +1
+great +1, affordable +1, fun +1, out +1, small +1
+jealous -1, entire +1, proper -1, top +1
+NIL
+good -1, WOW +1
+Overall -1, nice +1, few -1, out +1, excellent +1
+excellent +1, good -1
+annoyed -1
+gigantic +1
+traditional +1
+empty +1
+mediocre -1, kind +1, interior +1, small +1, average -1, unpleasantries -1, so +1, rude -1, out +1, hearty +1
+Good -1, great +1, good -1
+like +1, hot +1, available +1
+average -1
+fascinating +1, superb +1
+noodle -1, exceed +1, refreshing +1
+NIL
+Creative +1, like +1, passion +1, grilled +1, otherwise +1
+mahi +1, mahi +1, sweet +1, short +1
+cold +1, sesame +1, delectable +1
+fresh -1, great +1, so +1
+lone -1, heavy +1, Italian +1, like +1
+very -1, nice +1, amazing +1
+Best +1, Chinese +1, prompt +1, good -1
+Most -1, pretty +1, good -1
+very -1, rude -1
+worthwhile +1, awesome +1
+only +1, authentic +1, young +1
+good -1, nice +1, interesting +1
+great +1, love +1, dumplings +1, cold +1, sesame +1
+will +1, back +1
+Waiting -1
+fun +1
+very -1, solid +1, little -1
+superb +1, delightful +1, quiet +1, perfect +1, good -1
+fast +1
+love +1, love +1, wonderful +1, reasonable +1
+delicious +1
+great +1
+amazing +1
+great +1, fresh -1, huge +1
+strangest -1, fancy +1
+slow +1
+worth +1
+out +1, wrong -1, old -1, back +1
+terrible -1
+NIL
+halibut +1, generous +1, foie +1, only +1
+excellent +1, good -1
+amazing +1
+Big +1, french +1, like +1, available +1
+loud -1, intrusive -1
+basic +1
+so +1, better -1, comfortable +1, other +1
+lunch +1
+so +1, enough -1, great +1
+like +1, New +1
+NIL
+so +1
+NIL
+blue +1
+so +1
+opportunity +1, few -1
+luck +1, extraordinary +1, other +1
+NIL
+else -1
+seasonal +1, like +1, sweet +1, brulee +1
+simple +1, wild -1, beautifully +1, green +1
+small +1, fast +1, real -1
+very -1, casual +1, perfect +1, lunch +1, very -1, fast +1
+better -1
+so +1, Little -1, RUDE -1
+NIL
+NIL
+pretty +1, good -1
+bore -1
+NIL
+very -1, attentive +1
+Great +1
+remarkably +1, tasty +1, cozy +1
+NIL
+love +1, simplicity +1
+good -1, so +1
+very -1, average -1
+very -1, nice +1
+good -1, prompt +1, very -1, reasonable +1
+Wonderful +1, warm +1, great +1, back +1
+Great +1, good -1, excellent +1
+NIL
+excellent +1, main -1
+NIL
+great +1
+fried +1, better -1
+nice +1, little -1, dark -1
+good -1, overall -1
+outstanding +1
+very -1, large +1, fantastic +1
+NIL
+excellent +1, great +1, romantic +1, small +1, excellent +1
+slow +1, friendly +1
+heavenly +1, sweet +1
+charming +1, perfect +1, good -1
+warm +1, cozy +1
+BAD -1, BAD -1
+Best +1, hot +1
+NIL
+recommend +1
+special -1, celebration +1
+quiet +1
+very -1, attentive +1, very -1, generous +1
+great +1
+Lovely +1
+few -1
+very -1, good -1, terrible -1
+most -1, recommend +1
+only +1, best +1
+several +1, right +1
+NIL
+romantic +1
+best +1, New +1
+greatest +1, french +1
+hate -1
+curry +1
+GREAT +1, FRESH -1
+homemade +1
+beautiful +1, delicious +1, CHEAP -1
+other +1, affordable +1, yummy +1
+prix +1, fixe +1
+only +1, courteous +1, extremely -1
+want +1
+chic +1, warm +1, hospitable +1, outstanding +1
+Out +1
+great +1
+Great +1, grilled +1, french +1
+NIL
+so +1, fresh -1
+enough -1, will +1, big +1
+Despite -1, love +1
+NIL
+only +1, fresh -1, other +1, happy +1
+good -1
+After +1, so +1
+like +1, thin -1, big +1, favorite +1
+quiet +1, awful -1
+green +1, red -1
+like +1
+baked +1, out +1, cool +1
+bland -1, different -1
+Good -1, best +1, worth +1, outside +1, like +1, indifferent -1, overworked -1
+out +1
+homage +1, most -1, delectable +1, roti +1, fried +1, curry +1, sophisticated +1, fresh -1
+like +1, outside +1, minute -1, whole +1, other +1
+awesome +1
+thin -1
+small +1
+horrible -1, most -1, bad -1
+great +1
+Unfortunately -1
+little -1, great +1
+more -1
+like +1
+small +1, beautiful +1, ambience +1, excellent +1, delicious +1, attentive +1
+so +1
+live +1, out +1
+best +1, good -1, great +1
+NIL
+Young +1, chic +1, heavy +1, late +1
+NIL
+only +1, best +1, Thai +1, favorite +1
+extremely -1
+impressive +1, creative +1, modern +1, Foie +1, spicy +1, black +1, rack -1, lamb +1, black +1, truffle +1, few -1
+excellent +1, expensive -1, most -1
+good -1, Best +1
+outstanding +1, fresh -1
+wrong -1, good -1, fantastic +1
+best +1, hope +1
+best +1
+great +1
+New +1, great +1
+recommended +1, very -1, relaxing -1, nice +1
+fine +1, little -1, loud -1, nice +1, romantic +1
+filet +1, very -1, good -1, free +1, nice +1
+NIL
+quiet +1
+NIL
+lunch +1, great +1, little -1, awesome +1
+good -1, out +1, after +1, simple +1, classic +1, french +1
+Very -1, nice +1, very -1
+so +1, great +1, great +1, casual +1, worthwhile +1
+NIL
+extra +1
+good -1, great +1
+fried +1, correct +1, other +1, lamb +1, good -1
+best +1, cold +1, good -1
+Slow +1
+excellent +1, very -1, fresh -1, real -1
+bother -1, awful -1, worst -1
+little -1, plain -1, small +1, exciting +1
+outside +1, great +1
+small +1, outdoor +1, comfortable +1
+NIL
+cute +1, nice +1
+best +1, small +1
+NIL
+favorite +1
+After +1
+new +1, great +1
+gorgeous +1, long -1, perfect +1
+out +1
+complaints -1, nice +1
+memorable +1
+bland -1
+especially +1, above -1, out +1, prompt +1, friendly +1
+fresh -1
+NIL
+NIL
+dream +1
+several +1, bad -1
+great +1, nagging -1, excellent +1, so +1, very -1, good -1
+out +1
+NIL
+little -1, big +1, fresh -1, best +1
+OKAY +1, worth +1, only +1, good -1
+fresh -1, lacking -1, like +1, fresh -1
+new +1, few -1, creative +1, smart +1, enough -1, old -1, friendly +1, most -1, agree +1, favorite +1, sorry -1
+only +1, open +1, lunch +1, so +1, good -1
+like +1, will +1, love +1, limited -1
+black +1
+mediocre -1, exorbitant -1
+mediocre -1, severely -1, slow +1
+different -1, mediocre -1
+back +1, most -1
+first +1, back +1
+pretty +1, unbelievably -1, rude -1
+NIL
+crowded -1, recommended +1
+very -1, crowded -1, so +1, early +1
+Sweet +1, happy +1, smile +1
+sitting +1, interesting +1, out +1, quick -1
+good -1, want +1, drunk -1, lucky +1, so +1, bad -1
+fake -1
+pleasant +1, entertaining +1
+back +1
+nice +1, prefer +1
+eggplant +1, excellent +1, warm +1

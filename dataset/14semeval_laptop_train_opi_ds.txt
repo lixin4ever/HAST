@@ -1,0 +1,3045 @@
+good +1
+laptop -1
+my -1, "sales" -1, retail -1, my -1
+NIL
+other +1, large -1, little -1
+high +1, quality +1, extremely -1, very +1, good +1, easy +1, gorgeous +1
+Easy +1, other +1
+Sad -1, very +1, SAD -1
+my -1, like +1, more +1
+less +1, useless -1
+Great +1, laptop -1, great +1
+NIL
+freaking -1, after -1, light +1, steady -1, hard +1, light +1, steady -1
+pretty +1, little -1
+same +1, blue +1, required -1
+soft +1, will +1, very +1, clever +1
+multi-touch +1, large -1, external +1
+small -1, light +1
+HATE -1
+unconcerned +1, correctly +1, first -1
+extra -1
+NIL
+big +1, other +1
+love +1, entire -1
+incredible +1, more +1
+my -1, laptop -1, long -1
+laptop -1, great +1
+frustrating -1
+will +1
+bad -1
+backlit +1
+running +1, my -1, installed -1, my -1
+NIL
+bother -1, will +1, like +1
+pleasure +1, painless +1
+NIL
+added +1, my -1, my -1
+NIL
+slow -1
+After -1, several -1, frustrating -1, after -1
+luxury +1, sarcasm -1
+NIL
+will +1
+few -1
+worth +1, single +1
+upgrade +1, newer -1, same +1
+working -1, perfect +1
+past -1, virus -1
+love +1, operating +1, preloaded +1
+great +1, future +1
+NIL
+best +1, laptop -1, newer -1
+After -1
+WILL +1, ABLE +1
+future +1
+my -1, compact +1
+NIL
+correct -1
+NIL
+my -1
+broken +1, will +1
+portable +1
+recommend +1, my -1
+honestly +1, love +1, my -1
+pro +1
+loud -1, running +1
+my -1, old +1
+laptop -1, my -1
+hard +1, certain +1, able +1
+NIL
+my -1, laptop -1
+Technical -1
+my -1, laptop -1, my -1, first -1
+first -1
+NIL
+NIL
+NIL
+my -1, virus -1
+like +1, past -1, GREAT +1
+fast +1
+NIL
+happy +1, My -1, laptop -1
+LOVE +1
+Amazing +1, Quality +1
+NIL
+NIL
+freaking -1
+working -1
+after -1, working -1, new +1, running +1
+Best +1, new +1
+entire -1
+after -1, top +1
+NIL
+my -1, fell -1, love +1, Pro +1
+complain -1
+laptop -1, insane -1
+easy +1
+little -1
+incredibly +1, slow -1
+my -1, Pro +1, laptop -1
+operating +1, faster -1
+top +1, good +1, after -1
+swore -1
+elegant +1, wonderful +1
+my -1, Pro +1, honestly +1, love +1
+NIL
+extended +1
+NIL
+upgraded +1
+like +1
+NIL
+very +1, long -1, simple +1, like +1, my -1
+NIL
+Genius +1, my -1
+NIL
+Thank +1, great +1
+horrible -1, certain +1, like +1
+frustrated -1, poorly -1, designed -1, operating +1, very +1, intuitive +1
+Sorry -1
+NIL
+connect -1, high +1
+Overall -1, laptop -1, great +1
+love +1
+hard +1
+external +1, sound -1, good +1
+Pro +1, horrible -1
+best +1, laptop -1
+laptop -1, top +1, hardly -1
+better +1, very +1, happy +1, upgrade +1
+able +1, connect -1
+hope +1, true +1, worry -1
+forget -1, expensive -1
+recommend +1
+Good +1, luck +1
+easy +1
+My -1, favorite +1, most +1, expensive -1, my -1
+delete -1, key -1
+faster -1, annoying -1
+laptop -1
+top +1, genius +1
+perfect +1
+NIL
+cheap -1, AMAZING +1
+FREE +1
+NIL
+new +1, laptop -1
+my -1
+very +1, vital +1
+will +1
+like +1
+very +1, good +1
+useless -1
+Core -1, Processing +1
+NIL
+my -1
+love +1
+NIL
+after -1
+NIL
+NIL
+virus -1
+NIL
+hinge -1
+My -1
+Laptop -1, like +1
+NIL
+After -1, installed -1, new +1
+my -1, very +1, little -1, want +1, my -1, most +1
+slow -1, after -1
+NIL
+Yes +1, light +1, less +1, expensive -1, laptop -1, pretty +1
+enormous -1, very +1, badly -1, designed -1, most +1
+little -1, good +1, luck +1
+love +1
+very +1
+great +1, after -1
+great +1
+great +1, very +1
+NIL
+NIL
+my -1, slow -1
+my -1, happy +1
+disservice -1, insult -1, good +1, shoddy -1
+recommend +1, laptop -1
+NIL
+NIL
+cooling -1, after -1, general +1, past -1
+little -1, most +1, core -1
+kind +1
+longer +1
+After -1, very +1, knowledgeable +1, Pro +1, white +1
+want +1, bang-up +1
+inefficient -1, virus -1
+laptop -1, fast +1, will +1, online +1
+NIL
+my -1
+NIL
+like +1, like +1
+NIL
+special -1
+cool +1
+blue +1
+my -1
+weird -1, large -1, designed -1
+Pro +1, laptop -1, WORST -1
+several -1, my -1
+like +1
+recommend +1
+Yes +1, more +1, laptop -1, cool +1
+NIL
+pleased +1
+good +1
+pessimism -1
+Shiny +1, Laptop -1, Best +1, best +1
+white +1, dirty -1, mousepad -1
+after -1, few -1, will +1, less +1, less +1, more +1
+NIL
+NIL
+weird -1
+BEST +1, STARS +1, old +1, stars +1
+Good +1, laptop -1
+like +1, laptop -1, overall -1
+laptop -1, my -1
+pleased +1
+my -1
+complaints -1, desktop -1, desktop -1, hard +1
+Yes +1, more +1, more +1, quality +1
+comfortble +1, strange -1
+other +1
+more +1, expensive -1, most +1, worth +1
+NIL
+preloaded +1
+NIL
+NIL
+will +1
+laptop -1
+Will +1
+tired -1, working -1, after -1
+more +1
+wish +1, perfect +1
+My -1, favorite +1, connect -1
+might +1, excellent +1
+wish +1, backlit +1
+new +1
+great +1, little -1, laptop -1
+nicer +1, able +1, my -1
+wish +1, after -1
+online +1, very +1, responsive +1
+very +1, new +1, laptop -1, my -1, my -1, quicker +1
+virus -1, my -1, hard +1
+MORE +1
+working -1
+more +1
+like +1, after -1, love +1, single +1
+after -1
+Great +1
+recommend +1
+like +1
+NIL
+fast +1, laptop -1
+small -1
+NIL
+extremely -1, happy +1, my -1, portable +1
+terrific +1
+cooling -1
+my -1, built-in -1, built-in -1, my -1, my -1, able +1, my -1
+due -1, running +1
+might +1, new +1, lover +1, more +1, past -1, fast +1
+first -1
+high +1
+laptop -1
+MY -1
+bad -1, after -1, will +1
+laptop -1
+My -1, very +1, first -1, yes +1, slow -1, my -1
+love +1
+fancy +1
+other +1, insist +1, like +1
+NIL
+Very +1, fast +1
+several -1, great +1, free +1, iMovie +1
+NIL
+very +1, large -1, amazing +1
+After -1, little -1, more +1, my -1, Pro +1
+my -1, nasty -1
+NIL
+NIL
+wireless +1
+my -1
+small -1, especially +1, desktop -1, external +1
+Additional -1, liking +1
+NIL
+Best +1, plastic -1, broken +1
+easy +1
+incredibly +1, my -1, very +1
+NIL
+better +1
+After -1
+easiest +1, due -1
+want +1, internal -1, read/write -1
+awful -1
+able +1
+new +1
+unfortunately -1, wireless +1
+like +1, textured +1
+WILL +1, will +1, same +1
+nice +1
+my -1, very +1
+very +1, happy +1
+awesome +1, great +1, love +1
+High +1
+hard +1
+My -1
+sound -1, quality +1
+laugh -1
+my -1, very +1, pleased +1, desktop -1
+my -1, few -1, my -1
+able +1, better +1, other +1
+understand +1, due -1
+easy +1, lightweight -1
+online +1
+heavy -1
+after -1
+longer +1, other +1, several -1, older -1
+will +1, same +1, core -1
+laptop -1, great +1, sleek +1
+especially +1, like +1, chiclet +1
+Small -1, great +1
+my -1
+quality +1
+good +1, VERY +1, glossy +1
+gray +1, good +1
+NIL
+NIL
+VERY +1, disappointing -1
+love +1
+like +1
+my -1, first -1
+pride +1
+heavy -1
+recommend +1
+several -1
+protector +1, my -1, key -1, great +1
+magnetic +1, plug-in +1, great +1, excellent +1
+Best +1, virus -1
+NIL
+easy +1, fast +1, great +1
+laptop -1
+like +1, simple +1, easy +1
+grace +1, great +1, nice +1, more +1, justify +1
+my -1, Pro +1, virus -1, my -1
+right +1
+past -1, small -1
+better +1
+working -1, working -1
+good +1, quality +1
+other +1, most +1, useless -1
+short -1
+love +1, Pro +1
+NIL
+due -1, usual -1
+right +1
+NIL
+recommend +1
+NIL
+good +1
+hard +1
+right +1, my -1, my -1, running +1, right +1, my -1
+laptop -1, worst -1, Laptop -1
+bad -1
+laptop -1
+my -1, external +1, like +1
+certain +1
+Obviously -1, most +1
+inbuilt -1
+will +1, interesting +1, long -1
+my -1, desktop -1
+worry -1, antivirus -1, wonderful +1
+good +1, Laptop -1
+very +1, glad +1, great +1, low +1
+Obviously -1
+Worth +1, truly +1
+very +1, nicely +1, right +1
+NIL
+entire -1, my -1, my -1, few -1, operating +1
+video -1, quality +1, will +1, better +1
+upgrade +1, little -1, more +1
+hard +1, hassle -1, own -1
+whole -1, ridiculous -1, after -1, like +1, will +1, portable +1, cheaper +1, laptop -1
+designed -1
+cooling -1, needed +1, great +1
+my -1, love +1, short -1, easy +1, most +1, worry -1
+NIL
+my -1
+great +1
+My -1, wireless +1, online +1
+quality +1, great +1
+worst -1, laptop -1
+my -1, Pro +1, long -1
+general +1
+very +1, friendly +1, little -1, full +1
+handy +1, music-management +1
+my -1, want +1, fast +1
+more +1
+NIL
+NIL
+Great +1
+NIL
+NIL
+my -1, new +1, wonderful +1
+additional -1
+NIL
+great +1, long -1, very +1, happy +1
+graphic +1, my -1, Creative +1
+like +1, charm +1
+right +1
+complain -1, joy +1, understand +1
+NIL
+my -1
+NIL
+My -1, laugh -1
+NIL
+after -1
+NIL
+NIL
+same +1
+more +1
+first -1
+NIL
+Love +1
+Ultimate +1
+NIL
+great +1
+my -1, same +1, bad -1, video -1, unreliable -1, overall -1, will +1, my -1, laptop -1, best +1
+my -1, desktop -1
+awesome +1, assuring +1, perfect +1
+Laptop -1, new +1
+disappointed -1, light +1
+horrible -1
+perfectly +1
+Very +1
+favor +1
+laptop -1, very +1, easy +1
+Congratulations +1, big +1, my -1, laptop -1
+black -1
+recommend +1, laptop -1
+recommend +1, processing +1
+nice +1
+several -1, will +1
+longer +1, great +1
+love +1, new +1, more +1, higher-quality +1, faster -1, lasting -1, longer +1
+NIL
+NIL
+fast +1, like +1
+NIL
+my -1, complaint -1
+happy +1
+NIL
+fast +1
+smartest +1, my -1, my -1
+Like +1
+my -1
+due -1, poor -1, better +1, quality +1
+Honestly +1, wonderful +1
+yes +1
+wish +1
+very +1, unlucky -1
+my -1, light +1
+leading -1, sharp -1
+NIL
+NIL
+hater -1
+new +1
+same +1
+sound -1, loud -1
+NIL
+flawlessly +1
+unexpectedly -1
+Great +1, Laptop -1
+higher -1, worth +1
+Recommended +1, first -1, laptop -1
+NIL
+recommend +1, Desktop -1
+nice +1, twin +1, great +1
+chic +1, cool +1, after -1, terrible -1
+new +1
+laptop -1
+hate -1
+nightmare -1
+like +1, laptop -1
+needed +1, great +1, my -1
+NIL
+my -1
+very +1
+NIL
+laptop -1
+heavy -1, hard +1
+my -1, first -1, incredibly +1, happy +1
+NIL
+super +1, fast +1
+very +1, good +1
+will +1, amazing +1, electronic -1
+NIL
+good +1, working -1, able +1
+whole -1, horrible -1, better +1, laptop -1
+laptop -1
+very +1, pleased +1, my -1
+NIL
+super +1, fast +1, great +1
+very +1, few -1
+very +1, easy +1
+blame -1
+NIL
+Love +1
+NIL
+first -1
+short -1, best +1
+bad -1
+my -1, perfectly +1, light +1, enough +1, my -1
+nice +1, worry -1, extra -1, necessary +1, virus -1
+best +1, my -1
+after -1, working -1
+most +1
+broken +1
+laptop -1, laptop -1
+new +1, Core -1
+will +1, amazingly +1, slow -1
+shame -1, inept -1
+Other +1, complaint -1
+slow -1, after -1, extra -1
+enough +1, more +1
+little -1, worth +1, added +1
+after -1, after -1, old +1
+enough +1
+My -1, best +1, my -1
+my -1
+NIL
+professional -1, needed +1
+NIL
+NIL
+NIL
+will +1, whole -1, damn -1, new +1
+connect -1, external +1, firewire -1, useful +1
+own -1
+My -1, sound -1, certain +1
+overall -1, very +1, pleased +1, my -1, like +1, extra -1, love +1
+happy +1
+NIL
+Aspire +1, past -1
+NIL
+NIL
+less +1
+loud -1
+NIL
+top +1
+will +1, new +1, will +1
+NIL
+My -1, worth +1, after -1
+crazy -1, want +1
+online +1, tutorial +1, super +1, easy +1
+NIL
+great +1
+more +1, free +1
+very +1, easy +1, long -1
+perfect +1, laptop -1, desktop -1, my -1, laptop -1, simple +1
+NIL
+full +1
+worth +1, Very +1, good +1
+Professional -1
+needed +1
+Overall -1, very +1, nice +1
+want +1
+My -1
+upgraded +1, my -1, old +1, kind +1, able +1, awesome +1, new +1, multi-touch +1
+NIL
+little -1, clicking -1
+amazing +1
+NIL
+NIL
+love +1, light +1
+NIL
+NIL
+After -1, repairs -1
+hard +1
+LOVE +1
+NIL
+NIL
+Unfortunately -1
+first -1, hard +1
+fast +1, excellent +1
+NIL
+NIL
+happy +1
+my -1, first -1, laptop -1, desktop -1
+NIL
+NIL
+retail -1
+like +1, very +1, old +1
+NIL
+good +1, slow -1
+poorly -1, different -1, plastic -1
+NIL
+my -1, old +1, installed -1, first -1
+laptop -1, left -1, HORRIBLE -1, my -1
+bad -1, VERY +1, VERY +1, annoying -1
+more +1, like +1
+NIL
+After -1, gibberish -1
+my -1, laptop -1
+HORRIBLE -1
+top +1
+bad -1
+little -1, desktop -1
+NIL
+light +1
+good +1, my -1
+quality +1
+love +1, particular +1, will +1
+Sorry -1
+NIL
+pretty +1, good +1, working -1
+my -1
+truly +1, great +1, less +1
+worth +1, great +1
+laptop -1, love +1
+other +1
+my -1
+extended +1
+fast +1, great +1
+Lightweight -1, beautiful +1
+love +1, promise +1, regret -1
+needed +1, my -1
+like +1, might +1, laptop -1
+standard -1
+my -1
+NIL
+my -1, hard +1
+unhappy -1
+nice +1, twin +1, great +1
+Pro +1, portable +1, very +1
+extra -1, full +1
+Great +1, overall -1
+My -1, smart +1, faster -1
+sorry -1
+full +1
+laptop -1
+right +1, after -1
+After -1, past -1, Best +1, sleek +1, promise +1, less +1
+laptop -1, my -1, regular +1
+my -1
+perfect +1, exceed +1, limited -1
+NIL
+higher -1, burn -1, long -1, great +1
+recommend +1
+own -1, other +1, Pro +1, my -1
+several -1, photo +1, Photo +1, iMovie +1
+my -1, Laptop -1, first -1, Pro +1
+laptop -1, few -1, pretty +1
+love +1, my -1, laptop -1, very +1, long -1
+enough +1, stars +1
+great +1
+first -1, will +1, laptop -1, will +1, same +1, laptop -1, will +1, more +1
+NIL
+good +1, Fantastic +1
+NIL
+my -1, little -1
+burn -1
+my -1, my -1, my -1
+recommended +1
+extremely -1, friendly +1, intuitive +1
+good +1, awesome +1
+my -1
+very +1, large -1, very +1, light +1
+My -1, fast +1, horrible -1
+like +1, other +1
+will +1, after -1
+laptop -1
+NIL
+NIL
+switchable +1, graphic +1, pretty +1, want +1, laptop -1
+super +1, shiny +1
+due -1, carelessness -1, most +1, will +1
+NIL
+simple +1
+technical -1
+My -1, very +1, heavy -1
+NIL
+bad -1, enough +1
+more +1, my -1
+refuse -1
+big +1, mistake -1
+Best +1, great +1
+best +1, after -1
+My -1, old +1, my -1, will +1, will +1
+First -1, more +1
+GREAT +1
+amazed +1
+my -1, after -1, my -1, less +1, my -1, clean +1, my -1
+my -1, my -1, old +1, wireless +1, same +1
+cool +1
+top +1
+hard +1
+like +1, my -1, tired -1, old +1, laptop -1
+hard +1
+good +1, laptop -1
+NIL
+NIL
+will +1, grand +1, less +1, expensive -1, better +1, quality +1, my -1
+NIL
+NIL
+NIL
+NIL
+certain +1, crazy -1
+NIL
+plastic -1
+cheap -1, regret -1
+NIL
+understand +1, great +1, worth +1
+My -1, same +1
+kind +1
+Other +1
+will +1, invalidate -1, hard +1, understand +1
+very +1, pro +1, best +1, laptop -1
+NIL
+great +1, laptop -1, recommend +1
+Thank +1
+NIL
+great +1, light +1
+NIL
+virus -1, needed +1, installed -1
+hope +1, own -1
+wonderful +1, very +1
+awful -1
+Heck -1, enough +1
+like +1, online +1, wonderful +1
+amazingly +1, long -1
+My -1
+NIL
+right +1, after -1, my -1, high +1
+my -1
+very +1, friendly +1, hard +1
+lightweight -1, long -1, excellent +1
+laptop -1
+virus -1, very +1, short -1, good +1
+stronger +1, more +1, resilient +1
+first -1, amazed +1
+want +1, worry -1, bother -1
+NIL
+good +1
+new +1, new +1
+new +1, extra -1
+NIL
+NIL
+PORTABLE +1
+My -1, laptop -1
+perfect +1
+less +1
+downside -1
+key -1, little -1, little -1
+Hopefully +1, will +1
+my -1
+physical -1, abuse -1
+needed +1, laptop -1
+NIL
+NIL
+ergonomic -1
+like +1
+like +1, my -1, want +1, able +1, able +1
+online +1, same +1
+Wireless +1, like +1
+MY -1, PRO +1
+short -1
+quicker +1
+good +1
+built +1, special -1, video -1
+great +1
+right +1, laptop -1
+Long -1, short -1, my -1, laptop -1, new +1, laptop -1, laptop -1, my -1, laptop -1, big +1, after -1, complaints -1
+able +1
+own -1, more +1
+NIL
+able +1, laptop -1
+running +1
+very +1
+after -1, left -1, key -1
+NIL
+NIL
+NIL
+good +1, plenty +1, hard +1
+NIL
+Overall -1, great +1
+frustrated -1, first -1, few -1
+my -1, extended +1, extended +1
+responsive +1
+truly +1, Desktop -1
+NIL
+little -1, worth +1
+Very +1, long-life +1
+awesome +1, good +1
+black -1, very +1, nice +1, seamless +1, better +1
+my -1, friendly +1
+technical -1, might +1, bother -1
+awful -1, worth +1, cheap -1
+NIL
+Pro +1, great +1
+hard +1
+smart +1
+excited +1, more +1, same +1
+defective -1
+other +1, stars +1
+hope +1, Best +1, will +1
+heck -1
+my -1, basic +1
+NIL
+comfortable -1, happy +1, nice +1, white +1, Best +1
+NIL
+same +1, better +1, lower +1, easy +1
+Excellent +1, processing +1
+incredibly +1, dissatisfied -1, laptop -1, whole -1
+happy +1
+NIL
+good +1, my -1, my -1, amazing +1
+amazed +1
+NIL
+weird -1
+hardly -1
+pro +1, will +1
+awesome +1
+laptop -1
+few -1, great +1
+after -1
+slow -1
+pro +1, other +1, intrusive -1
+same +1
+Pro +1
+very +1, frustrating -1
+will +1
+NIL
+my -1, video -1, photo +1, Core -1, after -1, professional -1, laptop -1
+worth +1, damn -1
+first -1
+NIL
+NIL
+better +1
+MERCY +1
+built +1, very +1, useful +1, other +1
+big +1
+NIL
+after -1
+wireless +1
+NIL
+will +1, best +1
+very +1, poor -1, long -1
+Overall -1, very +1, easy +1, perfect +1, great +1, my -1
+my -1
+NIL
+best +1
+PLEASE +1
+Frustrated -1
+After -1, first -1, few -1
+My -1, hard +1, kind +1
+great +1, great +1
+same +1, right +1
+pro +1, different -1, full +1, most +1, free +1, future +1
+my -1, new +1, my -1, long -1, lasting -1
+NIL
+NIL
+my -1
+better +1, occasional -1
+multiple +1, separate +1, same +1, great +1, working -1, online +1
+NIL
+Obviously -1, new +1
+My -1, right +1, like +1
+after -1, black -1
+fun +1, WiFi -1, might +1
+super +1, fancy +1, super +1, expensive -1
+good +1
+NIL
+hope +1, laptop -1
+great +1, basic +1
+kind +1, quality +1, great +1, new +1, laptop -1
+wonderful +1
+laptop -1, good +1, fast +1
+NIL
+glad +1, great +1
+great +1
+like +1, better +1
+Great +1, wifi -1
+NIL
+few -1, after -1
+ideal +1
+like +1, past -1, great +1, laptop -1, little -1
+my -1
+operating +1, fault -1
+Great +1, fabulous +1, existing +1, thunderbolt +1
+my -1
+working -1, after -1
+my -1
+clean +1
+same +1
+NIL
+Great +1, laptop -1
+NIL
+working -1, same +1, same +1
+first -1
+top +1, key -1
+My -1
+more +1, please +1
+my -1, laptop -1
+NIL
+My -1, laptop -1, new +1
+NIL
+new +1
+After -1, bad -1
+after -1
+like +1, my -1, old +1, laptop -1
+laptop -1, very +1
+solid +1
+my -1, laptop -1
+laptop -1, most +1, amazing +1, little -1
+very +1, fast +1, iMovie +1, very +1
+first -1, complaints -1, my -1, laptop -1, same +1
+best +1
+my -1
+plenty +1, hard +1, great +1
+long -1, like +1, laptop -1, better +1
+abuse -1
+NIL
+my -1, Pro +1, fast +1, first -1
+few -1
+my -1, hinge -1
+My -1
+want +1, my -1
+old +1, recommend +1
+Amazing +1
+high +1
+great +1, very +1
+very +1
+NIL
+very +1
+easy +1
+different -1, needed +1
+Pro +1, flawlessly +1
+NIL
+My -1, higher -1
+Pro +1, few -1, other +1, same +1
+NIL
+love +1
+great +1, video -1
+great +1, great +1, bad -1
+NIL
+fun +1, easy +1, cool +1
+Yes +1
+shit -1
+NIL
+NIL
+extra -1, top +1
+pretty +1, fast +1
+happy +1, my -1, new +1
+Quality +1, love +1, will +1
+Despite -1, inconvenient -1
+My -1, faster -1
+single +1
+very +1, happy +1
+recommend +1
+like +1, very +1, lightweight -1
+First -1
+great +1, better +1
+working -1
+laptop -1
+extended +1, will +1
+NIL
+broken +1
+operating +1
+recommend +1
+most +1
+obviously -1
+video -1, professional -1
+desktop -1, laptop -1
+NIL
+NIL
+My -1, laptop -1, old +1
+hate -1
+own -1
+recommended +1, laptop -1, my -1
+very +1, my -1, new +1, online +1
+NIL
+laptop -1, fantastic +1
+lauded -1, combined -1, nightmare -1
+Unibody +1, solid +1, sleek +1, beautiful +1
+easy +1, fun +1, will +1, long -1
+WANT +1, MY -1
+my -1
+outstanding +1, great +1
+NIL
+NIL
+NIL
+plenty +1, will +1, upgrade +1
+NIL
+NIL
+extended +1
+old +1
+my -1, my -1
+very +1, unreliable -1, laptop -1
+TOP +1, LONG -1, WILL +1, MORE +1, LIKE +1
+laptop -1
+love +1, short -1
+very +1, pretty +1
+key -1, little -1, Pro +1
+reasonable +1
+NIL
+NIL
+more +1
+fantastic +1, laptop -1
+NIL
+more +1
+Best +1
+NIL
+first -1, laptop -1
+operating +1, solid +1, friendly +1
+faster -1, hard +1
+good +1, enough +1
+NIL
+NIL
+laptop -1, great +1, my -1
+full +1, new +1
+big +1, other +1
+love +1
+wireless +1
+love +1, big +1, enough +1, small -1, enough +1, portable +1
+willing +1
+Very +1, good +1, quality +1
+desktop -1
+new +1, useful +1, left -1
+NIL
+happy +1
+my -1, few -1, dedicated +1, video -1
+limited -1, amazing +1
+full +1
+cheaper +1, Pro +1, more +1, appealing +1
+new +1, laptop -1, external +1
+recommended +1
+nice +1
+super +1, easy +1, easy +1
+video -1, other +1
+worth +1
+good +1, laptop -1
+heck -1
+worst -1
+hard +1
+able +1, mean -1
+less +1
+will +1
+simple +1, great +1, fast +1
+NIL
+my -1
+My -1, laptop -1, will +1
+NIL
+online +1, want +1, my -1, first -1
+want +1
+laptop -1, hard +1
+NIL
+NIL
+single +1
+worst -1
+spinning -1
+very +1, easy +1, able +1, wireless +1
+my -1
+great +1
+great +1, laptop -1, great +1, fast +1
+NIL
+NIL
+will +1, will +1
+NIL
+will +1, awful -1
+My -1, pro +1
+big +1, mistake -1
+lack -1
+Small -1, enough +1, long -1, Light +1, enough +1, enough +1, my -1, desktop -1, long -1
+after -1, extended +1, due -1, sharp -1
+NIL
+great +1
+Other +1
+other +1
+NIL
+my -1, first -1, after -1
+very +1, built +1
+Might +1, avid +1, happy +1, designed -1
+recommend +1, laptop -1, great +1, laptop -1, like +1, enraged -1, laptop -1
+NIL
+running +1, antiquated -1, occasional -1, spinning -1, running +1, Excel +1
+seriously -1
+right +1
+After -1
+upgrade +1, possible -1, full +1, will +1, truly +1, very +1, happy +1
+love +1, my -1, Pro +1
+concerned -1, my -1, more +1, like +1
+big +1, big +1
+like +1
+NIL
+NIL
+NIL
+love +1
+slow -1, hope +1, rid -1
+my -1, pleasure +1
+fast +1, regular +1, better +1
+NIL
+easy +1, my -1, Pro +1, clean +1
+NIL
+worth +1
+celebrated +1, free +1
+NIL
+good +1
+terrific +1
+lackluster -1, want +1
+First -1, online +1, multiple +1
+hate -1, my -1
+NIL
+old +1, happy +1
+best +1, easy +1, convenient +1
+love +1, my -1, new +1, great +1
+small -1, heck -1
+same +1
+NIL
+My -1, laptop -1
+better +1, quality +1, standard -1
+NIL
+perfectly +1
+longer +1, lasting -1, More +1
+working -1
+NIL
+better +1
+awesome +1, quality +1, unprecedented -1
+my -1, old +1, long -1, possible -1
+cheaper +1
+same +1, starting-up +1
+hard +1
+very +1
+NIL
+real +1
+NIL
+very +1, lightweight -1, very +1, easy +1
+NIL
+my -1, like +1
+wonderful +1
+wifi -1
+best +1, free +1, certain +1
+after -1, new +1
+very +1, easy +1, pro +1
+like +1, better +1, my -1, big +1, Laptop -1
+NIL
+stars +1, STARS +1
+worlds -1, very +1, worst -1
+complaint -1
+able +1, my -1
+perfect +1, faster -1
+small -1, amazing +1, fast +1
+Heck -1, like +1, kind +1
+after -1, same +1, past -1
+happy +1, new +1, laptop -1, my -1, old +1, laptop -1
+sleek +1, laptop -1
+NIL
+like +1
+worse -1, nightmare -1
+will +1, new +1, laptop -1, more +1, after -1, like +1
+same +1, my -1
+necessary +1, able +1, added +1
+different -1, my -1
+very +1, laptop -1
+less +1
+other +1, poor -1, blue +1
+very +1, intuitive +1, want +1
+NIL
+sad -1, great +1
+extra -1, ridiculously -1, small -1
+Luckily +1, my -1, laptop -1, new +1
+freaking -1, regret -1
+NIL
+bad -1
+Good +1, long -1, largest +1, hard +1
+NIL
+NIL
+very +1
+My -1, bad -1, after -1
+will +1, cheap -1
+pretty +1, great +1
+slow -1, slow -1, slow -1
+doubt -1, disappointed -1
+extremely -1, pleased +1
+Pro +1, great +1, satisfaction +1, very +1
+Pro +1, extremely -1, light +1, heavy -1, Laptop -1
+great +1
+first -1
+great +1
+NIL
+better +1, my -1, virus -1, laptop -1, fast +1, first -1
+laptop -1, heartily +1, recommend +1, Pro +1
+installed -1, operating +1, incredibly +1, useful +1, great +1
+Overall -1, poor -1, quality +1, poor -1, great +1
+good +1, easy +1, first -1, laptop -1
+MY -1, KEY -1
+less +1
+want +1
+Stupidly -1, slow -1
+NIL
+best +1
+pretty +1, my -1, desktop -1, my -1
+my -1, whole -1
+great +1
+real +1
+first -1, great +1, high-end +1, low +1, low +1
+NIL
+NIL
+lowest +1, Pro +1, own -1
+Love +1, operating +1
+my -1, bad -1
+left -1, angrily -1
+my -1, proud +1
+laptop -1, past -1
+very +1, moderate +1, video -1, heavy -1, video -1
+my -1, working -1
+laptop -1, worst -1
+Very +1, annoying -1
+My -1, imovie +1
+faster -1, more +1
+laptop -1, will +1, fit +1
+better +1
+will +1, complain -1, my -1, Pro +1, worth +1
+big +1, very +1, designed -1
+little -1, worry -1, other +1
+pro +1
+stupid -1
+like +1, more +1, trendy +1, high +1
+great +1, secondary -1, more +1
+glossy +1, bad -1
+NIL
+great +1, Hardly -1, my -1
+my -1, small -1
+NIL
+NIL
+my -1, old +1
+NIL
+upgraded +1, old +1, laptop -1, amazed +1, my -1, old +1, laptop -1
+Best +1, might +1, best +1, less +1
+Love +1, especially +1
+perfect +1, laptop -1, faster -1
+able +1
+more +1, like +1
+NIL
+outstanding +1
+multiple +1
+Awesome +1, laptop -1, perfect +1
+disappointed -1, my -1
+NIL
+new +1
+My -1, real +1, mere -1, exaggeration -1
+NIL
+good +1
+first -1, laptop -1
+NIL
+extended +1, will +1
+first -1
+laptop -1
+very +1, easy +1, very +1, wonder +1, very +1, easy +1, like +1, advanced -1, various +1
+stupid -1, best +1
+laptop -1, entire -1
+NIL
+more +1
+NIL
+slow -1, very +1, frustrating -1, VERY +1, DISAPPOINTING -1
+laptop -1
+My -1, Pro +1, disappointment -1
+good +1
+first -1, after -1
+good +1
+large -1, working -1, like +1, Creative +1
+pro +1
+Moral +1
+my -1, first -1, lacking -1, working -1
+NIL
+Very +1, small -1, portable +1, better +1
+big +1
+NIL
+After -1, laptop -1
+NIL
+broken +1
+want +1, more +1, more +1
+dumb -1, wireless +1
+bad -1, after -1
+NIL
+Great +1, new +1, great +1
+love +1
+good +1, very +1, good +1
+Overall -1, very +1
+my -1, easy +1
+my -1, first -1
+great +1
+laptop -1, my -1
+NIL
+hate -1
+NIL
+NIL
+will +1
+will +1, regret -1, great +1, like +1
+NIL
+stylish +1
+my -1
+NIL
+Best +1
+worth +1, tired -1, want +1
+My -1, Pro +1
+long -1
+NIL
+wish +1, Pro +1, better +1
+will +1, love +1, my -1, Pro +1
+NIL
+first -1
+easy +1, great +1, laptop -1
+my -1
+Enough +1
+own -1, like +1, pixel -1
+kind +1, pre -1, installed -1
+laptop -1, laptop -1, bad -1
+NIL
+laptop -1, perfect +1
+like +1, very +1
+NIL
+excellent +1
+Other +1, great +1, my -1, more +1
+occasional -1, most +1
+usual -1
+NIL
+great +1, like +1, love +1, imovie +1
+my -1, like +1, broken +1
+enough +1, good +1
+light +1, easy +1
+good +1
+great +1
+tired -1, my -1, laptop -1, few -1
+very +1, cheap -1, very +1, portable +1, best +1, more +1
+hard +1
+stupid -1
+laptop -1
+like +1, worse -1, my -1
+like +1
+simple +1
+hope +1, my -1
+new +1, different -1
+like +1, needed +1, professional -1, my -1
+hard +1
+yes +1, less +1, higher -1
+other +1, retail -1, LIKE +1
+invalidate -1
+downfall -1
+Clearly +1
+Very +1, fast +1
+Right +1, little -1, video -1, my -1, complaint -1
+very +1, happy +1, laptop -1
+laptop -1, easy +1
+laptop -1, right +1
+mistake -1
+recommend +1, more +1, wireless +1
+online +1, sound -1
+My -1, like +1, charm +1
+NIL
+other +1, little -1
+NIL
+NIL
+WILL +1
+NIL
+hateful -1, own -1, free +1, will +1
+due -1, very +1, large -1
+greatest +1
+understand +1, internal -1
+NIL
+my -1
+laptop -1, plastic -1
+Wonderful +1, sleek +1
+NIL
+like +1
+very +1
+good +1
+my -1, wireless +1, built-in -1, wireless +1
+NIL
+exceptionally +1, processing +1
+will +1, future +1
+NIL
+long -1, laptop -1
+virus -1, black -1
+NIL
+more +1
+like +1
+several -1, installed -1
+NIL
+will +1
+Excellent +1
+bad -1, lower +1, Pro +1, running +1, other +1
+NIL
+vivid +1, very +1, easy +1, very +1
+faster -1, more +1
+want +1, my -1, laptop -1
+want +1
+understand +1, laptop -1, desktop -1, my -1, top +1
+NIL
+same +1
+Despite -1, trickery -1
+my -1, working -1, perfectly +1
+amazing +1
+first -1
+small -1, enough +1, very +1, portable +1
+NIL
+downfall -1, worth +1
+great +1
+my -1, burn -1, my -1, like +1, like +1
+like +1
+like +1
+mousepad -1
+hope +1, few -1, my -1, own -1
+NIL
+extended +1, laptop -1, more +1
+love +1, slow -1, other +1
+want +1, like +1, my -1
+NIL
+my -1, laptop -1, running +1, like +1, more +1
+slow -1
+craziness -1
+easy +1
+love +1, laptop -1
+able +1
+will +1
+great +1, little -1
+patiently +1
+laptop -1
+excellent +1, my -1, very +1
+right +1, key -1
+hard +1, enough +1
+first -1, full +1, full +1
+cordless +1
+heavy -1, attractive +1
+sleek +1, lightweight -1
+love +1, happy +1, amazing +1
+different -1, correct -1
+little -1
+NIL
+first -1, after -1
+Laptop -1, worst -1, laptop -1
+NIL
+nice +1
+online +1
+NIL
+NIL
+laptop -1, worth +1
+NIL
+white +1, stylish +1, easy +1
+laptop -1, obvious -1, physical -1, working -1
+my -1, my -1, full +1, my -1
+different -1, my -1, new +1
+Pretty +1, disappointed -1
+working -1, after -1, first -1
+able +1, my -1, Online +1, very +1, inconvenient -1
+other +1, laptop -1
+good +1, after -1
+NIL
+want +1, good +1, want +1, low +1, other +1, great +1, Best +1
+star +1
+my -1
+beautiful +1
+LAPTOP -1, DISAPPOINTED -1, LAPTOP -1
+recovey -1, first -1
+Most +1
+NIL
+same +1, more +1
+photo +1, my -1, my -1, my -1, perfect +1, better +1
+my -1, ideal +1, yes +1
+best +1, high +1, quality +1
+NIL
+frozen -1
+long -1
+like +1
+NIL
+my -1, top +1, first -1
+my -1, first -1
+short -1
+Horrible -1
+backlit +1, my -1, more +1
+very +1, very +1, slow -1, laptop -1
+NIL
+NIL
+great +1, good +1
+my -1, Best +1, new +1, laptop -1
+NIL
+bad -1, laptop -1, slow -1
+Honestly +1, more +1
+NIL
+generous +1, slow -1
+downside -1, pretty +1, same +1, entire -1
+great +1
+recommend +1
+connect -1, quality +1, worse -1, worse -1
+big +1
+headphone -1, hard +1, headphone -1, laptop -1, designed -1, right +1
+special -1, great +1, laptop -1
+outstanding +1
+NIL
+NIL
+like +1, laptop -1, additional -1
+new +1, laptop -1
+broken +1
+like +1
+NIL
+love +1
+fast +1
+great +1
+serious -1, laptop -1, serious -1
+wonder +1, like +1, new +1, might +1
+laptop -1, Black -1
+my -1, hard +1, my -1
+fell -1, love +1
+after -1, worry -1
+complain -1
+new +1, new +1, more +1, easy +1
+NIL
+best +1
+darker +1, darker +1, darker +1
+SLOW -1, SLOW -1
+black -1
+graphic +1, love +1, graphic +1
+My -1, different -1
+like +1
+ideal +1
+extremely -1, slow -1, first -1
+Pro +1, very +1
+my -1
+LAPTOP -1
+NIL
+faulty -1, new +1, other +1
+swear -1, after -1, new +1
+Great +1
+fast +1, easy +1, easy +1, easy +1, easy +1, my -1, wireless +1
+pro +1, mistaken -1
+NIL
+same +1
+new +1
+love +1, my -1, very +1, poor -1
+perfect +1
+easy +1
+more +1
+like +1, mad -1, my -1, more +1
+first -1, fell -1, right +1, after -1
+my -1, laptop -1, better +1, my -1
+my -1
+recommend +1
+pro +1, upgrade +1, my -1, pro +1
+love +1
+after -1, key -1, after -1, clicking -1, old +1, good +1
+wonderful +1
+various +1, hard +1, after -1
+after -1, complaint -1
+my -1, will +1, will +1, less +1
+NIL
+long -1, upgrade +1
+other +1, standard -1
+best +1
+LOVE +1
+past -1, quality +1
+very +1
+happy +1
+numeric -1
+poor -1, quality +1
+laptop -1, full +1
+my -1
+wish +1
+long -1, required -1
+after -1
+good +1, online +1
+laptop -1
+after -1
+NIL
+love +1, top +1, wish +1, black -1
+amazing +1
+irritating -1
+better +1
+own -1
+plenty +1, able +1, other +1
+amazing +1, outstanding +1
+NIL
+nightmare -1
+good +1
+NIL
+beautifully +1
+NIL
+laptop -1
+good +1
+hinge -1, various +1, left -1, right +1
+best +1
+amazing +1, small -1, light +1, after -1, after -1, new +1, blue +1
+cheap -1, will +1, whole -1, better +1
+after -1
+laptop -1, Slow -1, hate -1
+first -1, laptop -1, several -1, my -1
+want +1, top +1, light +1
+large -1
+complaint -1
+pretty +1, fault -1, want +1, desktop -1
+Best +1
+dislike -1, quality +1
+great +1
+my -1, my -1, right +1
+good +1
+laptop -1, new +1
+Enough +1
+working -1, bad -1
+recommend +1, laptop -1, worth +1
+little -1, my -1
+My -1
+working -1
+unibody +1, edgy -1
+less +1, after -1, my -1
+NIL
+great +1
+own -1, laptop -1
+less +1
+less +1
+very +1, long -1
+Good +1, luck +1
+like +1, frustrated -1, old +1
+Very +1, disappointed -1
+NIL
+extra -1, more +1
+my -1
+my -1, laptop -1, same +1
+Strong +1, fun +1, strong +1, very +1, strong +1, very +1
+NIL
+honor +1, fell -1
+pretty +1, sad -1
+More +1, bad -1
+NIL
+want +1
+favor +1, few -1, external +1, laptop -1
+sound -1, enthusiastic +1
+will +1, love +1
+laptop -1, star +1, love +1
+NIL
+understand +1
+Best +1
+NIL
+most +1, pretty +1, simplicity +1
+my -1, PRO +1, better +1
+My -1, better +1
+NIL
+wonderful +1
+NIL
+less +1
+scary -1
+Best +1, existing +1, old +1
+nice +1, easy +1
+pro +1, great +1, outstanding +1
+very +1, running +1
+will +1, longer +1
+NIL
+worse -1
+NIL
+horrible -1, despite -1, advanced -1
+Ultimate +1
+lower +1
+beautiful +1, better +1
+After -1, my -1, vain -1
+great +1
+easy +1, easy +1
+want +1, few -1, few -1
+most +1, wonderful +1, entire -1
+darn -1
+more +1, cool +1
+NIL
+excellent +1, proprietary -1, video -1, regular +1
+NIL
+my -1, new +1, Pro +1
+overall -1, want +1, burn -1, video -1
+after -1, old +1
+complaints -1
+worth +1
+VERY +1
+top +1, laptop -1
+own -1
+Pro +1
+clean +1, delete -1
+faster -1, more +1, hard +1, my -1, old +1, better +1, quality +1, nicer +1, other +1
+downfall -1
+stellar +1, very +1, vivid +1
+short -1, lack -1, great +1
+enthusiast +1, shunned -1
+NIL
+will +1, most +1, same +1
+NIL
+my -1, my -1
+right +1
+past -1, few -1, terrible -1
+Overall -1
+clean +1, sharp -1, seamless +1
+newer -1, black -1, little -1, gray +1, great +1
+quality +1, worst -1
+very +1, Happy +1
+laptop -1, useless -1
+new +1, might +1, pre -1, installed -1
+NIL
+NIL
+flawlessly +1
+my -1, demand +1, new +1, fun +1
+laptop -1, worth +1, long -1
+first -1
+laptop -1, might +1, pretty +1
+NIL
+NIL
+recommended +1
+awesome +1, cooling -1, better +1, backlit +1
+NIL
+after -1, overall -1, poor -1
+Will +1, my -1, happy +1
+good +1, built +1, right +1
+cool +1, my -1, my -1, my -1, pretty +1, good +1, my -1
+NIL
+my -1, first -1
+very +1, responsive +1
+will +1
+best +1, laptop -1
+NIL
+newer -1, best +1
+excellent +1
+better +1
+same +1
+NIL
+easy +1, more +1, my -1, new +1
+interesting +1, my -1, first -1, my -1
+might +1, my -1, hard +1
+NIL
+several -1, different -1, awesome +1
+after -1, right +1, first -1, correct -1
+First -1, processing +1, perfectly +1
+regular +1, desktop -1
+my -1, slow -1
+bother -1
+laptop -1
+laptop -1, standard -1
+okay +1, blue +1
+NIL
+longer +1
+NIL
+NIL
+easy +1
+laptop -1
+my -1, my -1
+Love +1, awesome +1, cool +1
+extra -1, beautiful +1, responsive +1, backlit +1, fun +1, multi-touch +1, worth +1, extra -1
+NIL
+My -1, kind +1
+simple +1, chaotic -1
+complaint -1
+especially +1, after -1, long -1, worth +1
+working -1
+after -1, love +1
+processing +1
+After -1, able +1
+Overall -1, my -1, pretty +1, fast +1, my -1, old +1
+correct -1, my -1
+built +1, great +1, my -1
+Good +1
+NIL
+NIL
+my -1, my -1
+easy +1
+little -1, like +1, newer -1
+connect -1
+NIL
+easiest +1
+will +1, few -1
+NIL
+my -1
+after -1, hell -1
+new +1
+video -1, great +1, first -1
+NIL
+my -1, my -1, fault -1, my -1, new +1
+my -1
+blue +1, first -1
+Pro +1
+more +1, enjoyable +1
+NIL
+thermal -1
+Despite -1, apologists -1, vice -1, different -1
+several -1
+facial -1
+online +1
+FREE +1
+full +1, full +1, easy +1, laptop -1
+my -1, my -1, great +1
+other +1
+online +1, my -1, best +1
+awesome +1
+very +1, long -1
+NIL
+Love +1, my -1, new +1
+Okay +1
+NIL
+new +1, frustration -1
+love +1
+NIL
+horrible -1
+LEFT -1
+joke +1
+hardly -1, hard +1
+sound -1
+first -1
+most +1, laptop -1, right +1, laptop -1
+laptop -1, pretty +1
+honestly +1, afraid -1, will +1, burn -1
+NIL
+blue +1
+will +1, new +1
+same +1
+wonderfully +1
+AMAZING +1
+NIL
+laptop -1, Best +1, great +1
+my -1, Pro +1, worrying -1, few -1
+love +1
+NIL
+good +1, very +1, easy +1
+okay +1
+after -1, laptop -1, after -1
+useless -1, joy +1, anger -1, little -1
+great +1, will +1
+dedicated +1, favorite +1, video -1, perfect +1, other +1
+bad -1, swore -1, failing -1
+After -1, hard +1, working -1, frustrating -1
+worth +1, my -1, want +1
+Pro +1, easy +1
+love +1, easy +1
+processing +1, want +1
+good +1, complaints -1
+able +1, needed +1, more +1, needed +1, very +1
+worst -1
+sorry -1, laptop -1
+Awesome +1
+perfect +1
+pro +1, great +1, wish +1, more +1, comfortable -1, my -1
+very +1, useful +1
+best +1
+My -1, best +1
+sound -1, quality +1
+my -1, laptop -1, extended +1
+needed +1, new +1, laptop -1, my -1, recommended +1
+slow -1, due -1, older -1, operating +1
+NIL
+very +1, possible -1, sound -1
+nice +1, my -1
+very +1, heavy -1
+disappointed -1
+little -1, better +1
+very +1, loud -1
+LOVE +1, LAPTOP -1, WONDERFUL +1
+same +1, my -1
+black -1
+NIL
+key -1
+my -1
+few -1, annoy -1, hell -1
+better +1
+my -1
+my -1, laptop -1
+extra -1, able +1
+My -1, first -1, pre-loaded -1
+connect -1
+my -1, old +1, hard +1
+NIL
+past -1, initial -1, worth +1, Best +1
+most +1, great +1, hate -1
+complain -1, compact +1, want +1, other +1, laptop -1
+love +1, multi-touch +1
+NIL
+love +1, my -1
+will +1, love +1
+more +1, extended +1, more +1, new +1
+connect -1, my -1, Wifi -1
+NIL
+NIL
+easy +1, good +1, quality +1, good +1
+overall -1, worth +1
+extremely -1, pleasing +1, like +1
+extended +1
+little -1, slow -1, more +1
+portable +1, might +1
+few -1, Pro +1
+hard +1, new +1
+enough +1
+love +1, will +1, Laptop -1
+easy +1
+NIL
+OTHER +1, GREAT +1, LITTLE -1, WONDER +1
+NIL
+After -1, complaints -1, right +1, my -1
+NIL
+extra -1, worth +1, my -1, extended +1
+My -1, Pro +1, like +1, dream +1
+NIL
+disappointed -1
+attest +1, perfect +1
+after -1
+Easy +1
+light +1, bad -1, my -1
+simple +1, easy +1, old +1
+good +1, new +1
+online +1
+NIL
+my -1, entire -1, Devoted +1
+my -1, laptop -1, after -1, first -1, okay +1, little -1, failing -1
+Love +1, like +1, regular +1
+after -1
+less +1, big +1, worry -1
+very +1, excited +1, my -1, first -1, my -1, OWN -1
+NIL
+genius +1
+after -1, wonderful +1
+Basic +1
+fell -1, love +1, my -1
+NIL
+recommend +1, other +1, laptop -1
+NIL
+long -1
+key -1
+NIL
+dedicated +1
+operating +1, small -1
+more +1
+first -1, Blue +1
+Wireless +1
+agree +1, HORRIBLE -1, MY -1
+NIL
+NIL
+left -1
+Best +1, seriously -1, insane -1
+different -1, luck +1
+recommend +1, perfect +1, laptop -1, amazing +1
+built +1, great +1, my -1
+my -1, my -1
+NIL
+WANT +1
+seriously -1, different -1
+able +1, fit +1, full +1
+recommend +1
+NIL
+defective -1
+old +1
+True +1, quality +1, great +1
+easy +1
+standard -1, running +1, enough +1
+terrible -1
+NIL
+Pro +1, nicer +1, Like +1, better +1, past -1
+NIL
+After -1, lowest +1
+photo +1
+operating +1, very +1, intuitive +1, large -1, multi-touch +1, amazing +1
+NIL
+like +1, my -1
+NIL
+great +1, recommend +1
+Hard +1, new +1, more +1, hard +1, internal -1, hard +1
+laptop -1, wish +1
+extremely -1, portable +1, WIFI -1
+additional -1, right +1
+First -1, first -1, pro +1
+amazing +1, high +1, quality +1
+Fast +1, fast +1, fast +1
+after -1, plenty +1
+my -1, laptop -1, long -1, perfect +1
+NIL
+better +1
+like +1
+lighted +1
+recommend +1, new +1, laptop -1
+NIL
+good +1, laptop -1
+will +1, longer +1
+NIL
+laptop -1, blue +1, working -1
+same +1
+NIL
+NIL
+virus -1
+good +1
+NIL
+broken +1, new +1
+hard +1, upgraded +1, external +1, hard +1
+wireless +1, low +1, quality +1
+little -1
+different -1, operating +1
+same +1
+hard +1, my -1
+new +1, laptop -1
+NIL
+concerned -1, very +1, large -1, laptop -1, hard +1
+frustrating -1, very +1, less +1, satisfactory +1
+best +1, like +1
+NIL
+sound -1, very +1, loud -1
+NIL
+my -1
+my -1, big +1, old +1
+wonderful +1, little -1, new +1, will +1, fast +1, worth +1
+love +1
+NIL
+fun +1, especially +1, working -1
+NIL
+NIL
+worry -1, like +1
+great +1, want +1
+faulty -1
+love +1, small -1, convenient +1, my -1, laptop -1, perfect +1, my -1
+good +1
+love +1, solid +1, light +1, excellent +1
+NIL
+hope +1, quality +1
+more +1
+my -1, my -1
+will +1, different -1
+glad +1, laptop -1, worth +1, few -1, extra -1
+whole -1, fun +1, laptop -1, fun +1, cool +1
+full +1
+recommend +1
+NIL
+hard +1
+old +1, great +1
+built +1, very +1, fast +1
+Sound -1, limited -1
+my -1, Pro +1
+nicely +1, laptop -1, processing +1, long -1
+After -1, able +1, repairs -1
+unhappy -1
+pro +1, professional -1
+designed -1
+NIL
+recommend +1, solid +1
+okay +1, desktop -1, terrible -1
+awesome +1
+After -1, my -1, good +1
+little -1, different -1, big +1, full +1, separate +1
+several -1
+laptop -1, merely -1, after -1
+Perfect +1
+like +1, other +1, laptop -1
+monstrosity -1, Laptop -1
+very +1
+hard +1
+NIL
+NIL
+will +1
+good +1, new +1
+NIL
+full +1, portable +1
+like +1, best +1, laptop -1
+glad +1, great +1
+new +1
+old +1, enough +1
+easy +1, Operating +1
+recommend +1
+worst -1
+NIL
+my -1, nice +1, desktop -1
+great +1
+my -1, first -1, very +1, good +1
+after -1, more +1, my -1
+my -1, good +1
+good +1
+NIL
+NIL
+FRUSTRATED -1
+unconcerned +1
+bad -1, proactive +1
+blue +1, black -1, other +1
+NIL
+little -1, extra -1, better +1, laptop -1
+NIL
+new +1
+laptop -1, very +1
+NIL
+my -1, online +1, hard +1
+my -1, laptop -1
+perfect +1
+super +1, easy +1
+my -1, hard +1
+love +1, my -1
+video -1, certain +1, portable +1, recommend +1
+Pro +1, my -1, free +1, best +1, great +1
+top +1
+NIL
+sheer -1, Pro +1
+LOVE +1, LOVE +1, LOVE +1
+lacking -1
+useless -1
+mistake -1, my -1, lively +1
+Best +1, fault -1
+long -1
+Most +1, my -1
+my -1, Pro +1, love +1
+lasting -1, funny +1
+NIL
+great +1, right +1, other +1
+recommended +1, laptop -1
+will +1
+correctly +1
+recommendation +1
+NEW +1, repairs -1
+friendly +1, sound -1, quality +1
+cheaper +1, cheap -1
+worrying -1
+hard +1, hard +1
+same +1
+Thank +1, Best +1, my -1, my -1, first -1, GREAT +1
+able +1, set-up -1, few -1
+my -1
+sensitivity +1, responsive +1
+After -1, my -1, free +1, due -1, my -1, particular +1
+short -1, my -1, core -1, my -1, graphic +1, poorly -1
+NIL
+less +1
+whole -1, new +1
+easy +1, other +1, wireless +1
+key -1, other +1
+my -1, understood +1, my -1
+frustrated -1, my -1, laptop -1
+NIL
+NIL
+NIL
+shockingly -1, want +1, more +1
+new +1, will +1
+love +1, little -1
+my -1, laptop -1, discouraging -1
+Pro +1, my -1, laptop -1
+NIL
+Pro +1
+hard +1, Pro +1, appealing +1
+very +1, especially +1, new +1
+especially +1, appreciate +1
+more +1, expensive -1, worth +1
+better +1, same +1, shit -1, perfectly +1, laptop -1
+very +1
+like +1, more +1, worth +1
+standard -1, proprietary -1
+will +1, my -1
+small -1, full +1
+NIL
+required -1
+great +1, laptop -1, best +1
+first -1, my -1
+very +1, pleased +1, laptop -1
+my -1, honestly +1, will +1
+NIL
+NIL
+my -1, very +1, lightweight -1, excellent +1
+very +1, nice +1, will +1, happy +1, sophisticated +1
+Overall -1, wonderful +1, worth +1
+faster -1, exciting +1
+worst -1
+sleek +1, lightweight -1, needed +1
+fast +1, easy +1, most +1
+NIL
+great +1, same +1, like +1
+like +1
+new +1, Pro +1, short -1, amazing +1
+more +1, love +1, recommend +1
+dissatisfaction -1
+able +1, my -1
+firewire -1
+my -1
+exceptional +1
+good +1, upgrade +1, laptop -1, old +1
+like +1, short -1
+best +1, laptop -1
+NIL
+NIL
+honestly +1, less +1, perfection +1, disappointed -1
+few -1, same +1
+My -1, awe +1
+little -1, short -1
+installed -1, very +1, pleased +1, overall -1
+first -1, Pro +1
+after -1
+NIL
+love +1, tired -1
+will +1, freaking -1, uncommon +1, delete -1, mousepad -1
+Other +1, installed -1, certain +1, most +1, attractive +1
+laptop -1, hope +1, my -1
+Most +1, large -1
+laptop -1
+blue +1
+first -1
+super +1
+monster -1
+hinge -1
+fast +1, great +1
+needed +1
+laptop -1
+laptop -1
+my -1, old +1
+More +1
+easy +1, great +1, quality +1, light +1
+Great +1, very +1, easy +1, great +1
+NIL
+NIL
+simple +1, great +1
+built-in -1, great +1
+will +1
+NIL
+able +1, my -1
+confident +1, other +1, high +1, standard -1, appreciate +1
+NIL
+perfect +1
+laptop -1, great +1, good +1, nice +1, fast +1
+worth +1, impressive +1
+My -1, laptop -1, fabulous +1
+pro +1, large -1, worry -1, laptop -1
+recommend +1
+Disappointing -1, lovely +1, reasonable +1
+laptop -1, better +1, worse -1
+bad -1, worst -1, possible -1
+Good +1
+NIL
+nice +1, Laptop -1
+NIL
+boil -1
+high +1, retail -1
+NIL
+NIL
+NIL
+Good +1
+lacking -1, other +1, very +1
+will +1, correctly +1
+little -1
+greatest +1
+recommend +1
+Excellent +1
+hard +1
+doubt -1, laptop -1, fantastic +1
+long -1, single +1
+hardly -1, left -1
+my -1, Pro +1
+Unfortunately -1, laptop -1
+clean +1, my -1
+realistic +1
+Other +1, recommend +1, cheap -1, laptop -1
+first -1, different -1, past -1
+NIL
+NIL
+more +1
+amazing +1
+happy +1
+cool +1
+My -1, first -1, laptop -1
+laptop -1, perfect +1
+scary -1
+backlit +1, wonderful +1, working -1
+laptop -1, attractive +1, large -1, big +1, enough +1, please +1
+most +1, my -1, freaking -1
+want +1
+appealing +1, very +1, easy +1
+like +1
+worth +1
+NIL
+laptop -1, outstanding +1, full +1
+FIRST -1
+my -1, annoying -1
+more +1, laptop -1, good +1, working -1, good +1, enough +1
+other +1, flawlessly +1
+more +1, hard +1
+more +1, will +1, my -1
+little -1, difficulty -1, firewire -1
+like +1, bad -1
+NIL
+laptop -1, my -1, will +1, burn -1, my -1
+complaint -1
+kind +1, enough +1, free +1
+Seriously -1, laptop -1
+solid +1
+NIL
+simple +1
+other +1, laptop -1
+Hate -1
+NIL
+like +1, other +1, past -1
+my -1
+Overall -1, laptop -1, simple +1, stylish +1, fantastic +1
+my -1, more +1, especially +1, graphic +1
+First -1
+mousepad -1, quicker +1
+love +1, white +1, unibody +1
+most +1, will +1, hopefully +1, new +1, very +1
+full +1, my -1, my -1
+great +1, very +1, good +1, built-in -1
+inconvenient -1
+necessary +1, working -1
+NIL
+NIL
+will +1
+NIL
+running +1, basic +1
+like +1
+NIL
+bad -1
+broken +1
+best +1
+Hope +1
+external +1, built +1, external +1
+FAST +1, PROCESSING +1
+special -1
+cooling -1
+glad +1
+NIL
+Few -1
+NIL
+reasonable +1, truly +1
+tired -1, inept -1
+easy +1, like +1, other +1
+own -1, insanity -1
+brag +1, intuitive +1, little -1, want +1
+extended +1
+several -1
+laptop -1, new +1, very +1
+laptop -1
+corrupt -1
+best +1, very +1, long -1, very +1, long -1, very +1
+Most +1, key -1
+NIL
+quality +1, general +1, less +1, worth +1, cheap -1, laptop -1
+first -1
+FUN +1
+stunning +1, able +1, understand +1
+upgraded +1, Pro +1, running +1
+Simple +1, great +1
+NIL
+my -1, fast +1, recommend +1
+My -1, best +1
+spectacular +1
+NIL
+cheap -1, free +1
+better +1
+my -1, working -1
+will +1, love +1
+My -1
+worthless -1
+My -1
+luck +1
+broken +1, new +1
+My -1, more +1, extra -1
+NIL
+NIL
+several -1, lasting -1, more +1
+little -1
+my -1, whole -1, my -1
+will +1, hassle -1, entire -1, clean +1
+past -1
+hate -1
+NIL
+sharp -1
+cheap -1
+needed +1, able +1, fit +1
+recommend +1, new +1
+gorgeous +1, good +1
+NIL
+NIL
+Good +1, BLUE +1, Critical -1
+my -1
+after -1, hard +1, my -1, new +1
+suspicious -1
+most +1
+fast +1, fantastic +1, small -1, light +1, complaining -1, blue +1
+kind +1, glad +1
+new +1, laptop -1
+professional -1
+hard +1, LESS +1
+like +1
+insist +1, hinge -1, after -1
+NIL
+NIL
+top +1
+love +1, key -1
+best +1, worlds -1
+new +1
+able +1, first -1
+NIL
+love +1, my -1
+will +1
+new +1
+NIL
+Pro +1
+will +1, cozy +1
+laptop -1, my -1, laptop -1
+connect -1
+Will +1
+other +1
+NIL
+NIL
+like +1
+better +1
+easiest +1
+might +1
+my -1
+NIL
+my -1, other +1, laptop -1
+recommend +1, due -1, right +1, awful -1, my -1, want +1, laptop -1
+laptop -1, very +1, happy +1
+good +1, my -1
+My -1, entire -1, my -1, like +1, will +1
+will +1, different -1, sound -1, like +1, right +1
+Quality +1, quality +1, Laptop -1
+NIL
+very +1, strong +1, very +1
+fast +1, High +1, quality +1
+other +1, understand +1, understand +1
+loud -1, good +1, enough +1
+NIL
+Great +1, Beast -1
+NIL
+terrific +1
+awesome +1
+yes +1, small -1
+might +1, bias -1
+NIL
+best +1
+NIL
+very +1, friendly +1
+Kind +1, annoying -1, love +1, laptop -1
+top +1
+very +1, happy +1, worth +1, extra -1
+sadly -1
+NIL
+After -1, Pro +1
+perfect +1, portable +1
+First -1
+Hope +1
+my -1, own -1, my -1, old +1, desktop -1, working -1, star +1
+my -1, better +1, laptop -1
+Please +1
+laptop -1, my -1
+NIL
+Very +1
+NIL
+working -1, less +1
+After -1, special -1, connect -1, my -1
+my -1, built +1
+laughable -1
+Yes +1, little -1
+great +1, general +1
+will +1
+will +1
+very +1, good +1, top +1, quality +1
+fast +1, easy +1
+various +1, flawlessly +1
+After -1, hard +1, working -1, frustrating -1
+like +1
+online +1, quicker +1
+NIL
+NIL
+my -1, entire -1
+wonderful +1, virus -1, free +1
+small -1, enough +1, pretty +1, big +1, enough +1
+great +1, very +1
+love +1, solid +1, machined +1, best +1, laptop -1
+NIL
+nice +1, compact +1
+good +1, able +1, older -1, built-in -1
+new +1, laptop -1
+NIL
+hard +1
+NIL
+easy +1
+My -1, first -1
+NIL
+love +1
+NIL
+fit +1
+bad -1, after -1
+entire -1
+laptop -1
+regret -1, awful -1
+right +1
+other +1, sheer -1
+Pro +1, laptop -1, fast +1, easy +1, my -1, my -1
+extremely -1, My -1
+glad +1, right +1
+extremely -1, easy +1, very +1, different -1
+more +1, will +1
+my -1, first -1
+best +1
+NIL
+nice +1, very +1, fit +1, right +1
+Best +1
+little -1
+excited +1
+left -1, my -1, regular +1, laptop -1, needed +1
+After -1
+super +1, fast +1, nice +1
+more +1, big +1, enough +1, my -1, great +1, want +1, external +1, video -1
+NIL
+defective -1
+objection -1, after -1, upgrade +1
+dislike -1
+real +1
+my -1
+NIL
+easy +1
+few -1, enough +1
+my -1
+flatline +1, easy +1
+After -1, repairs -1, full +1, indifferent -1
+laptop -1, great +1
+After -1, new +1
+sound -1, great +1
+better +1, my -1, will +1
+love +1
+love +1, serious -1, required -1, less +1, obtrusive -1, will +1, different -1
+needed +1, more +1
+After -1, my -1
+abuse -1, hard +1
+easy +1
+NIL
+very +1
+recommend +1, quality +1, desktop -1
+great +1, light +1, my -1
+Easy +1
+will +1
+NIL
+Great +1, fast +1, new +1, very +1, pleased +1
+very +1, slow -1, very +1
+NIL
+Best +1
+will +1, will +1, admit +1, Pro +1, better +1, running +1, quicker +1
+NIL
+NIL
+overall -1, great +1
+key -1, intall -1, limited -1, working -1, good +1, short -1
+awesome +1, ergonomic -1, small -1, lightweight -1, more +1
+truly +1, wonderful +1
+unparalleled +1
+laptop -1
+great +1, running +1
+NIL
+my -1
+NIL
+love +1, lightweight -1, very +1, easy +1
+worth +1, cheap -1, laptop -1
+entire -1, joke +1
+my -1, fault -1
+glad +1, upgrade +1
+easy +1, stylish +1, fun +1, awesome +1
+NIL
+GOOD +1, LAPTOP -1
+want +1, little -1, more +1, few -1, upgrade +1, more +1, more +1
+NIL
+big +1, worried -1, virus -1
+NIL
+amazing +1
+laptop -1, DESIGNED -1
+my -1, good +1
+My -1, wireless +1, my -1
+hard +1
+cheap -1
+most +1
+small -1, real +1
+upgraded +1, very +1, happy +1
+great +1
+NIL
+whole -1, will +1, like +1
+more +1
+better +1, overall -1, great +1
+longer +1, more +1
+fit +1, most +1
+first -1
+After -1, hard +1, bad -1, more +1
+my -1
+small -1, enough +1, fit +1, my -1
+my -1, great +1
+very +1, worried -1, simple +1, worried -1
+NIL
+neat +1, welcome +1, cluttered -1, confusing -1, desktop -1
+after -1, my -1, laptop -1, right +1, after -1
+gorgeous +1, Pro +1
+outstanding +1, recommend +1, fit +1
+same +1
+NIL
+my -1, nicely +1, most +1
+laptop -1, most +1
+after -1
+same +1, after -1
+will +1, disappointed -1
+my -1, laptop -1
+more +1
+NIL
+love +1
+NIL
+NIL
+will +1
+fast +1, laptop -1, flawlessly +1
+few -1
+great +1
+After -1, repairs -1, slow -1, laptop -1, might +1, hope +1, my -1, after -1
+My -1, astonishing +1, quality +1
+NIL
+frustrated -1, want +1, simple +1, virus -1, my -1
+NIL
+longer +1, more +1
+my -1, laptop -1, new +1, mousepad -1
+my -1, new +1, Pro +1, my -1, old +1
+operating +1
+understand +1, high +1, enough +1
+wish +1, like +1, my -1, big +1, laptop -1
+very +1, convenient +1, excellent +1
+slow -1
+great +1, several -1
+wish +1
+first -1, like +1, laptop -1
+want +1, nice +1
+my -1
+After -1, higher -1, lower +1
+NIL
+especially +1, like +1, backlit +1
+furious -1
+great +1, great +1
+My -1, laptop -1, after -1
+sound -1, overcome -1
+NIL
+top +1, fast +1
+NIL
+hard +1
+will +1
+NIL
+little -1, most +1
+high +1
+NIL
+defective -1
+Other +1, love +1, recommend +1, unacceptable -1
+want +1
+tired -1, bad -1, like +1
+like +1, laptop -1, mean -1, will +1, little -1
+Right +1
+old +1
+good +1
+little -1
+NIL
+NIL
+NIL
+NIL
+inconvenience -1, like +1, prefer +1
+My -1, complaint -1, laptop -1, electronic -1, sound -1, headphone -1
+worth +1
+after -1, laptop -1, proud +1
+like +1
+more +1, expensive -1, laptop -1, quality +1, like +1
+love +1, BEST +1
+NIL
+few -1, free +1
+NIL
+online +1
+my -1, like +1
+my -1, more +1, good +1
+NIL
+faster -1, high +1, more +1, whole -1, faster -1
+wish +1, detailed -1
+burn -1, video -1, obviously -1, non-functioning -1
+Fast +1, great +1
+very +1, reasonable +1, very +1, right +1
+will +1, want +1, recommend +1, optimal +1
+whole -1, laptop -1, bad -1, sad -1
+few -1, recommend +1, laptop -1
+might +1
+cheap -1, plastic -1, hollow -1, sound -1
+my -1, old +1, laptop -1, laptop -1
+other +1, same +1, After -1, left -1, left -1
+my -1
+NIL
+recommend +1
+NIL
+After -1, other +1, my -1, very +1
+wonderful +1, new +1
+pro +1, will +1, easy +1
+like +1
+love +1, particular +1, very +1, fast +1, great +1, fantastic +1, like +1, lighted +1, easy +1
+more +1
+NIL
+working -1
+NIL
+easy +1
+awkward -1, wonder +1
+My -1, laptop -1, same +1, less +1
+old +1, my -1, hard +1
+my -1, my -1
+NIL
+after -1, necessary +1, Key -1
+NIL
+love +1, my -1, pro +1
+great +1, joy +1
+dissatisfied -1
+NIL
+seamless +1
+extended +1, after -1
+slow -1, slow -1, general +1
+enough +1, enough +1, my -1
+phenomenal +1
+NIL
+graphic +1
+my -1, more +1
+like +1, my -1
+My -1, after -1, very +1, laptop -1, after -1
+great +1, my -1, laptop -1
+higher -1, other +1, laptop -1
+other +1, my -1, left -1, "mouse" -1
+VERY +1, easy +1, great +1, added +1, lighted +1
+Laptop -1, like +1
+first -1
+laptop -1, unibody +1
+NIL
+extremely -1, different -1, other +1, laptop -1
+old +1
+due -1, hard +1, new +1, Pro +1
+great +1, will +1, happy +1
+NIL
+better +1, worse -1, virus -1
+Thank +1
+NIL
+faster -1, my -1, old +1, laptop -1
+doubt -1
+able +1, connect -1
+awful -1, wireless +1, top +1
+overall -1, quality +1, excellent +1, recommend +1
+my -1, Aspire +1
+technical -1
+NIL
+NIL
+repairs -1
+right +1
+first -1, joke +1
+video -1, full +1
+fast +1, other +1
+quality +1
+my -1
+photo +1, will +1
+terrible -1, laptop -1, better +1
+lucky +1, good +1, will +1, new +1
+great +1, pretty +1, real +1
+possible -1, fast +1, longer +1, right +1
+NIL
+NIL
+few -1
+Overall -1, good +1
+simple +1, more +1, my -1, desktop -1
+NIL
+laptop -1, worth +1
+own -1, laptop -1
+NIL
+past -1
+NIL
+my -1
+NIL
+different -1, past -1
+love +1, better +1, my -1
+quality +1, laptop -1
+recommend +1, Pro +1, want +1, best +1, laptop -1
+very +1, easy +1, other +1
+large -1, additional -1
+Small -1, light +1
+Great +1, laptop -1, easy +1
+NIL
+Laptop -1, blue +1
+perfect +1, loud -1
+my -1
+single +1, worry -1
+other +1, clearly +1, my -1
+necessary +1, basic +1
+laptop -1, same +1
+fun +1
+hate -1
+my -1, new +1
+NIL
+initial -1, dissuade -1, like +1, other +1, my -1
+best +1, own -1, like +1, better +1, same +1
+NIL
+quality +1
+lucky +1, Best +1, able +1
+honestly +1
+WILL +1
+Unfortunately -1, quality +1
+best +1
+very +1, annoying -1
+clean +1
+My -1, other +1, complaint -1
+quality +1, worth +1
+Very +1, disappointed -1
+will +1, moving +1, will +1
+NIL
+NIL
+Pro +1, my -1, free +1, best +1, great +1
+stars +1, short -1, implore -1
+love +1, my -1
+stars +1, enough +1
+love +1, easy +1, my -1
+Sadly -1, super +1, fell -1, white +1
+horrible -1, confusing -1
+happy +1
+very +1, good +1, easy +1
+first -1
+glad +1, needed +1, new +1, laptop -1
+worth +1
+other +1, kind +1, cheap -1
+laptop -1, very +1
+light +1, very +1, long -1
+Better +1
+glad +1, my -1
+blame -1, bad -1, upgrade +1, my -1, first -1, my -1, laptop -1
+NIL
+worry -1, virus -1
+Very +1, happy +1
+NIL
+my -1, after -1, few -1, my -1, terrible -1, glare -1
+My -1
+LAPTOP -1, BAD -1, FIRST -1
+my -1
+extremely -1
+very +1, useful +1, like +1, best +1, photo +1
+NIL
+NIL
+love +1
+NIL
+NIL
+ince +1, hard +1, top +1, like +1, big +1
+NIL
+NIL
+my -1, after -1, my -1, my -1, several -1, other +1, installed -1, working -1, installed -1, my -1
+big +1, my -1, like +1
+running +1, same +1
+worst -1
+Overall -1, Poor -1, Poor -1, Excellent +1, Poor -1
+love +1
+best +1
+NIL
+repairs -1
+after -1
+free +1
+laptop -1
+stunning +1
+Nice +1, portable +1, enough +1
+after -1, WiFi -1, very +1
+want +1, more +1
+NIL
+little -1, more +1, expensive -1, will +1, longer +1, worth +1
+easy +1
+laptop -1, gorgeous +1
+more +1, expensive -1, worth +1, long -1
+my -1, old +1, better +1
+desktop -1, regret -1
+NIL
+like +1, tired -1
+very +1, disappointing -1, good +1
+my -1, poor -1, hapless -1
+dirty -1
+laptop -1, very +1, full +1
+slow -1
+NIL
+NIL
+like +1, loud -1
+past -1, laptop -1, needed +1, my -1
+NIL
+my -1
+defective -1
+NIL
+right +1, left -1, very +1, messy -1
+want +1, working -1, small -1
+faster -1, my -1, desktop -1, running +1
+good +1, worry -1
+my -1, defective -1
+nice +1, pretty +1, good +1
+added +1, working -1, want +1, want +1, bother -1, very +1, convenient +1, darker +1
+will +1
+whole -1, will +1
+nice +1, horribly -1, cheap -1
+recommend +1
+more +1, like +1
+other +1, strong +1
+better +1
+recommend +1, laptop -1, new +1, laptop -1, willing +1, little -1, more +1, great +1, quality +1
+upgraded +1
+NIL
+NIL
+sharp -1, incase +1
+easy +1, large -1
+want +1, very +1, disappointed -1, new +1
+after -1
+Envy -1
+NIL
+my -1, laptop -1
+NIL
+installed -1, my -1
+long -1
+working -1
+fit +1
+Pro +1, wonderful +1
+NIL
+working -1
+iMovie +1
+love +1, my -1
+NIL
+AMAZING +1
+My -1, after -1
+NIL
+my -1, might +1
+useless -1
+MORE +1, MY -1
+laptop -1, very +1, large -1
+Great +1
+left -1
+perfect +1
+more +1, streamlined +1, other +1
+My -1, several -1, refuse -1
+NIL
+NIL
+NIL
+laptop -1
+universal -1, cheap -1, laptop -1
+scary -1
+desktop -1
+different -1, brutal -1, worse -1
+after -1, working -1, new +1, running +1
+NIL
+usual -1, other +1, same +1
+very +1, very +1
+NIL
+Blue +1, first -1
+love +1
+excited +1
+Weaknesses -1, bad -1
+NIL
+more +1
+left -1
+favor +1, fake -1
+REAL +1, other +1
+NIL
+most +1, amazing +1, very +1
+Long -1, after -1, various +1
+video -1
+awesome +1
+Wonderful +1
+NIL
+NIL
+honesty +1, quality +1, laptop -1, willing +1, little -1, more +1, laptop -1, cheaper +1, less +1, impressive +1, laptop -1
+easy +1
+After -1, worth +1
+Worse -1
+Very +1, happy +1, my -1, laptop -1
+My -1, Pro +1, fell -1, love +1
+most +1, my -1, desktop -1
+very +1, nice +1, solid +1
+will +1
+laptop -1
+NIL
+idiots -1, best +1
+luck +1, due -1
+backlit +1, perfect +1
+great +1
+same +1
+NIL
+my -1
+NIL
+love +1
+my -1
+hard +1, antivirus -1
+beauty +1, excellent +1
+NIL
+great +1
+very +1, nice +1, laptop -1, able +1, my -1
+like +1, laptop -1
+my -1
+older -1, different -1
+very +1, worth +1
+good +1
+NIL
+more +1, will +1
+great +1, little -1
+very +1, handy +1
+great +1, plenty +1
+long -1, after -1, like +1, want +1
+NIL
+Pro +1, new +1
+will +1
+NIL
+will +1, regret -1
+good +1, laptop -1
+my -1, same +1, laptop -1, cheap -1, after -1
+after -1, few -1
+more +1
+my -1, mousepad -1, sensitivity +1, very +1
+wish +1, most +1
+my -1, more +1
+more +1
+best +1
+plastic -1
+my -1, Best +1
+clean +1, operating +1
+dream +1, true +1
+love +1, extra -1, most +1
+glad +1
+hinge -1, whole -1
+bad -1
+love +1, my -1, easy +1
+NIL
+NIL
+real +1, joy +1
+hard +1
+laptop -1, simple +1, worth +1
+NIL
+different -1
+NIL
+NIL
+best +1
+Very +1, very +1, disappointed -1
+like +1, more +1, creative +1
+my -1
+will +1, understand +1, mean -1
+NIL
+NIL
+my -1, my -1, other +1
+amazing +1, nicely +1, little -1, my -1, laptop -1
+first -1, long -1
+NIL
+Professional -1
+excited +1, my -1, new +1, laptop -1, my -1
+after -1, more +1, expensive -1, needed +1
+NIL
+NIL
+NIL
+like +1, different -1, operating +1
+NIL
+my -1
+pro +1, my -1
+NIL
+same +1, my -1, few -1
+Pro +1
+might +1, simple +1, my -1
