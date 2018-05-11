@@ -1,5 +1,5 @@
 # HAST
-Source code for our IJCAI paper "[Aspect Term Extraction with History Attention and Selective Transformation](https://arxiv.org/abs/1805.00760)". (Currently, code is only available upon request)
+Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ransformation. (Currently, code is only available upon request)
 
 ## Requirements
 * Python 3.6
