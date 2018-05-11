@@ -16,7 +16,10 @@ Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ran
 * Replacing the OOVs with the same token `PUNCT`.
 * Only the sentimental words with strong subjectivity are employed to provide distant supervision.
 
-
+## Running
+```
+python main.py -ds_name [YOUR_DATASET_NAME] -sgd_lr [YOUR_LEARNING_RATE_FOR_SGD] -win [YOUR_WINDOW_SIZE] -optimizer [YOUR_OPTIMIZER] -rnn_type [LSTM|GRU] -attention_type [bilinear|concat]
+```
 ## Citation
 If the code is used in your research, please cite our paper as follows:
 ```
