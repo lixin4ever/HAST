@@ -9,7 +9,13 @@ Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ran
 
 ## External Linguistic Resources
 * [Glove Word Embeddings](https://nlp.stanford.edu/projects/glove/) (840B, 2.2M vocab).
-* [MPQA Subjectivity Lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/): we only employ the words with strong subjectivity to provide distant supervision.
+* [MPQA Subjectivity Lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/)
+
+## Preprocessing
+* Window-based input (window size is 3, as done in Pengfei's [work](http://www.aclweb.org/anthology/D15-1168)).
+* Replacing the OOVs with the same token `PUNCT`.
+* Only the sentimental words with strong subjectivity are employed to provide distant supervision.
+
 
 ## Citation
 If the code is used in your research, please cite our paper as follows:
