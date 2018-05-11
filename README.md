@@ -7,6 +7,10 @@ Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ran
 * nltk 3.2.2
 * numpy 1.13.3
 
+## External Linguistic Resources
+* [Glove Word Embeddings](https://nlp.stanford.edu/projects/glove/) (840B, 2.2M vocab).
+* [MPQA Subjectivity Lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/): we only keep the words with strong subjectivity.
+
 ## Citation
 If the code is used in your research, please cite our paper as follows:
 ```
