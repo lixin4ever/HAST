@@ -7,3 +7,14 @@ Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ran
 * nltk 3.2.2
 * numpy 1.13.3
 
+## Citation
+If the code is used in your research, please cite our paper as follows:
+```
+@article{li2018aspect,
+  title={Aspect Term Extraction with History Attention and Selective Transformation},
+  author={Li, Xin and Bing, Lidong and Li, Piji and Lam, Wai and Yang, Zhimou},
+  journal={arXiv preprint arXiv:1805.00760},
+  year={2018}
+}
+```
+
