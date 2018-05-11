@@ -3,4 +3,7 @@ Source code for our IJCAI paper "[Aspect Term Extraction with History Attention 
 
 ## Requirements
 * Python 3.6
-* [DyNet 2.0](https://github.com/clab/dynet) (For building DyNet and enabling the python bindings, please follow the instructions in this [link](http://dynet.readthedocs.io/en/latest/python.html))
+* [DyNet 2.0.2](https://github.com/clab/dynet) (For building DyNet and enabling the python bindings, please follow the instructions in this [link](http://dynet.readthedocs.io/en/latest/python.html))
+* nltk 3.2.2
+* numpy 1.13.3
+
