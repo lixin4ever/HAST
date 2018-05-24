@@ -20,6 +20,11 @@ Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ran
 ```
 python main.py -ds_name [YOUR_DATASET_NAME] -sgd_lr [YOUR_LEARNING_RATE_FOR_SGD] -win [YOUR_WINDOW_SIZE] -optimizer [YOUR_OPTIMIZER] -rnn_type [LSTM|GRU] -attention_type [bilinear|concat]
 ```
+
+## Environment
+* OS: REHL Server 6.4 (Santiago)
+* CPU: Intel Xeon CPU E5-2620 (Yes, we do not use GPU)
+
 ## Citation
 If the code is used in your research, please cite our paper as follows:
 ```
