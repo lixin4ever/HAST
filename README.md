@@ -28,7 +28,7 @@ python main.py -ds_name [YOUR_DATASET_NAME] -sgd_lr [YOUR_LEARNING_RATE_FOR_SGD]
 ## Citation
 If the code is used in your research, please cite our paper as follows:
 ```
-@article{li2018aspect,
+@inproceedings{li2018aspect,
   title={Aspect Term Extraction with History Attention and Selective Transformation},
   author={Li, Xin and Bing, Lidong and Li, Piji and Lam, Wai and Yang, Zhimou},
   booktitle={IJCAI},
