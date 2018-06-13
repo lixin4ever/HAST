@@ -31,7 +31,7 @@ If the code is used in your research, please cite our paper as follows:
 @article{li2018aspect,
   title={Aspect Term Extraction with History Attention and Selective Transformation},
   author={Li, Xin and Bing, Lidong and Li, Piji and Lam, Wai and Yang, Zhimou},
-  journal={arXiv preprint arXiv:1805.00760},
+  booktitle={IJCAI},
   year={2018}
 }
 ```
