@@ -26,7 +26,7 @@ python main.py -ds_name [YOUR_DATASET_NAME] -sgd_lr [YOUR_LEARNING_RATE_FOR_SGD]
 * CPU: Intel Xeon CPU E5-2620 (Yes, we do not use GPU)
 
 ## Citation
-If the code is used in your research, please cite our paper as follows:
+If the code is used in your research, please star this repo and cite our paper as follows:
 ```
 @inproceedings{li2018aspect,
   title={Aspect Term Extraction with History Attention and Selective Transformation},
