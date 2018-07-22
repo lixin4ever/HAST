@@ -32,6 +32,7 @@ If the code is used in your research, please star this repo and cite our paper a
   title={Aspect Term Extraction with History Attention and Selective Transformation},
   author={Li, Xin and Bing, Lidong and Li, Piji and Lam, Wai and Yang, Zhimou},
   booktitle={IJCAI},
+  pages={4194--4200}
   year={2018}
 }
 ```
