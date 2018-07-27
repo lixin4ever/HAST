@@ -3,13 +3,13 @@
     <sentence id="892:1">
         <text>Boot time is super fast, around anywhere from 35 seconds to 1 minute.</text>
         <aspectTerms>
-            <aspectTerm term="Boot time" from="0" to="9"/>
+            <aspectTerm term="Boot time" polarity="positive"  from="0" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="1144:1">
         <text>tech support would not fix the problem unless I bought your plan for $150 plus.</text>
         <aspectTerms>
-            <aspectTerm term="tech support" from="0" to="12"/>
+            <aspectTerm term="tech support" polarity="negative"  from="0" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="805:2">
@@ -18,14 +18,14 @@
     <sentence id="359:1">
         <text>Set up was easy.</text>
         <aspectTerms>
-            <aspectTerm term="Set up" from="0" to="6"/>
+            <aspectTerm term="Set up" polarity="positive"  from="0" to="6"/>
         </aspectTerms>
     </sentence>
     <sentence id="562:1">
         <text>Did not enjoy the new Windows 8 and touchscreen functions.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="22" to="31"/>
-            <aspectTerm term="touchscreen functions" from="36" to="57"/>
+            <aspectTerm term="Windows 8" polarity="negative"  from="22" to="31"/>
+            <aspectTerm term="touchscreen functions" polarity="negative"  from="36" to="57"/>
         </aspectTerms>
     </sentence>
     <sentence id="323:1">
@@ -34,9 +34,9 @@
     <sentence id="958:1">
         <text>Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.</text>
         <aspectTerms>
-            <aspectTerm term="internal speakers" from="86" to="103"/>
-            <aspectTerm term="price tag" from="203" to="212"/>
-            <aspectTerm term="click pads" from="30" to="40"/>
+            <aspectTerm term="internal speakers" polarity="negative"  from="86" to="103"/>
+            <aspectTerm term="price tag" polarity="positive"  from="203" to="212"/>
+            <aspectTerm term="click pads" polarity="negative"  from="30" to="40"/>
         </aspectTerms>
     </sentence>
     <sentence id="684:1">
@@ -45,20 +45,20 @@
     <sentence id="282:9">
         <text>No installation disk (DVD) is included.</text>
         <aspectTerms>
-            <aspectTerm term="installation disk (DVD)" from="3" to="26"/>
+            <aspectTerm term="installation disk (DVD)" polarity="neutral"  from="3" to="26"/>
         </aspectTerms>
     </sentence>
     <sentence id="819:1">
         <text>It's fast, light, and simple to use.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="32" to="35"/>
+            <aspectTerm term="use" polarity="positive"  from="32" to="35"/>
         </aspectTerms>
     </sentence>
     <sentence id="130:1">
         <text>Works well, and I am extremely happy to be back to an apple OS.</text>
         <aspectTerms>
-            <aspectTerm term="Works" from="0" to="5"/>
-            <aspectTerm term="apple OS" from="54" to="62"/>
+            <aspectTerm term="Works" polarity="positive"  from="0" to="5"/>
+            <aspectTerm term="apple OS" polarity="positive"  from="54" to="62"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:270">
@@ -67,33 +67,33 @@
     <sentence id="593:1">
         <text>Sure it's not light and slim but the features make up for it 100%.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="37" to="45"/>
+            <aspectTerm term="features" polarity="positive"  from="37" to="45"/>
         </aspectTerms>
     </sentence>
     <sentence id="996:1">
         <text>I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).</text>
         <aspectTerms>
-            <aspectTerm term="log on" from="27" to="33"/>
-            <aspectTerm term="WiFi connection" from="42" to="57"/>
-            <aspectTerm term="battery life" from="71" to="83"/>
+            <aspectTerm term="log on" polarity="positive"  from="27" to="33"/>
+            <aspectTerm term="WiFi connection" polarity="positive"  from="42" to="57"/>
+            <aspectTerm term="battery life" polarity="positive"  from="71" to="83"/>
         </aspectTerms>
     </sentence>
     <sentence id="314:21">
         <text>The Apple engineers have not yet discovered the delete key.</text>
         <aspectTerms>
-            <aspectTerm term="delete key" from="48" to="58"/>
+            <aspectTerm term="delete key" polarity="negative"  from="48" to="58"/>
         </aspectTerms>
     </sentence>
     <sentence id="147:5">
         <text>Made interneting (part of my business) very difficult to maintain.</text>
         <aspectTerms>
-            <aspectTerm term="interneting" from="5" to="16"/>
+            <aspectTerm term="interneting" polarity="negative"  from="5" to="16"/>
         </aspectTerms>
     </sentence>
     <sentence id="3:1">
         <text>Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.</text>
         <aspectTerms>
-            <aspectTerm term="priced" from="67" to="73"/>
+            <aspectTerm term="priced" polarity="positive"  from="67" to="73"/>
         </aspectTerms>
     </sentence>
     <sentence id="132:1">
@@ -105,13 +105,13 @@
     <sentence id="663:1">
         <text>Super light, super sexy and everything just works.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="44" to="49"/>
+            <aspectTerm term="works" polarity="positive"  from="44" to="49"/>
         </aspectTerms>
     </sentence>
     <sentence id="373:1">
         <text>Only problem that I had was that the track pad was not very good for me, I only had a problem once or twice with it, But probably my computer was a bit defective.</text>
         <aspectTerms>
-            <aspectTerm term="track pad" from="37" to="46"/>
+            <aspectTerm term="track pad" polarity="negative"  from="37" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:709">
@@ -120,26 +120,26 @@
     <sentence id="759:1">
         <text>It is super fast and has outstanding graphics.</text>
         <aspectTerms>
-            <aspectTerm term="graphics" from="37" to="45"/>
+            <aspectTerm term="graphics" polarity="positive"  from="37" to="45"/>
         </aspectTerms>
     </sentence>
     <sentence id="326:1">
         <text>But the mountain lion is just too slow.</text>
         <aspectTerms>
-            <aspectTerm term="mountain lion" from="8" to="21"/>
+            <aspectTerm term="mountain lion" polarity="negative"  from="8" to="21"/>
         </aspectTerms>
     </sentence>
     <sentence id="488:1">
         <text>Strong build though which really adds to its durability.</text>
         <aspectTerms>
-            <aspectTerm term="durability" from="45" to="55"/>
-            <aspectTerm term="build" from="7" to="12"/>
+            <aspectTerm term="durability" polarity="positive"  from="45" to="55"/>
+            <aspectTerm term="build" polarity="positive"  from="7" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="847:1">
         <text>The battery life is excellent- 6-7 hours without charging.</text>
         <aspectTerms>
-            <aspectTerm term="battery life" from="4" to="16"/>
+            <aspectTerm term="battery life" polarity="positive"  from="4" to="16"/>
         </aspectTerms>
     </sentence>
     <sentence id="641:1">
@@ -148,7 +148,7 @@
     <sentence id="561:1">
         <text>I've had my computer for 2 weeks already and it works perfectly.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="48" to="53"/>
+            <aspectTerm term="works" polarity="positive"  from="48" to="53"/>
         </aspectTerms>
     </sentence>
     <sentence id="357:1">
@@ -157,13 +157,13 @@
     <sentence id="1062:1">
         <text>And I may be the only one but I am really liking Windows 8.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="49" to="58"/>
+            <aspectTerm term="Windows 8" polarity="positive"  from="49" to="58"/>
         </aspectTerms>
     </sentence>
     <sentence id="792:2">
         <text>The baterry is very longer.</text>
         <aspectTerms>
-            <aspectTerm term="baterry" from="4" to="11"/>
+            <aspectTerm term="baterry" polarity="positive"  from="4" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="81:1">
@@ -172,8 +172,8 @@
     <sentence id="809:1">
         <text>Its size is ideal and the weight is acceptable.</text>
         <aspectTerms>
-            <aspectTerm term="size" from="4" to="8"/>
-            <aspectTerm term="weight" from="26" to="32"/>
+            <aspectTerm term="size" polarity="positive"  from="4" to="8"/>
+            <aspectTerm term="weight" polarity="positive"  from="26" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:467">
@@ -185,7 +185,7 @@
     <sentence id="495:1">
         <text>I can say that I am fully satisfied with the performance that the computer has supplied.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="45" to="56"/>
+            <aspectTerm term="performance" polarity="positive"  from="45" to="56"/>
         </aspectTerms>
     </sentence>
     <sentence id="393:1">
@@ -197,7 +197,7 @@
     <sentence id="910:1">
         <text>This laptop has only 2 USB ports, and they are both on the same side.</text>
         <aspectTerms>
-            <aspectTerm term="USB ports" from="23" to="32"/>
+            <aspectTerm term="USB ports" polarity="negative"  from="23" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="1047:1">
@@ -209,8 +209,8 @@
     <sentence id="499:1">
         <text>It has so much more speed and the screen is very sharp.</text>
         <aspectTerms>
-            <aspectTerm term="speed" from="20" to="25"/>
-            <aspectTerm term="screen" from="34" to="40"/>
+            <aspectTerm term="speed" polarity="positive"  from="20" to="25"/>
+            <aspectTerm term="screen" polarity="positive"  from="34" to="40"/>
         </aspectTerms>
     </sentence>
     <sentence id="457:1">
@@ -219,13 +219,13 @@
     <sentence id="636:1">
         <text>Everything I wanted and everything I needed and the price was great!</text>
         <aspectTerms>
-            <aspectTerm term="price" from="52" to="57"/>
+            <aspectTerm term="price" polarity="positive"  from="52" to="57"/>
         </aspectTerms>
     </sentence>
     <sentence id="48:1">
         <text>It's not inexpensive but the Hardware performance is impressive for a computer this small.</text>
         <aspectTerms>
-            <aspectTerm term="Hardware performance" from="29" to="49"/>
+            <aspectTerm term="Hardware performance" polarity="positive"  from="29" to="49"/>
         </aspectTerms>
     </sentence>
     <sentence id="992:1">
@@ -234,8 +234,8 @@
     <sentence id="57:1">
         <text>This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="41" to="46"/>
-            <aspectTerm term="set up" from="77" to="83"/>
+            <aspectTerm term="works" polarity="positive"  from="41" to="46"/>
+            <aspectTerm term="set up" polarity="positive"  from="77" to="83"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:568">
@@ -244,7 +244,7 @@
     <sentence id="387:7">
         <text>Keyboard responds well to presses.</text>
         <aspectTerms>
-            <aspectTerm term="Keyboard" from="0" to="8"/>
+            <aspectTerm term="Keyboard" polarity="positive"  from="0" to="8"/>
         </aspectTerms>
     </sentence>
     <sentence id="211:0">
@@ -253,7 +253,7 @@
     <sentence id="1063:166">
         <text>Lastly, Windows 8 is annoying.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="8" to="17"/>
+            <aspectTerm term="Windows 8" polarity="negative"  from="8" to="17"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:878">
@@ -265,8 +265,8 @@
     <sentence id="479:1">
         <text>Everything is so easy and intuitive to setup or configure.</text>
         <aspectTerms>
-            <aspectTerm term="setup" from="39" to="44"/>
-            <aspectTerm term="configure" from="48" to="57"/>
+            <aspectTerm term="setup" polarity="positive"  from="39" to="44"/>
+            <aspectTerm term="configure" polarity="positive"  from="48" to="57"/>
         </aspectTerms>
     </sentence>
     <sentence id="332:4">
@@ -278,13 +278,13 @@
     <sentence id="1107:1">
         <text>Biggest complaint is Windows 8 .</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="21" to="30"/>
+            <aspectTerm term="Windows 8" polarity="negative"  from="21" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="298:29">
         <text>Only 2 usb ports...seems kind of...limited.</text>
         <aspectTerms>
-            <aspectTerm term="usb ports" from="7" to="16"/>
+            <aspectTerm term="usb ports" polarity="negative"  from="7" to="16"/>
         </aspectTerms>
     </sentence>
     <sentence id="250:1">
@@ -296,9 +296,9 @@
     <sentence id="1061:1">
         <text>It has all the expected features and more +plus a wide screen and more than roomy keyboard.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="24" to="32"/>
-            <aspectTerm term="screen" from="55" to="61"/>
-            <aspectTerm term="keyboard" from="82" to="90"/>
+            <aspectTerm term="features" polarity="positive"  from="24" to="32"/>
+            <aspectTerm term="screen" polarity="positive"  from="55" to="61"/>
+            <aspectTerm term="keyboard" polarity="positive"  from="82" to="90"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:641">
@@ -307,7 +307,7 @@
     <sentence id="128:1">
         <text>Amazing Performance for anything I throw at it.</text>
         <aspectTerms>
-            <aspectTerm term="Performance" from="8" to="19"/>
+            <aspectTerm term="Performance" polarity="positive"  from="8" to="19"/>
         </aspectTerms>
     </sentence>
     <sentence id="734:1">
@@ -319,14 +319,14 @@
     <sentence id="655:1">
         <text>The receiver was full of superlatives for the quality and performance.</text>
         <aspectTerms>
-            <aspectTerm term="quality" from="46" to="53"/>
-            <aspectTerm term="performance" from="58" to="69"/>
+            <aspectTerm term="quality" polarity="positive"  from="46" to="53"/>
+            <aspectTerm term="performance" polarity="positive"  from="58" to="69"/>
         </aspectTerms>
     </sentence>
     <sentence id="301:1">
         <text>I was extremely happy with the OS itself.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="31" to="33"/>
+            <aspectTerm term="OS" polarity="positive"  from="31" to="33"/>
         </aspectTerms>
     </sentence>
     <sentence id="960:1">
@@ -335,7 +335,7 @@
     <sentence id="448:3">
         <text>The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months.</text>
         <aspectTerms>
-            <aspectTerm term="portability" from="25" to="36"/>
+            <aspectTerm term="portability" polarity="positive"  from="25" to="36"/>
         </aspectTerms>
     </sentence>
     <sentence id="1158:1">
@@ -344,19 +344,19 @@
     <sentence id="787:444">
         <text>The criticism has waned, and now I'd be the first to recommend an Air for truly portable computing.</text>
         <aspectTerms>
-            <aspectTerm term="portable computing" from="80" to="98"/>
+            <aspectTerm term="portable computing" polarity="positive"  from="80" to="98"/>
         </aspectTerms>
     </sentence>
     <sentence id="1141:1">
         <text>I would have given it 5 starts was it not for the fact that it had Windows 8</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="67" to="76"/>
+            <aspectTerm term="Windows 8" polarity="negative"  from="67" to="76"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:495">
         <text>MS Office 2011 for Mac is wonderful, well worth it.</text>
         <aspectTerms>
-            <aspectTerm term="MS Office 2011 for Mac" from="0" to="22"/>
+            <aspectTerm term="MS Office 2011 for Mac" polarity="positive"  from="0" to="22"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:809">
@@ -365,7 +365,7 @@
     <sentence id="106:1">
         <text>But the performance of Mac Mini is a huge disappointment.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="8" to="19"/>
+            <aspectTerm term="performance" polarity="negative"  from="8" to="19"/>
         </aspectTerms>
     </sentence>
     <sentence id="782:1">
@@ -377,15 +377,15 @@
     <sentence id="294:1">
         <text>They don't just look good; they deliver excellent performance.</text>
         <aspectTerms>
-            <aspectTerm term="look" from="16" to="20"/>
-            <aspectTerm term="performance" from="50" to="61"/>
+            <aspectTerm term="look" polarity="positive"  from="16" to="20"/>
+            <aspectTerm term="performance" polarity="positive"  from="50" to="61"/>
         </aspectTerms>
     </sentence>
     <sentence id="553:1">
         <text>I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.</text>
         <aspectTerms>
-            <aspectTerm term="lit up keys" from="72" to="83"/>
-            <aspectTerm term="screen display" from="88" to="102"/>
+            <aspectTerm term="lit up keys" polarity="positive"  from="72" to="83"/>
+            <aspectTerm term="screen display" polarity="positive"  from="88" to="102"/>
         </aspectTerms>
     </sentence>
     <sentence id="804:1">
@@ -394,14 +394,14 @@
     <sentence id="315:1">
         <text>The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.</text>
         <aspectTerms>
-            <aspectTerm term="Mountain Lion OS" from="4" to="20"/>
-            <aspectTerm term="Microsoft Windows" from="72" to="89"/>
+            <aspectTerm term="Mountain Lion OS" polarity="positive"  from="4" to="20"/>
+            <aspectTerm term="Microsoft Windows" polarity="neutral"  from="72" to="89"/>
         </aspectTerms>
     </sentence>
     <sentence id="17:4">
         <text>However, I can refute that OSX is "FAST".</text>
         <aspectTerms>
-            <aspectTerm term="OSX" from="27" to="30"/>
+            <aspectTerm term="OSX" polarity="negative"  from="27" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="631:1">
@@ -410,7 +410,7 @@
     <sentence id="787:575">
         <text>Enjoy using Microsoft Office!</text>
         <aspectTerms>
-            <aspectTerm term="Microsoft Office" from="12" to="28"/>
+            <aspectTerm term="Microsoft Office" polarity="positive"  from="12" to="28"/>
         </aspectTerms>
     </sentence>
     <sentence id="764:1">
@@ -422,8 +422,8 @@
     <sentence id="412:1">
         <text>Incredible graphics and brilliant colors.</text>
         <aspectTerms>
-            <aspectTerm term="graphics" from="11" to="19"/>
-            <aspectTerm term="colors" from="34" to="40"/>
+            <aspectTerm term="graphics" polarity="positive"  from="11" to="19"/>
+            <aspectTerm term="colors" polarity="positive"  from="34" to="40"/>
         </aspectTerms>
     </sentence>
     <sentence id="60:1">
@@ -435,28 +435,28 @@
     <sentence id="747:5">
         <text>Built-in apps are purely amazing.</text>
         <aspectTerms>
-            <aspectTerm term="Built-in apps" from="0" to="13"/>
+            <aspectTerm term="Built-in apps" polarity="positive"  from="0" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="395:3">
         <text>Cons: Screen resolution.</text>
         <aspectTerms>
-            <aspectTerm term="Screen resolution" from="6" to="23"/>
+            <aspectTerm term="Screen resolution" polarity="negative"  from="6" to="23"/>
         </aspectTerms>
     </sentence>
     <sentence id="469:1">
         <text>From the speed to the multi touch gestures this operating system beats Windows easily.</text>
         <aspectTerms>
-            <aspectTerm term="operating system" from="48" to="64"/>
-            <aspectTerm term="Windows" from="71" to="78"/>
-            <aspectTerm term="speed" from="9" to="14"/>
-            <aspectTerm term="multi touch gestures" from="22" to="42"/>
+            <aspectTerm term="operating system" polarity="positive"  from="48" to="64"/>
+            <aspectTerm term="Windows" polarity="negative"  from="71" to="78"/>
+            <aspectTerm term="speed" polarity="positive"  from="9" to="14"/>
+            <aspectTerm term="multi touch gestures" polarity="positive"  from="22" to="42"/>
         </aspectTerms>
     </sentence>
     <sentence id="1028:1">
         <text>I really like the size and I'm a fan of the ACERS.</text>
         <aspectTerms>
-            <aspectTerm term="size" from="18" to="22"/>
+            <aspectTerm term="size" polarity="positive"  from="18" to="22"/>
         </aspectTerms>
     </sentence>
     <sentence id="660:1">
@@ -465,20 +465,20 @@
     <sentence id="286:15">
         <text>I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support "accidents" like drops and spills that are NOT covered by AppleCare.</text>
         <aspectTerms>
-            <aspectTerm term="SquareTrade 3-Year Computer Accidental Protection Warranty" from="16" to="74"/>
-            <aspectTerm term="AppleCare" from="165" to="174"/>
+            <aspectTerm term="SquareTrade 3-Year Computer Accidental Protection Warranty" polarity="positive"  from="16" to="74"/>
+            <aspectTerm term="AppleCare" polarity="negative"  from="165" to="174"/>
         </aspectTerms>
     </sentence>
     <sentence id="1002:1">
         <text>It's light and easy to transport.</text>
         <aspectTerms>
-            <aspectTerm term="transport" from="23" to="32"/>
+            <aspectTerm term="transport" polarity="positive"  from="23" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="1118:1">
         <text>Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8 Set-Up" from="58" to="74"/>
+            <aspectTerm term="Windows 8 Set-Up" polarity="negative"  from="58" to="74"/>
         </aspectTerms>
     </sentence>
     <sentence id="46:1">
@@ -490,8 +490,8 @@
     <sentence id="417:1">
         <text>It's been time for a new laptop, and the only debate was which size of the Mac laptops, and whether to spring for the retina display.</text>
         <aspectTerms>
-            <aspectTerm term="size" from="63" to="67"/>
-            <aspectTerm term="retina display" from="118" to="132"/>
+            <aspectTerm term="size" polarity="neutral"  from="63" to="67"/>
+            <aspectTerm term="retina display" polarity="neutral"  from="118" to="132"/>
         </aspectTerms>
     </sentence>
     <sentence id="929:1">
@@ -503,14 +503,14 @@
     <sentence id="727:1">
         <text>The reason why I choose apple MacBook because of their design and the aluminum casing.</text>
         <aspectTerms>
-            <aspectTerm term="design" from="55" to="61"/>
-            <aspectTerm term="aluminum casing" from="70" to="85"/>
+            <aspectTerm term="design" polarity="positive"  from="55" to="61"/>
+            <aspectTerm term="aluminum casing" polarity="positive"  from="70" to="85"/>
         </aspectTerms>
     </sentence>
     <sentence id="747:8">
         <text>The aluminum body sure makes it stand out.</text>
         <aspectTerms>
-            <aspectTerm term="aluminum body" from="4" to="17"/>
+            <aspectTerm term="aluminum body" polarity="positive"  from="4" to="17"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:773">
@@ -519,8 +519,8 @@
     <sentence id="37:1">
         <text>It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.</text>
         <aspectTerms>
-            <aspectTerm term="integrate bluetooth devices" from="19" to="46"/>
-            <aspectTerm term="USB devices" from="52" to="63"/>
+            <aspectTerm term="integrate bluetooth devices" polarity="positive"  from="19" to="46"/>
+            <aspectTerm term="USB devices" polarity="positive"  from="52" to="63"/>
         </aspectTerms>
     </sentence>
     <sentence id="741:1">
@@ -535,7 +535,7 @@
     <sentence id="891:8">
         <text>And the fact that Apple is driving the 13" RMBP with the Intel4000 graphic chip seems underpowered (to me.</text>
         <aspectTerms>
-            <aspectTerm term="Intel4000 graphic chip" from="57" to="79"/>
+            <aspectTerm term="Intel4000 graphic chip" polarity="negative"  from="57" to="79"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:42">
@@ -544,9 +544,9 @@
     <sentence id="19:1">
         <text>Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.</text>
         <aspectTerms>
-            <aspectTerm term="DVD drive Firewire port" from="18" to="41"/>
-            <aspectTerm term="adapter" from="58" to="65"/>
-            <aspectTerm term="SDXC slot" from="79" to="88"/>
+            <aspectTerm term="DVD drive Firewire port" polarity="neutral"  from="18" to="41"/>
+            <aspectTerm term="adapter" polarity="neutral"  from="58" to="65"/>
+            <aspectTerm term="SDXC slot" polarity="negative"  from="79" to="88"/>
         </aspectTerms>
     </sentence>
     <sentence id="907:1">
@@ -558,13 +558,13 @@
     <sentence id="363:27">
         <text>The durability of the laptop will make it worth the money.</text>
         <aspectTerms>
-            <aspectTerm term="durability" from="4" to="14"/>
+            <aspectTerm term="durability" polarity="positive"  from="4" to="14"/>
         </aspectTerms>
     </sentence>
     <sentence id="422:1">
         <text>Well designed and fast.</text>
         <aspectTerms>
-            <aspectTerm term="designed" from="5" to="13"/>
+            <aspectTerm term="designed" polarity="positive"  from="5" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:414">
@@ -573,19 +573,19 @@
     <sentence id="295:1">
         <text>But I was completely wrong, this computer is UNBELIEVABLE amazing and easy to use.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="78" to="81"/>
+            <aspectTerm term="use" polarity="positive"  from="78" to="81"/>
         </aspectTerms>
     </sentence>
     <sentence id="1119:1">
         <text>Exactly as posted plus a great value.</text>
         <aspectTerms>
-            <aspectTerm term="value" from="31" to="36"/>
+            <aspectTerm term="value" polarity="positive"  from="31" to="36"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:81">
         <text>The specs are pretty good too.</text>
         <aspectTerms>
-            <aspectTerm term="specs" from="4" to="9"/>
+            <aspectTerm term="specs" polarity="positive"  from="4" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="1045:1">
@@ -603,10 +603,10 @@
     <sentence id="211:1">
         <text>Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.</text>
         <aspectTerms>
-            <aspectTerm term="product quality" from="22" to="37"/>
-            <aspectTerm term="aesthetics" from="38" to="48"/>
-            <aspectTerm term="craftmanship" from="49" to="61"/>
-            <aspectTerm term="customer service" from="67" to="83"/>
+            <aspectTerm term="product quality" polarity="positive"  from="22" to="37"/>
+            <aspectTerm term="aesthetics" polarity="positive"  from="38" to="48"/>
+            <aspectTerm term="craftmanship" polarity="positive"  from="49" to="61"/>
+            <aspectTerm term="customer service" polarity="positive"  from="67" to="83"/>
         </aspectTerms>
     </sentence>
     <sentence id="888:1">
@@ -618,8 +618,8 @@
     <sentence id="1159:1">
         <text>It is a great size and amazing windows 8 included!</text>
         <aspectTerms>
-            <aspectTerm term="size" from="14" to="18"/>
-            <aspectTerm term="windows 8" from="31" to="40"/>
+            <aspectTerm term="size" polarity="positive"  from="14" to="18"/>
+            <aspectTerm term="windows 8" polarity="positive"  from="31" to="40"/>
         </aspectTerms>
     </sentence>
     <sentence id="661:1">
@@ -628,13 +628,13 @@
     <sentence id="1150:1">
         <text>I do not like too much Windows 8.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="23" to="32"/>
+            <aspectTerm term="Windows 8" polarity="negative"  from="23" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:272">
         <text>Startup times are incredibly long: over two minutes.</text>
         <aspectTerms>
-            <aspectTerm term="Startup times" from="0" to="13"/>
+            <aspectTerm term="Startup times" polarity="negative"  from="0" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="369:0">
@@ -646,7 +646,7 @@
     <sentence id="743:1">
         <text>Also stunning colors and speedy</text>
         <aspectTerms>
-            <aspectTerm term="colors" from="14" to="20"/>
+            <aspectTerm term="colors" polarity="positive"  from="14" to="20"/>
         </aspectTerms>
     </sentence>
     <sentence id="803:1">
@@ -655,14 +655,14 @@
     <sentence id="681:1">
         <text>great price free shipping what else can i ask for!!</text>
         <aspectTerms>
-            <aspectTerm term="price" from="6" to="11"/>
-            <aspectTerm term="shipping" from="17" to="25"/>
+            <aspectTerm term="price" polarity="positive"  from="6" to="11"/>
+            <aspectTerm term="shipping" polarity="positive"  from="17" to="25"/>
         </aspectTerms>
     </sentence>
     <sentence id="801:1">
         <text>This mouse is terrific.</text>
         <aspectTerms>
-            <aspectTerm term="mouse" from="5" to="10"/>
+            <aspectTerm term="mouse" polarity="positive"  from="5" to="10"/>
         </aspectTerms>
     </sentence>
     <sentence id="280:12">
@@ -674,13 +674,13 @@
     <sentence id="786:1423">
         <text>It is really thick around the battery.</text>
         <aspectTerms>
-            <aspectTerm term="battery" from="30" to="37"/>
+            <aspectTerm term="battery" polarity="neutral"  from="30" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="974:1">
         <text>And windows 7 works like a charm.</text>
         <aspectTerms>
-            <aspectTerm term="windows 7" from="4" to="13"/>
+            <aspectTerm term="windows 7" polarity="positive"  from="4" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="151:1">
@@ -689,27 +689,27 @@
     <sentence id="605:1">
         <text>:) Great product, great price, great delivery, and great service.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="24" to="29"/>
-            <aspectTerm term="delivery" from="37" to="45"/>
-            <aspectTerm term="service" from="57" to="64"/>
+            <aspectTerm term="price" polarity="positive"  from="24" to="29"/>
+            <aspectTerm term="delivery" polarity="positive"  from="37" to="45"/>
+            <aspectTerm term="service" polarity="positive"  from="57" to="64"/>
         </aspectTerms>
     </sentence>
     <sentence id="846:1">
         <text>:] It arrived so fast and customer service was great.</text>
         <aspectTerms>
-            <aspectTerm term="customer service" from="26" to="42"/>
+            <aspectTerm term="customer service" polarity="positive"  from="26" to="42"/>
         </aspectTerms>
     </sentence>
     <sentence id="983:1">
         <text>tried windows 8 and hated it !!!</text>
         <aspectTerms>
-            <aspectTerm term="windows 8" from="6" to="15"/>
+            <aspectTerm term="windows 8" polarity="negative"  from="6" to="15"/>
         </aspectTerms>
     </sentence>
     <sentence id="912:1">
         <text>The price is higher than most lab top out there; however, he/she will get what they paid for, which is a great computer.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="4" to="9"/>
+            <aspectTerm term="price" polarity="conflict"  from="4" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="449:1">
@@ -718,13 +718,13 @@
     <sentence id="723:1">
         <text>Set up was a breeze.</text>
         <aspectTerms>
-            <aspectTerm term="Set up" from="0" to="6"/>
+            <aspectTerm term="Set up" polarity="positive"  from="0" to="6"/>
         </aspectTerms>
     </sentence>
     <sentence id="1122:1">
         <text>But I do NOT like Win8.</text>
         <aspectTerms>
-            <aspectTerm term="Win8" from="18" to="22"/>
+            <aspectTerm term="Win8" polarity="negative"  from="18" to="22"/>
         </aspectTerms>
     </sentence>
     <sentence id="893:1">
@@ -733,7 +733,7 @@
     <sentence id="856:1">
         <text>I am still in the process of learning about its features.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="48" to="56"/>
+            <aspectTerm term="features" polarity="neutral"  from="48" to="56"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:214">
@@ -742,15 +742,15 @@
     <sentence id="609:1">
         <text>I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="45" to="50"/>
-            <aspectTerm term="OSX" from="84" to="87"/>
-            <aspectTerm term="support for games" from="100" to="117"/>
+            <aspectTerm term="price" polarity="negative"  from="45" to="50"/>
+            <aspectTerm term="OSX" polarity="negative"  from="84" to="87"/>
+            <aspectTerm term="support for games" polarity="negative"  from="100" to="117"/>
         </aspectTerms>
     </sentence>
     <sentence id="101:1">
         <text>I wanted it for it's mobility and man, this little bad boy is very nice.</text>
         <aspectTerms>
-            <aspectTerm term="mobility" from="21" to="29"/>
+            <aspectTerm term="mobility" polarity="positive"  from="21" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="7:23">
@@ -765,19 +765,19 @@
     <sentence id="799:1">
         <text>The investment of a new MacBook Pro came at a price, but totally worth it for a good piece of mind.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="46" to="51"/>
+            <aspectTerm term="price" polarity="conflict"  from="46" to="51"/>
         </aspectTerms>
     </sentence>
     <sentence id="156:1">
         <text>I found the mini to be:Exceptionally easy to set up</text>
         <aspectTerms>
-            <aspectTerm term="set up" from="45" to="51"/>
+            <aspectTerm term="set up" polarity="positive"  from="45" to="51"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:318">
         <text>Having USB3 is why I bought this Mini.</text>
         <aspectTerms>
-            <aspectTerm term="USB3" from="7" to="11"/>
+            <aspectTerm term="USB3" polarity="positive"  from="7" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:622">
@@ -786,13 +786,13 @@
     <sentence id="480:7">
         <text>The sound is nice and loud; I don't have any problems with hearing anything.</text>
         <aspectTerms>
-            <aspectTerm term="sound" from="4" to="9"/>
+            <aspectTerm term="sound" polarity="positive"  from="4" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="720:1">
         <text>It is very slim, the track pad is very much impressed with me.</text>
         <aspectTerms>
-            <aspectTerm term="track pad" from="21" to="30"/>
+            <aspectTerm term="track pad" polarity="positive"  from="21" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:717">
@@ -810,7 +810,7 @@
     <sentence id="1122:5">
         <text>The settings are not user-friendly either.</text>
         <aspectTerms>
-            <aspectTerm term="settings" from="4" to="12"/>
+            <aspectTerm term="settings" polarity="negative"  from="4" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="7:22">
@@ -825,15 +825,15 @@
     <sentence id="1063:180">
         <text>Thank goodness for OpenOffice!</text>
         <aspectTerms>
-            <aspectTerm term="OpenOffice" from="19" to="29"/>
+            <aspectTerm term="OpenOffice" polarity="positive"  from="19" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="627:1">
         <text>Awesome form factor, great battery life, wonderful UX.</text>
         <aspectTerms>
-            <aspectTerm term="form factor" from="8" to="19"/>
-            <aspectTerm term="battery life" from="27" to="39"/>
-            <aspectTerm term="UX" from="51" to="53"/>
+            <aspectTerm term="form factor" polarity="positive"  from="8" to="19"/>
+            <aspectTerm term="battery life" polarity="positive"  from="27" to="39"/>
+            <aspectTerm term="UX" polarity="positive"  from="51" to="53"/>
         </aspectTerms>
     </sentence>
     <sentence id="302:1">
@@ -845,8 +845,8 @@
     <sentence id="876:1">
         <text>i love the keyboard and the screen.</text>
         <aspectTerms>
-            <aspectTerm term="keyboard" from="11" to="19"/>
-            <aspectTerm term="screen" from="28" to="34"/>
+            <aspectTerm term="keyboard" polarity="positive"  from="11" to="19"/>
+            <aspectTerm term="screen" polarity="positive"  from="28" to="34"/>
         </aspectTerms>
     </sentence>
     <sentence id="1113:1">
@@ -858,7 +858,7 @@
     <sentence id="998:1">
         <text>However, there are MAJOR issues with the touchpad which render the device nearly useless.</text>
         <aspectTerms>
-            <aspectTerm term="touchpad" from="41" to="49"/>
+            <aspectTerm term="touchpad" polarity="negative"  from="41" to="49"/>
         </aspectTerms>
     </sentence>
     <sentence id="292:1">
@@ -867,7 +867,7 @@
     <sentence id="104:1">
         <text>I've already upgraded o Mavericks and I am impressed with everything about this computer.</text>
         <aspectTerms>
-            <aspectTerm term="Mavericks" from="24" to="33"/>
+            <aspectTerm term="Mavericks" polarity="positive"  from="24" to="33"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:711">
@@ -882,7 +882,7 @@
     <sentence id="218:1">
         <text>Not as fast as I would have expect for an i5.</text>
         <aspectTerms>
-            <aspectTerm term="i5" from="42" to="44"/>
+            <aspectTerm term="i5" polarity="negative"  from="42" to="44"/>
         </aspectTerms>
     </sentence>
     <sentence id="622:1">
@@ -900,8 +900,8 @@
     <sentence id="79:1">
         <text>thanks for great service and shipping!</text>
         <aspectTerms>
-            <aspectTerm term="service" from="17" to="24"/>
-            <aspectTerm term="shipping" from="29" to="37"/>
+            <aspectTerm term="service" polarity="positive"  from="17" to="24"/>
+            <aspectTerm term="shipping" polarity="positive"  from="29" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:725">
@@ -916,9 +916,9 @@
     <sentence id="16:1">
         <text>The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="4" to="15"/>
-            <aspectTerm term="built-in applications" from="38" to="59"/>
-            <aspectTerm term="iPhoto" from="65" to="71"/>
+            <aspectTerm term="performance" polarity="positive"  from="4" to="15"/>
+            <aspectTerm term="built-in applications" polarity="positive"  from="38" to="59"/>
+            <aspectTerm term="iPhoto" polarity="positive"  from="65" to="71"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:358">
@@ -927,8 +927,8 @@
     <sentence id="895:1">
         <text>I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.</text>
         <aspectTerms>
-            <aspectTerm term="hard drive" from="19" to="29"/>
-            <aspectTerm term="Samsung 830 SSD" from="36" to="51"/>
+            <aspectTerm term="hard drive" polarity="neutral"  from="19" to="29"/>
+            <aspectTerm term="Samsung 830 SSD" polarity="positive"  from="36" to="51"/>
         </aspectTerms>
     </sentence>
     <sentence id="836:1">
@@ -964,7 +964,7 @@
     <sentence id="714:1">
         <text>Starts up in a hurry and everything is ready to go.</text>
         <aspectTerms>
-            <aspectTerm term="Starts up" from="0" to="9"/>
+            <aspectTerm term="Starts up" polarity="positive"  from="0" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="904:1">
@@ -979,7 +979,7 @@
     <sentence id="786:876">
         <text>Yes, that's a good thing, but it's made from aluminum that scratches easily.</text>
         <aspectTerms>
-            <aspectTerm term="aluminum" from="45" to="53"/>
+            <aspectTerm term="aluminum" polarity="negative"  from="45" to="53"/>
         </aspectTerms>
     </sentence>
     <sentence id="1091:1">
@@ -991,13 +991,13 @@
     <sentence id="566:1">
         <text>Quick and has built in virus control.</text>
         <aspectTerms>
-            <aspectTerm term="built in virus control" from="14" to="36"/>
+            <aspectTerm term="built in virus control" polarity="positive"  from="14" to="36"/>
         </aspectTerms>
     </sentence>
     <sentence id="491:1">
         <text>Took a long time trying to decide between one with retina display and one without.</text>
         <aspectTerms>
-            <aspectTerm term="retina display" from="51" to="65"/>
+            <aspectTerm term="retina display" polarity="neutral"  from="51" to="65"/>
         </aspectTerms>
     </sentence>
     <sentence id="107:1">
@@ -1009,7 +1009,7 @@
     <sentence id="278:5">
         <text>I was also informed that the components of the Mac Book were dirty.</text>
         <aspectTerms>
-            <aspectTerm term="components" from="29" to="39"/>
+            <aspectTerm term="components" polarity="negative"  from="29" to="39"/>
         </aspectTerms>
     </sentence>
     <sentence id="732:1">
@@ -1024,14 +1024,14 @@
     <sentence id="337:1">
         <text>the hardware problems have been so bad, i can't wait till it completely dies in 3 years, TOPS!</text>
         <aspectTerms>
-            <aspectTerm term="hardware" from="4" to="12"/>
+            <aspectTerm term="hardware" polarity="negative"  from="4" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="857:1">
         <text>It's so nice that the battery last so long and that this machine has the snow lion!</text>
         <aspectTerms>
-            <aspectTerm term="battery" from="22" to="29"/>
-            <aspectTerm term="snow lion" from="73" to="82"/>
+            <aspectTerm term="battery" polarity="positive"  from="22" to="29"/>
+            <aspectTerm term="snow lion" polarity="positive"  from="73" to="82"/>
         </aspectTerms>
     </sentence>
     <sentence id="777:1">
@@ -1040,7 +1040,7 @@
     <sentence id="927:1">
         <text>HOWEVER I chose two day shipping and it took over a week to arrive.</text>
         <aspectTerms>
-            <aspectTerm term="shipping" from="24" to="32"/>
+            <aspectTerm term="shipping" polarity="negative"  from="24" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:428">
@@ -1055,7 +1055,7 @@
     <sentence id="679:1">
         <text>it's exactly what i wanted, and it has all the new features and whatnot.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="51" to="59"/>
+            <aspectTerm term="features" polarity="positive"  from="51" to="59"/>
         </aspectTerms>
     </sentence>
     <sentence id="476:1">
@@ -1067,13 +1067,13 @@
     <sentence id="503:1">
         <text>Can you buy any laptop that matches the quality of a MacBook?</text>
         <aspectTerms>
-            <aspectTerm term="quality" from="40" to="47"/>
+            <aspectTerm term="quality" polarity="positive"  from="40" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="1040:1">
         <text>It feels cheap, the keyboard is not very sensitive.</text>
         <aspectTerms>
-            <aspectTerm term="keyboard" from="20" to="28"/>
+            <aspectTerm term="keyboard" polarity="negative"  from="20" to="28"/>
         </aspectTerms>
     </sentence>
     <sentence id="842:9">
@@ -1082,13 +1082,13 @@
     <sentence id="982:1">
         <text>Though please note that sometimes it crashes, and the sound quality isnt superb.</text>
         <aspectTerms>
-            <aspectTerm term="sound quality" from="54" to="67"/>
+            <aspectTerm term="sound quality" polarity="negative"  from="54" to="67"/>
         </aspectTerms>
     </sentence>
     <sentence id="748:1">
         <text>It is very easy to navigate even for a novice.</text>
         <aspectTerms>
-            <aspectTerm term="navigate" from="19" to="27"/>
+            <aspectTerm term="navigate" polarity="positive"  from="19" to="27"/>
         </aspectTerms>
     </sentence>
     <sentence id="170:1">
@@ -1100,14 +1100,14 @@
     <sentence id="989:1">
         <text>Does everything I need it to, has a wonderful battery life and I couldn't be happier.</text>
         <aspectTerms>
-            <aspectTerm term="battery life" from="46" to="58"/>
+            <aspectTerm term="battery life" polarity="positive"  from="46" to="58"/>
         </aspectTerms>
     </sentence>
     <sentence id="765:1">
         <text>Great Performance and Quality.</text>
         <aspectTerms>
-            <aspectTerm term="Performance" from="6" to="17"/>
-            <aspectTerm term="Quality" from="22" to="29"/>
+            <aspectTerm term="Performance" polarity="positive"  from="6" to="17"/>
+            <aspectTerm term="Quality" polarity="positive"  from="22" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="1030:4">
@@ -1119,9 +1119,9 @@
     <sentence id="462:1">
         <text>I used windows XP, windows Vista, and Windows 7 extensively.</text>
         <aspectTerms>
-            <aspectTerm term="windows XP" from="7" to="17"/>
-            <aspectTerm term="windows Vista" from="19" to="32"/>
-            <aspectTerm term="Windows 7" from="38" to="47"/>
+            <aspectTerm term="windows XP" polarity="neutral"  from="7" to="17"/>
+            <aspectTerm term="windows Vista" polarity="neutral"  from="19" to="32"/>
+            <aspectTerm term="Windows 7" polarity="neutral"  from="38" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="914:1">
@@ -1133,8 +1133,8 @@
     <sentence id="124:1">
         <text>I did add a SSD drive and memory</text>
         <aspectTerms>
-            <aspectTerm term="SSD drive" from="12" to="21"/>
-            <aspectTerm term="memory" from="26" to="32"/>
+            <aspectTerm term="SSD drive" polarity="neutral"  from="12" to="21"/>
+            <aspectTerm term="memory" polarity="neutral"  from="26" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="790:0">
@@ -1146,8 +1146,8 @@
     <sentence id="269:1">
         <text>On start up it asks endless questions just so itune can sell you more of their products.</text>
         <aspectTerms>
-            <aspectTerm term="start up" from="3" to="11"/>
-            <aspectTerm term="itune" from="46" to="51"/>
+            <aspectTerm term="start up" polarity="negative"  from="3" to="11"/>
+            <aspectTerm term="itune" polarity="negative"  from="46" to="51"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:369">
@@ -1156,7 +1156,7 @@
     <sentence id="332:1">
         <text>I Have been a Pc user for a very long time now but I will get used to this new OS.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="79" to="81"/>
+            <aspectTerm term="OS" polarity="neutral"  from="79" to="81"/>
         </aspectTerms>
     </sentence>
     <sentence id="869:1">
@@ -1165,15 +1165,15 @@
     <sentence id="787:628">
         <text>One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.</text>
         <aspectTerms>
-            <aspectTerm term="restore disks" from="44" to="57"/>
-            <aspectTerm term="charging cables" from="156" to="171"/>
-            <aspectTerm term="material" from="199" to="207"/>
+            <aspectTerm term="restore disks" polarity="negative"  from="44" to="57"/>
+            <aspectTerm term="charging cables" polarity="negative"  from="156" to="171"/>
+            <aspectTerm term="material" polarity="negative"  from="199" to="207"/>
         </aspectTerms>
     </sentence>
     <sentence id="300:1">
         <text>I bought it to my son who uses it for graphic design.</text>
         <aspectTerms>
-            <aspectTerm term="graphic design" from="38" to="52"/>
+            <aspectTerm term="graphic design" polarity="neutral"  from="38" to="52"/>
         </aspectTerms>
     </sentence>
     <sentence id="320:1">
@@ -1185,13 +1185,13 @@
     <sentence id="29:312">
         <text>I never tried any external mics with that iMac.</text>
         <aspectTerms>
-            <aspectTerm term="external mics" from="18" to="31"/>
+            <aspectTerm term="external mics" polarity="neutral"  from="18" to="31"/>
         </aspectTerms>
     </sentence>
     <sentence id="580:1">
         <text>The new os is great on my macbook pro!</text>
         <aspectTerms>
-            <aspectTerm term="os" from="8" to="10"/>
+            <aspectTerm term="os" polarity="positive"  from="8" to="10"/>
         </aspectTerms>
     </sentence>
     <sentence id="478:1">
@@ -1200,7 +1200,7 @@
     <sentence id="1027:1">
         <text>I had a little problem adjusting to the small screen but works fine as long as I remember to carry my glasses.</text>
         <aspectTerms>
-            <aspectTerm term="screen" from="46" to="52"/>
+            <aspectTerm term="screen" polarity="conflict"  from="46" to="52"/>
         </aspectTerms>
     </sentence>
     <sentence id="647:1">
@@ -1209,20 +1209,20 @@
     <sentence id="705:1">
         <text>I have experienced no problems, works as anticipated.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="32" to="37"/>
+            <aspectTerm term="works" polarity="positive"  from="32" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="873:1">
         <text>System is running great.</text>
         <aspectTerms>
-            <aspectTerm term="System" from="0" to="6"/>
+            <aspectTerm term="System" polarity="positive"  from="0" to="6"/>
         </aspectTerms>
     </sentence>
     <sentence id="633:1">
         <text>Easy to customize setting and even create your own bookmarks.</text>
         <aspectTerms>
-            <aspectTerm term="customize setting" from="8" to="25"/>
-            <aspectTerm term="create your own bookmarks" from="35" to="60"/>
+            <aspectTerm term="customize setting" polarity="positive"  from="8" to="25"/>
+            <aspectTerm term="create your own bookmarks" polarity="positive"  from="35" to="60"/>
         </aspectTerms>
     </sentence>
     <sentence id="276:1">
@@ -1231,8 +1231,8 @@
     <sentence id="105:1">
         <text>The MAC Mini, wireless keyboard / mouse and a HDMI cable is all I need to get some real work done.</text>
         <aspectTerms>
-            <aspectTerm term="wireless keyboard / mouse" from="14" to="39"/>
-            <aspectTerm term="HDMI cable" from="46" to="56"/>
+            <aspectTerm term="wireless keyboard / mouse" polarity="neutral"  from="14" to="39"/>
+            <aspectTerm term="HDMI cable" polarity="neutral"  from="46" to="56"/>
         </aspectTerms>
     </sentence>
     <sentence id="89:1">
@@ -1241,15 +1241,15 @@
     <sentence id="1076:1">
         <text>it has all the features that we expected and the price was good, working well so far.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="15" to="23"/>
-            <aspectTerm term="price" from="49" to="54"/>
-            <aspectTerm term="working" from="65" to="72"/>
+            <aspectTerm term="features" polarity="positive"  from="15" to="23"/>
+            <aspectTerm term="price" polarity="positive"  from="49" to="54"/>
+            <aspectTerm term="working" polarity="positive"  from="65" to="72"/>
         </aspectTerms>
     </sentence>
     <sentence id="112:1">
         <text>I work as a designer and coder and I needed a new buddy to work with, not gaming.</text>
         <aspectTerms>
-            <aspectTerm term="gaming" from="74" to="80"/>
+            <aspectTerm term="gaming" polarity="neutral"  from="74" to="80"/>
         </aspectTerms>
     </sentence>
     <sentence id="832:17">
@@ -1258,7 +1258,7 @@
     <sentence id="453:1">
         <text>The new operating system makes this computer into a super iPad.</text>
         <aspectTerms>
-            <aspectTerm term="operating system" from="8" to="24"/>
+            <aspectTerm term="operating system" polarity="positive"  from="8" to="24"/>
         </aspectTerms>
     </sentence>
     <sentence id="733:1">
@@ -1267,20 +1267,20 @@
     <sentence id="179:1">
         <text>Easy to set up and go!</text>
         <aspectTerms>
-            <aspectTerm term="set up" from="8" to="14"/>
+            <aspectTerm term="set up" polarity="positive"  from="8" to="14"/>
         </aspectTerms>
     </sentence>
     <sentence id="900:1">
         <text>I can't believe how quiet the hard drive is and how quick this thing boots up.</text>
         <aspectTerms>
-            <aspectTerm term="hard drive" from="30" to="40"/>
-            <aspectTerm term="boots up" from="69" to="77"/>
+            <aspectTerm term="hard drive" polarity="positive"  from="30" to="40"/>
+            <aspectTerm term="boots up" polarity="positive"  from="69" to="77"/>
         </aspectTerms>
     </sentence>
     <sentence id="1:26">
         <text>The only issue came when I tried scanning to the mac.</text>
         <aspectTerms>
-            <aspectTerm term="scanning" from="33" to="41"/>
+            <aspectTerm term="scanning" polarity="negative"  from="33" to="41"/>
         </aspectTerms>
     </sentence>
     <sentence id="874:1">
@@ -1289,7 +1289,7 @@
     <sentence id="993:1">
         <text>I think this is about as good as it gets at anything close to this price point.</text>
         <aspectTerms>
-            <aspectTerm term="price point" from="67" to="78"/>
+            <aspectTerm term="price point" polarity="neutral"  from="67" to="78"/>
         </aspectTerms>
     </sentence>
     <sentence id="122:1">
@@ -1298,7 +1298,7 @@
     <sentence id="945:1">
         <text>It's just what we were looking for and it works great.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="42" to="47"/>
+            <aspectTerm term="works" polarity="positive"  from="42" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="542:1">
@@ -1307,8 +1307,8 @@
     <sentence id="709:1">
         <text>It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!</text>
         <aspectTerms>
-            <aspectTerm term="working" from="43" to="50"/>
-            <aspectTerm term="surfing" from="51" to="58"/>
+            <aspectTerm term="working" polarity="positive"  from="43" to="50"/>
+            <aspectTerm term="surfing" polarity="positive"  from="51" to="58"/>
         </aspectTerms>
     </sentence>
     <sentence id="771:1">
@@ -1317,8 +1317,8 @@
     <sentence id="87:1">
         <text>It works fine, and all the software seems to run pretty well.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="3" to="8"/>
-            <aspectTerm term="software" from="27" to="35"/>
+            <aspectTerm term="works" polarity="positive"  from="3" to="8"/>
+            <aspectTerm term="software" polarity="positive"  from="27" to="35"/>
         </aspectTerms>
     </sentence>
     <sentence id="984:1">
@@ -1330,10 +1330,10 @@
     <sentence id="0:1">
         <text>I'm using this computer for word processing, web browsing, some gaming, and I'm learning programming.</text>
         <aspectTerms>
-            <aspectTerm term="word processing" from="28" to="43"/>
-            <aspectTerm term="web browsing" from="45" to="57"/>
-            <aspectTerm term="gaming" from="64" to="70"/>
-            <aspectTerm term="programming" from="89" to="100"/>
+            <aspectTerm term="word processing" polarity="neutral"  from="28" to="43"/>
+            <aspectTerm term="web browsing" polarity="neutral"  from="45" to="57"/>
+            <aspectTerm term="gaming" polarity="neutral"  from="64" to="70"/>
+            <aspectTerm term="programming" polarity="neutral"  from="89" to="100"/>
         </aspectTerms>
     </sentence>
     <sentence id="91:1">
@@ -1342,7 +1342,7 @@
     <sentence id="477:1">
         <text>My wife was so excited to open the box, but quickly came to see that it did not function as it should.</text>
         <aspectTerms>
-            <aspectTerm term="function" from="80" to="88"/>
+            <aspectTerm term="function" polarity="negative"  from="80" to="88"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:537">
@@ -1351,13 +1351,13 @@
     <sentence id="383:1">
         <text>I wanted a computer that was quite, fast, and that had overall great performance.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="69" to="80"/>
+            <aspectTerm term="performance" polarity="neutral"  from="69" to="80"/>
         </aspectTerms>
     </sentence>
     <sentence id="160:19">
         <text>Apple "Help" is a mixed bag.</text>
         <aspectTerms>
-            <aspectTerm term="Apple &quot;Help&quot;" from="0" to="12"/>
+            <aspectTerm term="Apple &quot;Help&quot;" polarity="negative"  from="0" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="358:1">
@@ -1366,7 +1366,7 @@
     <sentence id="268:1">
         <text>It suddenly can not work.</text>
         <aspectTerms>
-            <aspectTerm term="work" from="20" to="24"/>
+            <aspectTerm term="work" polarity="negative"  from="20" to="24"/>
         </aspectTerms>
     </sentence>
     <sentence id="508:1">
@@ -1375,13 +1375,13 @@
     <sentence id="279:0">
         <text>Harddrive was in poor condition, had to replace it.</text>
         <aspectTerms>
-            <aspectTerm term="Harddrive" from="0" to="9"/>
+            <aspectTerm term="Harddrive" polarity="negative"  from="0" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="200:1">
         <text>The on/off switch is a bit obscure in the rear corner.</text>
         <aspectTerms>
-            <aspectTerm term="on/off switch" from="4" to="17"/>
+            <aspectTerm term="on/off switch" polarity="negative"  from="4" to="17"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:1053">
@@ -1390,14 +1390,14 @@
     <sentence id="28:1">
         <text>My only complaint is the total lack of instructions that come with the mac mini.</text>
         <aspectTerms>
-            <aspectTerm term="instructions" from="39" to="51"/>
+            <aspectTerm term="instructions" polarity="negative"  from="39" to="51"/>
         </aspectTerms>
     </sentence>
     <sentence id="2:1">
         <text>The only task that this computer would not be good enough for would be gaming, otherwise the integrated Intel 4000 graphics work well for other tasks.</text>
         <aspectTerms>
-            <aspectTerm term="gaming" from="71" to="77"/>
-            <aspectTerm term="integrated Intel 4000 graphics" from="93" to="123"/>
+            <aspectTerm term="gaming" polarity="negative"  from="71" to="77"/>
+            <aspectTerm term="integrated Intel 4000 graphics" polarity="conflict"  from="93" to="123"/>
         </aspectTerms>
     </sentence>
     <sentence id="919:1">
@@ -1406,16 +1406,16 @@
     <sentence id="231:1">
         <text>I'm hoping the rest of the features will be the signature quality of apple.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="27" to="35"/>
+            <aspectTerm term="features" polarity="conflict"  from="27" to="35"/>
         </aspectTerms>
     </sentence>
     <sentence id="923:1">
         <text>I use it mostly for content creation (Audio, video, photo editing) and its reliable.</text>
         <aspectTerms>
-            <aspectTerm term="content creation" from="20" to="36"/>
-            <aspectTerm term="Audio" from="38" to="43"/>
-            <aspectTerm term="video" from="45" to="50"/>
-            <aspectTerm term="photo editing" from="52" to="65"/>
+            <aspectTerm term="content creation" polarity="positive"  from="20" to="36"/>
+            <aspectTerm term="Audio" polarity="positive"  from="38" to="43"/>
+            <aspectTerm term="video" polarity="positive"  from="45" to="50"/>
+            <aspectTerm term="photo editing" polarity="positive"  from="52" to="65"/>
         </aspectTerms>
     </sentence>
     <sentence id="59:1">
@@ -1424,7 +1424,7 @@
     <sentence id="462:8">
         <text>Screen is bright and gorgeous.</text>
         <aspectTerms>
-            <aspectTerm term="Screen" from="0" to="6"/>
+            <aspectTerm term="Screen" polarity="positive"  from="0" to="6"/>
         </aspectTerms>
     </sentence>
     <sentence id="102:1">
@@ -1433,7 +1433,7 @@
     <sentence id="382:15">
         <text>The only solution is to turn the brightness down, etc.</text>
         <aspectTerms>
-            <aspectTerm term="brightness" from="33" to="43"/>
+            <aspectTerm term="brightness" polarity="neutral"  from="33" to="43"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:137">
@@ -1442,13 +1442,13 @@
     <sentence id="227">
         <text>If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.</text>
         <aspectTerms>
-            <aspectTerm term="applications" from="131" to="143"/>
+            <aspectTerm term="applications" polarity="neutral"  from="131" to="143"/>
         </aspectTerms>
     </sentence>
     <sentence id="670:1">
         <text>It is robust, with a friendly use as all Apple products.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="30" to="33"/>
+            <aspectTerm term="use" polarity="positive"  from="30" to="33"/>
         </aspectTerms>
     </sentence>
     <sentence id="920:1">
@@ -1457,7 +1457,7 @@
     <sentence id="880:1">
         <text>It is fast and easy to use.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="23" to="26"/>
+            <aspectTerm term="use" polarity="positive"  from="23" to="26"/>
         </aspectTerms>
     </sentence>
     <sentence id="1063:184">
@@ -1466,7 +1466,7 @@
     <sentence id="745:1">
         <text>And the fact that it comes with an i5 processor definitely speeds things up</text>
         <aspectTerms>
-            <aspectTerm term="i5 processor" from="35" to="47"/>
+            <aspectTerm term="i5 processor" polarity="positive"  from="35" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="261:2">
@@ -1475,7 +1475,7 @@
     <sentence id="889:1">
         <text>I have been PC for years but this computer is intuitive and its built in features are a great help</text>
         <aspectTerms>
-            <aspectTerm term="built in features" from="64" to="81"/>
+            <aspectTerm term="built in features" polarity="positive"  from="64" to="81"/>
         </aspectTerms>
     </sentence>
     <sentence id="980:1">
@@ -1484,8 +1484,8 @@
     <sentence id="1094:1">
         <text>Nice screen, keyboard works great!</text>
         <aspectTerms>
-            <aspectTerm term="screen" from="5" to="11"/>
-            <aspectTerm term="keyboard" from="13" to="21"/>
+            <aspectTerm term="screen" polarity="positive"  from="5" to="11"/>
+            <aspectTerm term="keyboard" polarity="positive"  from="13" to="21"/>
         </aspectTerms>
     </sentence>
     <sentence id="1067:5">
@@ -1494,7 +1494,7 @@
     <sentence id="575:1">
         <text>I was amazed at how fast the delivery was.</text>
         <aspectTerms>
-            <aspectTerm term="delivery" from="29" to="37"/>
+            <aspectTerm term="delivery" polarity="positive"  from="29" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="373:0">
@@ -1503,14 +1503,14 @@
     <sentence id="165:1">
         <text>I've installed to it additional SSD and 16Gb RAM.</text>
         <aspectTerms>
-            <aspectTerm term="SSD" from="32" to="35"/>
-            <aspectTerm term="16Gb RAM" from="40" to="48"/>
+            <aspectTerm term="SSD" polarity="neutral"  from="32" to="35"/>
+            <aspectTerm term="16Gb RAM" polarity="neutral"  from="40" to="48"/>
         </aspectTerms>
     </sentence>
     <sentence id="972:1">
         <text>The memory was gone and it was not able to be used.</text>
         <aspectTerms>
-            <aspectTerm term="memory" from="4" to="10"/>
+            <aspectTerm term="memory" polarity="negative"  from="4" to="10"/>
         </aspectTerms>
     </sentence>
     <sentence id="505:1">
@@ -1519,7 +1519,7 @@
     <sentence id="796:1">
         <text>It works great and I am so happy I bought it.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="3" to="8"/>
+            <aspectTerm term="works" polarity="positive"  from="3" to="8"/>
         </aspectTerms>
     </sentence>
     <sentence id="275:1">
@@ -1528,9 +1528,9 @@
     <sentence id="1138:1">
         <text>I like the design and ease of use with the keyboard, plenty of ports.</text>
         <aspectTerms>
-            <aspectTerm term="design" from="11" to="17"/>
-            <aspectTerm term="keyboard" from="43" to="51"/>
-            <aspectTerm term="ports" from="63" to="68"/>
+            <aspectTerm term="design" polarity="positive"  from="11" to="17"/>
+            <aspectTerm term="keyboard" polarity="positive"  from="43" to="51"/>
+            <aspectTerm term="ports" polarity="positive"  from="63" to="68"/>
         </aspectTerms>
     </sentence>
     <sentence id="230:1">
@@ -1539,7 +1539,7 @@
     <sentence id="322:1">
         <text>it definitely beats my old mac and the service was great.</text>
         <aspectTerms>
-            <aspectTerm term="service" from="39" to="46"/>
+            <aspectTerm term="service" polarity="positive"  from="39" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="206:1">
@@ -1548,8 +1548,8 @@
     <sentence id="16:2">
         <text>Web browsing is very quick with Safari browser.</text>
         <aspectTerms>
-            <aspectTerm term="Web browsing" from="0" to="12"/>
-            <aspectTerm term="Safari browser" from="32" to="46"/>
+            <aspectTerm term="Web browsing" polarity="positive"  from="0" to="12"/>
+            <aspectTerm term="Safari browser" polarity="positive"  from="32" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="665:1">
@@ -1558,7 +1558,7 @@
     <sentence id="481:1">
         <text>I like the lighted screen at night.</text>
         <aspectTerms>
-            <aspectTerm term="lighted screen" from="11" to="25"/>
+            <aspectTerm term="lighted screen" polarity="positive"  from="11" to="25"/>
         </aspectTerms>
     </sentence>
     <sentence id="23:1">
@@ -1567,14 +1567,14 @@
     <sentence id="948:1">
         <text>It is really easy to use and it is quick to start up.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="21" to="24"/>
-            <aspectTerm term="start up" from="44" to="52"/>
+            <aspectTerm term="use" polarity="positive"  from="21" to="24"/>
+            <aspectTerm term="start up" polarity="positive"  from="44" to="52"/>
         </aspectTerms>
     </sentence>
     <sentence id="307:1">
         <text>I've lived with the crashes and slow operation and restarts.</text>
         <aspectTerms>
-            <aspectTerm term="operation" from="37" to="46"/>
+            <aspectTerm term="operation" polarity="negative"  from="37" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:372">
@@ -1583,8 +1583,8 @@
     <sentence id="29:319">
         <text>USB3 Peripherals are noticably less expensive than the ThunderBolt ones.</text>
         <aspectTerms>
-            <aspectTerm term="USB3 Peripherals" from="0" to="16"/>
-            <aspectTerm term="ThunderBolt" from="55" to="66"/>
+            <aspectTerm term="USB3 Peripherals" polarity="positive"  from="0" to="16"/>
+            <aspectTerm term="ThunderBolt" polarity="negative"  from="55" to="66"/>
         </aspectTerms>
     </sentence>
     <sentence id="1063:162">
@@ -1593,7 +1593,7 @@
     <sentence id="842:1">
         <text>And mine had broke but I sent it in under warranty-no problems.</text>
         <aspectTerms>
-            <aspectTerm term="warranty" from="42" to="50"/>
+            <aspectTerm term="warranty" polarity="positive"  from="42" to="50"/>
         </aspectTerms>
     </sentence>
     <sentence id="471:1">
@@ -1602,7 +1602,7 @@
     <sentence id="894:1">
         <text>It's fast, light, and is perfect for media editing, which is mostly why I bought it in the first place.</text>
         <aspectTerms>
-            <aspectTerm term="media editing" from="37" to="50"/>
+            <aspectTerm term="media editing" polarity="positive"  from="37" to="50"/>
         </aspectTerms>
     </sentence>
     <sentence id="828:1">
@@ -1611,8 +1611,8 @@
     <sentence id="391:1">
         <text>The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.</text>
         <aspectTerms>
-            <aspectTerm term="battery" from="4" to="11"/>
-            <aspectTerm term="user experience" from="77" to="92"/>
+            <aspectTerm term="battery" polarity="positive"  from="4" to="11"/>
+            <aspectTerm term="user experience" polarity="positive"  from="77" to="92"/>
         </aspectTerms>
     </sentence>
     <sentence id="680:1">
@@ -1624,29 +1624,29 @@
     <sentence id="949:1">
         <text>Thanks for the fast shipment and great price.</text>
         <aspectTerms>
-            <aspectTerm term="shipment" from="20" to="28"/>
-            <aspectTerm term="price" from="39" to="44"/>
+            <aspectTerm term="shipment" polarity="positive"  from="20" to="28"/>
+            <aspectTerm term="price" polarity="positive"  from="39" to="44"/>
         </aspectTerms>
     </sentence>
     <sentence id="824:1">
         <text>!Excelent performance, usability, presentation and time response.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="10" to="21"/>
-            <aspectTerm term="usability" from="23" to="32"/>
-            <aspectTerm term="presentation" from="34" to="46"/>
-            <aspectTerm term="time response" from="51" to="64"/>
+            <aspectTerm term="performance" polarity="positive"  from="10" to="21"/>
+            <aspectTerm term="usability" polarity="positive"  from="23" to="32"/>
+            <aspectTerm term="presentation" polarity="positive"  from="34" to="46"/>
+            <aspectTerm term="time response" polarity="positive"  from="51" to="64"/>
         </aspectTerms>
     </sentence>
     <sentence id="999:1">
         <text>The smaller size was a bonus because of space restrictions.</text>
         <aspectTerms>
-            <aspectTerm term="size" from="12" to="16"/>
+            <aspectTerm term="size" polarity="positive"  from="12" to="16"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:310">
         <text>I blame the Mac OS.</text>
         <aspectTerms>
-            <aspectTerm term="Mac OS" from="12" to="18"/>
+            <aspectTerm term="Mac OS" polarity="negative"  from="12" to="18"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:784">
@@ -1655,11 +1655,11 @@
     <sentence id="456:1">
         <text>In fact I still use manyLegacy programs (Appleworks, FileMaker Pro, Quicken, Photoshop etc)!</text>
         <aspectTerms>
-            <aspectTerm term="Legacy programs" from="24" to="39"/>
-            <aspectTerm term="Appleworks" from="41" to="51"/>
-            <aspectTerm term="FileMaker Pro" from="53" to="66"/>
-            <aspectTerm term="Quicken" from="68" to="75"/>
-            <aspectTerm term="Photoshop" from="77" to="86"/>
+            <aspectTerm term="Legacy programs" polarity="neutral"  from="24" to="39"/>
+            <aspectTerm term="Appleworks" polarity="neutral"  from="41" to="51"/>
+            <aspectTerm term="FileMaker Pro" polarity="neutral"  from="53" to="66"/>
+            <aspectTerm term="Quicken" polarity="neutral"  from="68" to="75"/>
+            <aspectTerm term="Photoshop" polarity="neutral"  from="77" to="86"/>
         </aspectTerms>
     </sentence>
     <sentence id="450:1">
@@ -1668,7 +1668,7 @@
     <sentence id="708:1">
         <text>I like the operating system.</text>
         <aspectTerms>
-            <aspectTerm term="operating system" from="11" to="27"/>
+            <aspectTerm term="operating system" polarity="positive"  from="11" to="27"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:116">
@@ -1677,7 +1677,7 @@
     <sentence id="376:1">
         <text>I love the form factor.</text>
         <aspectTerms>
-            <aspectTerm term="form factor" from="11" to="22"/>
+            <aspectTerm term="form factor" polarity="positive"  from="11" to="22"/>
         </aspectTerms>
     </sentence>
     <sentence id="806:1">
@@ -1686,13 +1686,13 @@
     <sentence id="201:1">
         <text>It's fast at loading the internet.</text>
         <aspectTerms>
-            <aspectTerm term="loading the internet" from="13" to="33"/>
+            <aspectTerm term="loading the internet" polarity="positive"  from="13" to="33"/>
         </aspectTerms>
     </sentence>
     <sentence id="763:1">
         <text>So much faster and sleeker looking.</text>
         <aspectTerms>
-            <aspectTerm term="looking" from="27" to="34"/>
+            <aspectTerm term="looking" polarity="positive"  from="27" to="34"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:523">
@@ -1701,8 +1701,8 @@
     <sentence id="962:1">
         <text>Unfortunately, it runs XP and Microsoft is dropping support next April.</text>
         <aspectTerms>
-            <aspectTerm term="XP" from="23" to="25"/>
-            <aspectTerm term="support" from="52" to="59"/>
+            <aspectTerm term="XP" polarity="neutral"  from="23" to="25"/>
+            <aspectTerm term="support" polarity="negative"  from="52" to="59"/>
         </aspectTerms>
     </sentence>
     <sentence id="375:1">
@@ -1711,9 +1711,9 @@
     <sentence id="281:1">
         <text>First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="55" to="57"/>
-            <aspectTerm term="overall build" from="99" to="112"/>
-            <aspectTerm term="keyboard" from="132" to="140"/>
+            <aspectTerm term="OS" polarity="positive"  from="55" to="57"/>
+            <aspectTerm term="overall build" polarity="positive"  from="99" to="112"/>
+            <aspectTerm term="keyboard" polarity="positive"  from="132" to="140"/>
         </aspectTerms>
     </sentence>
     <sentence id="1108:1">
@@ -1725,8 +1725,8 @@
     <sentence id="926:1">
         <text>It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.</text>
         <aspectTerms>
-            <aspectTerm term="construction" from="25" to="37"/>
-            <aspectTerm term="system" from="113" to="119"/>
+            <aspectTerm term="construction" polarity="positive"  from="25" to="37"/>
+            <aspectTerm term="system" polarity="neutral"  from="113" to="119"/>
         </aspectTerms>
     </sentence>
     <sentence id="673:1">
@@ -1735,7 +1735,7 @@
     <sentence id="829:1">
         <text>Very nice unibody construction.</text>
         <aspectTerms>
-            <aspectTerm term="unibody construction" from="10" to="30"/>
+            <aspectTerm term="unibody construction" polarity="positive"  from="10" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="473:1">
@@ -1744,7 +1744,7 @@
     <sentence id="318:1">
         <text>This Macbook Pro is fast, powerful, and runs super quiet and cool.</text>
         <aspectTerms>
-            <aspectTerm term="runs" from="40" to="44"/>
+            <aspectTerm term="runs" polarity="positive"  from="40" to="44"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:452">
@@ -1753,14 +1753,14 @@
     <sentence id="786:1477">
         <text>It's ok but doesn't have a disk drive which I didn't know until after I bought it.</text>
         <aspectTerms>
-            <aspectTerm term="disk drive" from="27" to="37"/>
+            <aspectTerm term="disk drive" polarity="neutral"  from="27" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:783">
         <text>There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.</text>
         <aspectTerms>
-            <aspectTerm term="HDMI receptacle" from="12" to="27"/>
-            <aspectTerm term="SD card slot" from="45" to="57"/>
+            <aspectTerm term="HDMI receptacle" polarity="neutral"  from="12" to="27"/>
+            <aspectTerm term="SD card slot" polarity="neutral"  from="45" to="57"/>
         </aspectTerms>
     </sentence>
     <sentence id="800:1">
@@ -1769,7 +1769,7 @@
     <sentence id="758:1">
         <text>It came in brand new and works perfectly.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="25" to="30"/>
+            <aspectTerm term="works" polarity="positive"  from="25" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:683">
@@ -1778,13 +1778,13 @@
     <sentence id="355:1">
         <text>It shouldn't happen like that, I don't have any design app open or anything.</text>
         <aspectTerms>
-            <aspectTerm term="design app" from="48" to="58"/>
+            <aspectTerm term="design app" polarity="neutral"  from="48" to="58"/>
         </aspectTerms>
     </sentence>
     <sentence id="335:0">
         <text>MY TRACKPAD IS NOT WORKING.</text>
         <aspectTerms>
-            <aspectTerm term="TRACKPAD" from="3" to="11"/>
+            <aspectTerm term="TRACKPAD" polarity="negative"  from="3" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:66">
@@ -1796,9 +1796,9 @@
     <sentence id="706:1">
         <text>It looks and feels solid, with a flawless finish.</text>
         <aspectTerms>
-            <aspectTerm term="finish" from="42" to="48"/>
-            <aspectTerm term="looks" from="3" to="8"/>
-            <aspectTerm term="feels" from="13" to="18"/>
+            <aspectTerm term="finish" polarity="positive"  from="42" to="48"/>
+            <aspectTerm term="looks" polarity="positive"  from="3" to="8"/>
+            <aspectTerm term="feels" polarity="positive"  from="13" to="18"/>
         </aspectTerms>
     </sentence>
     <sentence id="697:13">
@@ -1807,8 +1807,8 @@
     <sentence id="671:1">
         <text>Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.</text>
         <aspectTerms>
-            <aspectTerm term="Price" from="0" to="5"/>
-            <aspectTerm term="price" from="56" to="61"/>
+            <aspectTerm term="Price" polarity="negative"  from="0" to="5"/>
+            <aspectTerm term="price" polarity="positive"  from="56" to="61"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:720">
@@ -1817,8 +1817,8 @@
     <sentence id="460:1">
         <text>Then the system would many times not power down without a forced power-off.</text>
         <aspectTerms>
-            <aspectTerm term="system" from="9" to="15"/>
-            <aspectTerm term="power down" from="37" to="47"/>
+            <aspectTerm term="system" polarity="negative"  from="9" to="15"/>
+            <aspectTerm term="power down" polarity="negative"  from="37" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="985:1">
@@ -1827,13 +1827,13 @@
     <sentence id="786:723">
         <text>The configuration is perfect for my needs.</text>
         <aspectTerms>
-            <aspectTerm term="configuration" from="4" to="17"/>
+            <aspectTerm term="configuration" polarity="positive"  from="4" to="17"/>
         </aspectTerms>
     </sentence>
     <sentence id="1171:1">
         <text>and the speakers is the worst ever.</text>
         <aspectTerms>
-            <aspectTerm term="speakers" from="8" to="16"/>
+            <aspectTerm term="speakers" polarity="negative"  from="8" to="16"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:240">
@@ -1842,9 +1842,9 @@
     <sentence id="515:1">
         <text>Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..</text>
         <aspectTerms>
-            <aspectTerm term="looks" from="26" to="31"/>
-            <aspectTerm term="use" from="47" to="50"/>
-            <aspectTerm term="trackpad" from="84" to="92"/>
+            <aspectTerm term="looks" polarity="positive"  from="26" to="31"/>
+            <aspectTerm term="use" polarity="positive"  from="47" to="50"/>
+            <aspectTerm term="trackpad" polarity="positive"  from="84" to="92"/>
         </aspectTerms>
     </sentence>
     <sentence id="12:1">
@@ -1853,7 +1853,7 @@
     <sentence id="786:458">
         <text>Web surfuring is smooth and seamless.</text>
         <aspectTerms>
-            <aspectTerm term="Web surfuring" from="0" to="13"/>
+            <aspectTerm term="Web surfuring" polarity="positive"  from="0" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:759">
@@ -1862,8 +1862,8 @@
     <sentence id="520:2">
         <text>I'm overall pleased with the interface and the portability of this product.</text>
         <aspectTerms>
-            <aspectTerm term="interface" from="29" to="38"/>
-            <aspectTerm term="portability" from="47" to="58"/>
+            <aspectTerm term="interface" polarity="positive"  from="29" to="38"/>
+            <aspectTerm term="portability" polarity="positive"  from="47" to="58"/>
         </aspectTerms>
     </sentence>
     <sentence id="496:1">
@@ -1872,9 +1872,9 @@
     <sentence id="952:1">
         <text>This item is a beautiful piece, it works well, it is easy to carry and handle.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="35" to="40"/>
-            <aspectTerm term="carry" from="61" to="66"/>
-            <aspectTerm term="handle" from="71" to="77"/>
+            <aspectTerm term="works" polarity="positive"  from="35" to="40"/>
+            <aspectTerm term="carry" polarity="positive"  from="61" to="66"/>
+            <aspectTerm term="handle" polarity="positive"  from="71" to="77"/>
         </aspectTerms>
     </sentence>
     <sentence id="1135:1">
@@ -1883,9 +1883,9 @@
     <sentence id="394:1">
         <text>It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="71" to="82"/>
-            <aspectTerm term="battery lifetime" from="98" to="114"/>
-            <aspectTerm term="hardware (keyboard)" from="27" to="46"/>
+            <aspectTerm term="performance" polarity="negative"  from="71" to="82"/>
+            <aspectTerm term="battery lifetime" polarity="negative"  from="98" to="114"/>
+            <aspectTerm term="hardware (keyboard)" polarity="negative"  from="27" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:459">
@@ -1894,13 +1894,13 @@
     <sentence id="526:1">
         <text>Runs good and does the job, can't complain about that!</text>
         <aspectTerms>
-            <aspectTerm term="Runs" from="0" to="4"/>
+            <aspectTerm term="Runs" polarity="positive"  from="0" to="4"/>
         </aspectTerms>
     </sentence>
     <sentence id="25:1">
         <text>It's silent and has a very small footprint on my desk.</text>
         <aspectTerms>
-            <aspectTerm term="footprint" from="33" to="42"/>
+            <aspectTerm term="footprint" polarity="positive"  from="33" to="42"/>
         </aspectTerms>
     </sentence>
     <sentence id="947:1">
@@ -1909,7 +1909,7 @@
     <sentence id="379:1">
         <text>The exterior is absolutely gorgeous.</text>
         <aspectTerms>
-            <aspectTerm term="exterior" from="4" to="12"/>
+            <aspectTerm term="exterior" polarity="positive"  from="4" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="1072:1">
@@ -1918,7 +1918,7 @@
     <sentence id="1140:1">
         <text>It has a very high performance, just for what I needed for.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="19" to="30"/>
+            <aspectTerm term="performance" polarity="positive"  from="19" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:1213">
@@ -1927,8 +1927,8 @@
     <sentence id="204:1">
         <text>Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.</text>
         <aspectTerms>
-            <aspectTerm term="intel 4000 graphics chipset" from="94" to="121"/>
-            <aspectTerm term="design" from="73" to="79"/>
+            <aspectTerm term="intel 4000 graphics chipset" polarity="neutral"  from="94" to="121"/>
+            <aspectTerm term="design" polarity="neutral"  from="73" to="79"/>
         </aspectTerms>
     </sentence>
     <sentence id="405:1">
@@ -1937,8 +1937,8 @@
     <sentence id="29:226">
         <text>OSX Mountain Lion  soon to upgrade to Mavericks.</text>
         <aspectTerms>
-            <aspectTerm term="OSX Mountain Lion" from="0" to="17"/>
-            <aspectTerm term="Mavericks" from="38" to="47"/>
+            <aspectTerm term="OSX Mountain Lion" polarity="neutral"  from="0" to="17"/>
+            <aspectTerm term="Mavericks" polarity="neutral"  from="38" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="548:1">
@@ -1947,7 +1947,7 @@
     <sentence id="786:713">
         <text>I just bought the new MacBook Pro, the 13" model, and I can't believe Apple keeps making the same mistake with regard to USB ports.</text>
         <aspectTerms>
-            <aspectTerm term="USB ports" from="121" to="130"/>
+            <aspectTerm term="USB ports" polarity="negative"  from="121" to="130"/>
         </aspectTerms>
     </sentence>
     <sentence id="596:1">
@@ -1956,15 +1956,15 @@
     <sentence id="898:3">
         <text>It wakes in less than a second when I open the lid.</text>
         <aspectTerms>
-            <aspectTerm term="lid" from="47" to="50"/>
-            <aspectTerm term="wakes" from="3" to="8"/>
+            <aspectTerm term="lid" polarity="neutral"  from="47" to="50"/>
+            <aspectTerm term="wakes" polarity="positive"  from="3" to="8"/>
         </aspectTerms>
     </sentence>
     <sentence id="860:1">
         <text>It is the perfect size and speed for me.</text>
         <aspectTerms>
-            <aspectTerm term="size" from="18" to="22"/>
-            <aspectTerm term="speed" from="27" to="32"/>
+            <aspectTerm term="size" polarity="positive"  from="18" to="22"/>
+            <aspectTerm term="speed" polarity="positive"  from="27" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="695:1">
@@ -1973,7 +1973,7 @@
     <sentence id="555:1">
         <text>THE CUSTOMER SERVICE IS TERRIFIC!!</text>
         <aspectTerms>
-            <aspectTerm term="CUSTOMER SERVICE" from="4" to="20"/>
+            <aspectTerm term="CUSTOMER SERVICE" polarity="positive"  from="4" to="20"/>
         </aspectTerms>
     </sentence>
     <sentence id="1007:1">
@@ -1982,20 +1982,20 @@
     <sentence id="959:1">
         <text>My last laptop was a 17" ASUS gaming machine, which performed admirably, but having since built my own desktop and really settling into the college life, I found myself wanting something smaller and less cumbersome, not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago.</text>
         <aspectTerms>
-            <aspectTerm term="performed" from="52" to="61"/>
+            <aspectTerm term="performed" polarity="positive"  from="52" to="61"/>
         </aspectTerms>
     </sentence>
     <sentence id="908:1">
         <text>However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.</text>
         <aspectTerms>
-            <aspectTerm term="battery cycle count" from="45" to="64"/>
-            <aspectTerm term="hardware" from="97" to="105"/>
+            <aspectTerm term="battery cycle count" polarity="positive"  from="45" to="64"/>
+            <aspectTerm term="hardware" polarity="positive"  from="97" to="105"/>
         </aspectTerms>
     </sentence>
     <sentence id="181:1">
         <text>After fumbling around with the OS I started searching the internet for a fix and found a number of forums on fixing the issue.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="31" to="33"/>
+            <aspectTerm term="OS" polarity="negative"  from="31" to="33"/>
         </aspectTerms>
     </sentence>
     <sentence id="1029:1">
@@ -2004,23 +2004,23 @@
     <sentence id="787:193">
         <text>And as for all the fancy finger swipes -- I just gave up and attached a mouse.</text>
         <aspectTerms>
-            <aspectTerm term="finger swipes" from="25" to="38"/>
-            <aspectTerm term="mouse" from="72" to="77"/>
+            <aspectTerm term="finger swipes" polarity="negative"  from="25" to="38"/>
+            <aspectTerm term="mouse" polarity="neutral"  from="72" to="77"/>
         </aspectTerms>
     </sentence>
     <sentence id="447:1">
         <text>I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.</text>
         <aspectTerms>
-            <aspectTerm term="storage" from="27" to="34"/>
-            <aspectTerm term="screen" from="43" to="49"/>
-            <aspectTerm term="photoshop" from="68" to="77"/>
+            <aspectTerm term="storage" polarity="neutral"  from="27" to="34"/>
+            <aspectTerm term="screen" polarity="neutral"  from="43" to="49"/>
+            <aspectTerm term="photoshop" polarity="neutral"  from="68" to="77"/>
         </aspectTerms>
     </sentence>
     <sentence id="928:1">
         <text>I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.</text>
         <aspectTerms>
-            <aspectTerm term="Mac OS" from="22" to="28"/>
-            <aspectTerm term="speaker quality" from="59" to="74"/>
+            <aspectTerm term="Mac OS" polarity="positive"  from="22" to="28"/>
+            <aspectTerm term="speaker quality" polarity="negative"  from="59" to="74"/>
         </aspectTerms>
     </sentence>
     <sentence id="739:1">
@@ -2029,7 +2029,7 @@
     <sentence id="776:1">
         <text>Shipped very quickly and safely.</text>
         <aspectTerms>
-            <aspectTerm term="Shipped" from="0" to="7"/>
+            <aspectTerm term="Shipped" polarity="positive"  from="0" to="7"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:396">
@@ -2038,7 +2038,7 @@
     <sentence id="787:568">
         <text>The thunderbolt port is awesome!</text>
         <aspectTerms>
-            <aspectTerm term="thunderbolt port" from="4" to="20"/>
+            <aspectTerm term="thunderbolt port" polarity="positive"  from="4" to="20"/>
         </aspectTerms>
     </sentence>
     <sentence id="877:1">
@@ -2047,14 +2047,14 @@
     <sentence id="691:1">
         <text>The performance is definitely superior to any computer I've ever put my hands on.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="4" to="15"/>
+            <aspectTerm term="performance" polarity="positive"  from="4" to="15"/>
         </aspectTerms>
     </sentence>
     <sentence id="242:1">
         <text>It's great for streaming video and other entertainment uses.</text>
         <aspectTerms>
-            <aspectTerm term="streaming video" from="15" to="30"/>
-            <aspectTerm term="entertainment uses" from="41" to="59"/>
+            <aspectTerm term="streaming video" polarity="positive"  from="15" to="30"/>
+            <aspectTerm term="entertainment uses" polarity="positive"  from="41" to="59"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:606">
@@ -2063,14 +2063,14 @@
     <sentence id="567:1">
         <text>I like the design and its features but there are somethings I think needs to be improved.</text>
         <aspectTerms>
-            <aspectTerm term="design" from="11" to="17"/>
-            <aspectTerm term="features" from="26" to="34"/>
+            <aspectTerm term="design" polarity="positive"  from="11" to="17"/>
+            <aspectTerm term="features" polarity="positive"  from="26" to="34"/>
         </aspectTerms>
     </sentence>
     <sentence id="507:1">
         <text>There were small problems with Mac office.</text>
         <aspectTerms>
-            <aspectTerm term="Mac office" from="31" to="41"/>
+            <aspectTerm term="Mac office" polarity="negative"  from="31" to="41"/>
         </aspectTerms>
     </sentence>
     <sentence id="118:1">
@@ -2079,38 +2079,38 @@
     <sentence id="579:1">
         <text>I understand I should call Apple Tech Support about any variables(which is my purpose of writing this con) as variables could be a bigger future problem.</text>
         <aspectTerms>
-            <aspectTerm term="Apple Tech Support" from="27" to="45"/>
+            <aspectTerm term="Apple Tech Support" polarity="neutral"  from="27" to="45"/>
         </aspectTerms>
     </sentence>
     <sentence id="19:0">
         <text>I ordered my 2012 mac mini after being disappointed with spec of the new 27" Imacs.</text>
         <aspectTerms>
-            <aspectTerm term="spec" from="57" to="61"/>
+            <aspectTerm term="spec" polarity="negative"  from="57" to="61"/>
         </aspectTerms>
     </sentence>
     <sentence id="341:1">
         <text>It still works and it's extremely user friendly, so I would recommend it for new computer user and also for those who are just looking for a more efficient way to do things</text>
         <aspectTerms>
-            <aspectTerm term="works" from="9" to="14"/>
+            <aspectTerm term="works" polarity="positive"  from="9" to="14"/>
         </aspectTerms>
     </sentence>
     <sentence id="816:1">
         <text>Its fast, easy to use and it looks great.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="18" to="21"/>
-            <aspectTerm term="looks" from="29" to="34"/>
+            <aspectTerm term="use" polarity="positive"  from="18" to="21"/>
+            <aspectTerm term="looks" polarity="positive"  from="29" to="34"/>
         </aspectTerms>
     </sentence>
     <sentence id="1075:1">
         <text>(but Office can be purchased) IF I ever need a laptop again I am for sure purchasing another Toshiba!!</text>
         <aspectTerms>
-            <aspectTerm term="Office" from="5" to="11"/>
+            <aspectTerm term="Office" polarity="neutral"  from="5" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="689:1">
         <text>I haven't tried the one with retina display... Maybe in the future.</text>
         <aspectTerms>
-            <aspectTerm term="retina display" from="29" to="43"/>
+            <aspectTerm term="retina display" polarity="neutral"  from="29" to="43"/>
         </aspectTerms>
     </sentence>
     <sentence id="92:1">
@@ -2119,15 +2119,15 @@
     <sentence id="313:1">
         <text>Performance is much much better on the Pro, especially if you install an SSD on it.</text>
         <aspectTerms>
-            <aspectTerm term="Performance" from="0" to="11"/>
-            <aspectTerm term="SSD" from="73" to="76"/>
+            <aspectTerm term="Performance" polarity="positive"  from="0" to="11"/>
+            <aspectTerm term="SSD" polarity="positive"  from="73" to="76"/>
         </aspectTerms>
     </sentence>
     <sentence id="286:1">
         <text>Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.</text>
         <aspectTerms>
-            <aspectTerm term="MagSafe accessories" from="33" to="52"/>
-            <aspectTerm term="MagSafe 2 connection" from="85" to="105"/>
+            <aspectTerm term="MagSafe accessories" polarity="neutral"  from="33" to="52"/>
+            <aspectTerm term="MagSafe 2 connection" polarity="negative"  from="85" to="105"/>
         </aspectTerms>
     </sentence>
     <sentence id="296:1">
@@ -2136,8 +2136,8 @@
     <sentence id="1074:1">
         <text>The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.</text>
         <aspectTerms>
-            <aspectTerm term="touchpad" from="32" to="40"/>
-            <aspectTerm term="mouse" from="139" to="144"/>
+            <aspectTerm term="touchpad" polarity="negative"  from="32" to="40"/>
+            <aspectTerm term="mouse" polarity="neutral"  from="139" to="144"/>
         </aspectTerms>
     </sentence>
     <sentence id="393:0">
@@ -2146,14 +2146,14 @@
     <sentence id="202:1">
         <text>The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc</text>
         <aspectTerms>
-            <aspectTerm term="runs" from="80" to="84"/>
-            <aspectTerm term="fans" from="110" to="114"/>
+            <aspectTerm term="runs" polarity="positive"  from="80" to="84"/>
+            <aspectTerm term="fans" polarity="positive"  from="110" to="114"/>
         </aspectTerms>
     </sentence>
     <sentence id="414:1">
         <text>MAYBE The Mac OS improvement were not The product they Want to offer.</text>
         <aspectTerms>
-            <aspectTerm term="Mac OS" from="10" to="16"/>
+            <aspectTerm term="Mac OS" polarity="negative"  from="10" to="16"/>
         </aspectTerms>
     </sentence>
     <sentence id="645:1">
@@ -2162,13 +2162,13 @@
     <sentence id="786:867">
         <text>I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem.</text>
         <aspectTerms>
-            <aspectTerm term="Mac ecosystem" from="118" to="131"/>
+            <aspectTerm term="Mac ecosystem" polarity="neutral"  from="118" to="131"/>
         </aspectTerms>
     </sentence>
     <sentence id="533:1">
         <text>It's absolutely wonderful and worth the price!</text>
         <aspectTerms>
-            <aspectTerm term="price" from="40" to="45"/>
+            <aspectTerm term="price" polarity="positive"  from="40" to="45"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:886">
@@ -2177,9 +2177,9 @@
     <sentence id="1131:1">
         <text>I am please with the products ease of use; out of the box ready; appearance and functionality.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="38" to="41"/>
-            <aspectTerm term="appearance" from="65" to="75"/>
-            <aspectTerm term="functionality" from="80" to="93"/>
+            <aspectTerm term="use" polarity="positive"  from="38" to="41"/>
+            <aspectTerm term="appearance" polarity="positive"  from="65" to="75"/>
+            <aspectTerm term="functionality" polarity="positive"  from="80" to="93"/>
         </aspectTerms>
     </sentence>
     <sentence id="262:1">
@@ -2203,7 +2203,7 @@
     <sentence id="662:1">
         <text>Perfect for all my graphic design classes I'm taking this year in college :-)</text>
         <aspectTerms>
-            <aspectTerm term="graphic design" from="19" to="33"/>
+            <aspectTerm term="graphic design" polarity="positive"  from="19" to="33"/>
         </aspectTerms>
     </sentence>
     <sentence id="205:1">
@@ -2218,7 +2218,7 @@
     <sentence id="786:1473">
         <text>I will not be using that slot again.</text>
         <aspectTerms>
-            <aspectTerm term="slot" from="25" to="29"/>
+            <aspectTerm term="slot" polarity="negative"  from="25" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="810:1">
@@ -2227,7 +2227,7 @@
     <sentence id="289:5">
         <text>The OS is fast and fluid, everything is organized and it's just beautiful.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="4" to="6"/>
+            <aspectTerm term="OS" polarity="positive"  from="4" to="6"/>
         </aspectTerms>
     </sentence>
     <sentence id="931:1">
@@ -2248,7 +2248,7 @@
     <sentence id="843:3">
         <text>They are simpler to use.</text>
         <aspectTerms>
-            <aspectTerm term="use" from="20" to="23"/>
+            <aspectTerm term="use" polarity="positive"  from="20" to="23"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:905">
@@ -2263,7 +2263,7 @@
     <sentence id="938:1">
         <text>!so nice .. stable .. fast .. now i got my SSD !</text>
         <aspectTerms>
-            <aspectTerm term="SSD" from="43" to="46"/>
+            <aspectTerm term="SSD" polarity="positive"  from="43" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="909:1">
@@ -2278,8 +2278,8 @@
     <sentence id="968:5">
         <text>Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the "Star Wars" saga.</text>
         <aspectTerms>
-            <aspectTerm term="built-in camera" from="19" to="34"/>
-            <aspectTerm term="voice recording" from="39" to="54"/>
+            <aspectTerm term="built-in camera" polarity="neutral"  from="19" to="34"/>
+            <aspectTerm term="voice recording" polarity="negative"  from="39" to="54"/>
         </aspectTerms>
     </sentence>
     <sentence id="421:1">
@@ -2291,7 +2291,7 @@
     <sentence id="29:742">
         <text>I love the quick start up.</text>
         <aspectTerms>
-            <aspectTerm term="start up" from="17" to="25"/>
+            <aspectTerm term="start up" polarity="positive"  from="17" to="25"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:733">
@@ -2300,26 +2300,26 @@
     <sentence id="294:0">
         <text>You just cannot beat the functionality of an Apple device.</text>
         <aspectTerms>
-            <aspectTerm term="functionality" from="25" to="38"/>
+            <aspectTerm term="functionality" polarity="positive"  from="25" to="38"/>
         </aspectTerms>
     </sentence>
     <sentence id="547:17">
         <text>Yet my mac continues to function properly.</text>
         <aspectTerms>
-            <aspectTerm term="function" from="24" to="32"/>
+            <aspectTerm term="function" polarity="positive"  from="24" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="463:9">
         <text>Graphics are much improved.</text>
         <aspectTerms>
-            <aspectTerm term="Graphics" from="0" to="8"/>
+            <aspectTerm term="Graphics" polarity="positive"  from="0" to="8"/>
         </aspectTerms>
     </sentence>
     <sentence id="275:7">
         <text>Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.</text>
         <aspectTerms>
-            <aspectTerm term="Build Quality" from="60" to="73"/>
-            <aspectTerm term="unibody construction" from="104" to="124"/>
+            <aspectTerm term="Build Quality" polarity="positive"  from="60" to="73"/>
+            <aspectTerm term="unibody construction" polarity="positive"  from="104" to="124"/>
         </aspectTerms>
     </sentence>
     <sentence id="868:1">
@@ -2328,13 +2328,13 @@
     <sentence id="286:3">
         <text>It provides much more flexibility for connectivity.</text>
         <aspectTerms>
-            <aspectTerm term="flexibility for connectivity" from="22" to="50"/>
+            <aspectTerm term="flexibility for connectivity" polarity="positive"  from="22" to="50"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:1275">
         <text>I want the portability of a tablet, without the limitations of a tablet and that's where this laptop comes into play.</text>
         <aspectTerms>
-            <aspectTerm term="portability" from="11" to="22"/>
+            <aspectTerm term="portability" polarity="positive"  from="11" to="22"/>
         </aspectTerms>
     </sentence>
     <sentence id="721:1">
@@ -2343,7 +2343,7 @@
     <sentence id="29:172">
         <text>Mac tutorials do help.</text>
         <aspectTerms>
-            <aspectTerm term="Mac tutorials" from="0" to="13"/>
+            <aspectTerm term="Mac tutorials" polarity="positive"  from="0" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="1031:1">
@@ -2352,19 +2352,19 @@
     <sentence id="1063:397">
         <text>The technical support was not helpful as well.</text>
         <aspectTerms>
-            <aspectTerm term="technical support" from="4" to="21"/>
+            <aspectTerm term="technical support" polarity="negative"  from="4" to="21"/>
         </aspectTerms>
     </sentence>
     <sentence id="1063:373">
         <text>I got the new adapter and there was no change.</text>
         <aspectTerms>
-            <aspectTerm term="adapter" from="14" to="21"/>
+            <aspectTerm term="adapter" polarity="neutral"  from="14" to="21"/>
         </aspectTerms>
     </sentence>
     <sentence id="1063:374">
         <text>so i called technical support.</text>
         <aspectTerms>
-            <aspectTerm term="technical support" from="12" to="29"/>
+            <aspectTerm term="technical support" polarity="neutral"  from="12" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="740:1">
@@ -2376,8 +2376,8 @@
     <sentence id="29:186">
         <text>Came with iPhoto and garage band already loaded.</text>
         <aspectTerms>
-            <aspectTerm term="iPhoto" from="10" to="16"/>
-            <aspectTerm term="garage band" from="21" to="32"/>
+            <aspectTerm term="iPhoto" polarity="neutral"  from="10" to="16"/>
+            <aspectTerm term="garage band" polarity="neutral"  from="21" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:237">
@@ -2386,7 +2386,7 @@
     <sentence id="26:4">
         <text>Logic board utterly fried, cried, and laid down and died.</text>
         <aspectTerms>
-            <aspectTerm term="Logic board" from="0" to="11"/>
+            <aspectTerm term="Logic board" polarity="positive"  from="0" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="293:8">
@@ -2395,8 +2395,8 @@
     <sentence id="1063:396">
         <text>The sound was crappy even when you turn up the volume still the same results.</text>
         <aspectTerms>
-            <aspectTerm term="sound" from="4" to="9"/>
-            <aspectTerm term="volume" from="47" to="53"/>
+            <aspectTerm term="sound" polarity="negative"  from="4" to="9"/>
+            <aspectTerm term="volume" polarity="negative"  from="47" to="53"/>
         </aspectTerms>
     </sentence>
     <sentence id="936:1">
@@ -2408,7 +2408,7 @@
     <sentence id="271:4">
         <text>OSX Lion is a great performer..extremely fast and reliable.</text>
         <aspectTerms>
-            <aspectTerm term="OSX Lion" from="0" to="8"/>
+            <aspectTerm term="OSX Lion" polarity="positive"  from="0" to="8"/>
         </aspectTerms>
     </sentence>
     <sentence id="189:1">
@@ -2420,13 +2420,13 @@
     <sentence id="479:5">
         <text>Having heard from friends and family about how reliable a Mac product is, I never expected to have an application crash within the first month, but I did.</text>
         <aspectTerms>
-            <aspectTerm term="application" from="102" to="113"/>
+            <aspectTerm term="application" polarity="negative"  from="102" to="113"/>
         </aspectTerms>
     </sentence>
     <sentence id="462:6">
         <text>The Macbook pro's physical form is wonderful.</text>
         <aspectTerms>
-            <aspectTerm term="physical form" from="18" to="31"/>
+            <aspectTerm term="physical form" polarity="positive"  from="18" to="31"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:363">
@@ -2438,13 +2438,13 @@
     <sentence id="0:3">
         <text>The Mini's body hasn't changed since late 2010- and for a good reason.</text>
         <aspectTerms>
-            <aspectTerm term="body" from="11" to="15"/>
+            <aspectTerm term="body" polarity="positive"  from="11" to="15"/>
         </aspectTerms>
     </sentence>
     <sentence id="461:17">
         <text>The unibody construction really does feel lot more solid than Apple's previous laptops.</text>
         <aspectTerms>
-            <aspectTerm term="unibody construction" from="4" to="24"/>
+            <aspectTerm term="unibody construction" polarity="positive"  from="4" to="24"/>
         </aspectTerms>
     </sentence>
     <sentence id="1010:1">
@@ -2459,13 +2459,13 @@
     <sentence id="0:14">
         <text>3D rendering slows it down considerably.</text>
         <aspectTerms>
-            <aspectTerm term="3D rendering" from="0" to="12"/>
+            <aspectTerm term="3D rendering" polarity="negative"  from="0" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="22:0">
         <text>Got this Mac Mini with OS X Mountain Lion for my wife.</text>
         <aspectTerms>
-            <aspectTerm term="OS X Mountain Lion" from="23" to="41"/>
+            <aspectTerm term="OS X Mountain Lion" polarity="neutral"  from="23" to="41"/>
         </aspectTerms>
     </sentence>
     <sentence id="547:1">
@@ -2477,51 +2477,51 @@
     <sentence id="420:1">
         <text>fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!</text>
         <aspectTerms>
-            <aspectTerm term="screen" from="12" to="18"/>
-            <aspectTerm term="apps" from="30" to="34"/>
-            <aspectTerm term="priced" from="48" to="54"/>
-            <aspectTerm term="cost" from="155" to="159"/>
+            <aspectTerm term="screen" polarity="positive"  from="12" to="18"/>
+            <aspectTerm term="apps" polarity="positive"  from="30" to="34"/>
+            <aspectTerm term="priced" polarity="neutral"  from="48" to="54"/>
+            <aspectTerm term="cost" polarity="neutral"  from="155" to="159"/>
         </aspectTerms>
     </sentence>
     <sentence id="872:1">
         <text>12.44 seconds to boot.</text>
         <aspectTerms>
-            <aspectTerm term="boot" from="17" to="21"/>
+            <aspectTerm term="boot" polarity="neutral"  from="17" to="21"/>
         </aspectTerms>
     </sentence>
     <sentence id="731:5">
         <text>All the ports are much needed since this is my main computer.</text>
         <aspectTerms>
-            <aspectTerm term="ports" from="8" to="13"/>
+            <aspectTerm term="ports" polarity="neutral"  from="8" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="267:1">
         <text>The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.</text>
         <aspectTerms>
-            <aspectTerm term="Quad-Core 2.5 GHz CPU" from="91" to="112"/>
-            <aspectTerm term="Radeon HD 6750M 512MB graphic card" from="146" to="180"/>
-            <aspectTerm term="integrated Intel 4000 card" from="195" to="221"/>
-            <aspectTerm term="wireless Apple Keyboard and Mouse" from="247" to="280"/>
-            <aspectTerm term="package" from="316" to="323"/>
+            <aspectTerm term="Quad-Core 2.5 GHz CPU" polarity="neutral"  from="91" to="112"/>
+            <aspectTerm term="Radeon HD 6750M 512MB graphic card" polarity="neutral"  from="146" to="180"/>
+            <aspectTerm term="integrated Intel 4000 card" polarity="neutral"  from="195" to="221"/>
+            <aspectTerm term="wireless Apple Keyboard and Mouse" polarity="neutral"  from="247" to="280"/>
+            <aspectTerm term="package" polarity="positive"  from="316" to="323"/>
         </aspectTerms>
     </sentence>
     <sentence id="419:2">
         <text>Put a cover on it and is a little better but that is my only complaint.</text>
         <aspectTerms>
-            <aspectTerm term="cover" from="6" to="11"/>
+            <aspectTerm term="cover" polarity="neutral"  from="6" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="291:6">
         <text>Within a few hours I was using the gestures unconsciously.</text>
         <aspectTerms>
-            <aspectTerm term="gestures" from="35" to="43"/>
+            <aspectTerm term="gestures" polarity="positive"  from="35" to="43"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:633">
         <text>This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.</text>
         <aspectTerms>
-            <aspectTerm term="extender cable" from="27" to="41"/>
-            <aspectTerm term="cable" from="82" to="87"/>
+            <aspectTerm term="extender cable" polarity="neutral"  from="27" to="41"/>
+            <aspectTerm term="cable" polarity="positive"  from="82" to="87"/>
         </aspectTerms>
     </sentence>
     <sentence id="630:1">
@@ -2530,7 +2530,7 @@
     <sentence id="293:3">
         <text>The 2.9ghz dual-core i7 chip really out does itself.</text>
         <aspectTerms>
-            <aspectTerm term="2.9ghz dual-core i7 chip" from="4" to="28"/>
+            <aspectTerm term="2.9ghz dual-core i7 chip" polarity="positive"  from="4" to="28"/>
         </aspectTerms>
     </sentence>
     <sentence id="676:1">
@@ -2542,7 +2542,7 @@
     <sentence id="786:1277">
         <text>It is pretty snappy and starts up in about 30 seconds which is good enough for me.</text>
         <aspectTerms>
-            <aspectTerm term="starts up" from="24" to="33"/>
+            <aspectTerm term="starts up" polarity="positive"  from="24" to="33"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:1295">
@@ -2551,14 +2551,14 @@
     <sentence id="463:26">
         <text>So noise is reduced at least 50% and the heat is much better, now it doesn't feel hot but warm.</text>
         <aspectTerms>
-            <aspectTerm term="heat" from="41" to="45"/>
-            <aspectTerm term="noise" from="3" to="8"/>
+            <aspectTerm term="heat" polarity="conflict"  from="41" to="45"/>
+            <aspectTerm term="noise" polarity="conflict"  from="3" to="8"/>
         </aspectTerms>
     </sentence>
     <sentence id="1101:1">
         <text>Not sure on Windows 8.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="12" to="21"/>
+            <aspectTerm term="Windows 8" polarity="neutral"  from="12" to="21"/>
         </aspectTerms>
     </sentence>
     <sentence id="204:4">
@@ -2567,14 +2567,14 @@
     <sentence id="71:1">
         <text>My one complaint is that there was no internal CD drive.</text>
         <aspectTerms>
-            <aspectTerm term="internal CD drive" from="38" to="55"/>
+            <aspectTerm term="internal CD drive" polarity="negative"  from="38" to="55"/>
         </aspectTerms>
     </sentence>
     <sentence id="997:1">
         <text>This newer netbook has no hard drive or network lights.</text>
         <aspectTerms>
-            <aspectTerm term="hard drive" from="26" to="36"/>
-            <aspectTerm term="network lights" from="40" to="54"/>
+            <aspectTerm term="hard drive" polarity="neutral"  from="26" to="36"/>
+            <aspectTerm term="network lights" polarity="neutral"  from="40" to="54"/>
         </aspectTerms>
     </sentence>
     <sentence id="573:1">
@@ -2592,7 +2592,7 @@
     <sentence id="289:1">
         <text>I was having a though time deciding between the 13" MacBook Air or the MacBook Pro 13" (Both baseline models, priced at 1,200 $ retail)</text>
         <aspectTerms>
-            <aspectTerm term="priced" from="110" to="116"/>
+            <aspectTerm term="priced" polarity="neutral"  from="110" to="116"/>
         </aspectTerms>
     </sentence>
     <sentence id="918:1">
@@ -2604,8 +2604,8 @@
     <sentence id="98:1">
         <text>Not too expense and has enough storage for most users and many ports.</text>
         <aspectTerms>
-            <aspectTerm term="storage" from="31" to="38"/>
-            <aspectTerm term="ports" from="63" to="68"/>
+            <aspectTerm term="storage" polarity="positive"  from="31" to="38"/>
+            <aspectTerm term="ports" polarity="positive"  from="63" to="68"/>
         </aspectTerms>
     </sentence>
     <sentence id="152:1">
@@ -2614,7 +2614,7 @@
     <sentence id="786:1193">
         <text>The audio volume is quite low and virtually unusable in a room with any background activity.</text>
         <aspectTerms>
-            <aspectTerm term="audio volume" from="4" to="16"/>
+            <aspectTerm term="audio volume" polarity="negative"  from="4" to="16"/>
         </aspectTerms>
     </sentence>
     <sentence id="747:1">
@@ -2626,7 +2626,7 @@
     <sentence id="389:1">
         <text>It is lightweight and the perfect size to carry to class.</text>
         <aspectTerms>
-            <aspectTerm term="size" from="34" to="38"/>
+            <aspectTerm term="size" polarity="positive"  from="34" to="38"/>
         </aspectTerms>
     </sentence>
     <sentence id="921:1">
@@ -2650,7 +2650,7 @@
     <sentence id="787:207">
         <text>I was given a demonstration of Windows 8.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 8" from="31" to="40"/>
+            <aspectTerm term="Windows 8" polarity="neutral"  from="31" to="40"/>
         </aspectTerms>
     </sentence>
     <sentence id="313:0">
@@ -2662,19 +2662,19 @@
     <sentence id="314:67">
         <text>The MBP is beautiful has many wonderful capabilities.</text>
         <aspectTerms>
-            <aspectTerm term="capabilities" from="40" to="52"/>
+            <aspectTerm term="capabilities" polarity="positive"  from="40" to="52"/>
         </aspectTerms>
     </sentence>
     <sentence id="339:4">
         <text>I thought that it will be fine, if i do some settings.</text>
         <aspectTerms>
-            <aspectTerm term="settings" from="45" to="53"/>
+            <aspectTerm term="settings" polarity="neutral"  from="45" to="53"/>
         </aspectTerms>
     </sentence>
     <sentence id="349:1">
         <text>Runs very smoothly.</text>
         <aspectTerms>
-            <aspectTerm term="Runs" from="0" to="4"/>
+            <aspectTerm term="Runs" polarity="positive"  from="0" to="4"/>
         </aspectTerms>
     </sentence>
     <sentence id="360:0">
@@ -2689,14 +2689,14 @@
     <sentence id="786:1355">
         <text>Boot-up slowed significantly after all Windows updates were installed.</text>
         <aspectTerms>
-            <aspectTerm term="Boot-up" from="0" to="7"/>
-            <aspectTerm term="Windows updates" from="39" to="54"/>
+            <aspectTerm term="Boot-up" polarity="negative"  from="0" to="7"/>
+            <aspectTerm term="Windows updates" polarity="negative"  from="39" to="54"/>
         </aspectTerms>
     </sentence>
     <sentence id="7:21">
         <text>More likely it will require replacing the logic board once they admit they have a problem and come up with a solution.</text>
         <aspectTerms>
-            <aspectTerm term="logic board" from="42" to="53"/>
+            <aspectTerm term="logic board" polarity="negative"  from="42" to="53"/>
         </aspectTerms>
     </sentence>
     <sentence id="375:3">
@@ -2705,10 +2705,10 @@
     <sentence id="1056:1">
         <text>It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.</text>
         <aspectTerms>
-            <aspectTerm term="internet" from="85" to="93"/>
-            <aspectTerm term="word processing" from="95" to="110"/>
-            <aspectTerm term="graphic design" from="112" to="126"/>
-            <aspectTerm term="gaming" from="131" to="137"/>
+            <aspectTerm term="internet" polarity="positive"  from="85" to="93"/>
+            <aspectTerm term="word processing" polarity="positive"  from="95" to="110"/>
+            <aspectTerm term="graphic design" polarity="positive"  from="112" to="126"/>
+            <aspectTerm term="gaming" polarity="positive"  from="131" to="137"/>
         </aspectTerms>
     </sentence>
     <sentence id="375:4">
@@ -2717,11 +2717,11 @@
     <sentence id="227:1">
         <text>I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.</text>
         <aspectTerms>
-            <aspectTerm term="setup" from="35" to="40"/>
-            <aspectTerm term="install" from="45" to="52"/>
-            <aspectTerm term="tutorial" from="96" to="104"/>
-            <aspectTerm term="features" from="137" to="145"/>
-            <aspectTerm term="right mouse click menu" from="184" to="206"/>
+            <aspectTerm term="setup" polarity="positive"  from="35" to="40"/>
+            <aspectTerm term="install" polarity="positive"  from="45" to="52"/>
+            <aspectTerm term="tutorial" polarity="neutral"  from="96" to="104"/>
+            <aspectTerm term="features" polarity="neutral"  from="137" to="145"/>
+            <aspectTerm term="right mouse click menu" polarity="neutral"  from="184" to="206"/>
         </aspectTerms>
     </sentence>
     <sentence id="375:10">
@@ -2733,7 +2733,7 @@
     <sentence id="378:1">
         <text>Runs real quick.</text>
         <aspectTerms>
-            <aspectTerm term="Runs" from="0" to="4"/>
+            <aspectTerm term="Runs" polarity="positive"  from="0" to="4"/>
         </aspectTerms>
     </sentence>
     <sentence id="375:5">
@@ -2742,13 +2742,13 @@
     <sentence id="494:1">
         <text>Buy the separate RAM memory and you will have a rocket!</text>
         <aspectTerms>
-            <aspectTerm term="RAM memory" from="17" to="27"/>
+            <aspectTerm term="RAM memory" polarity="positive"  from="17" to="27"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:1170">
         <text>Since the machine's slim profile is critical to me, that was a problem.</text>
         <aspectTerms>
-            <aspectTerm term="profile" from="25" to="32"/>
+            <aspectTerm term="profile" polarity="negative"  from="25" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="320:15">
@@ -2760,37 +2760,37 @@
     <sentence id="1077:1">
         <text>WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.</text>
         <aspectTerms>
-            <aspectTerm term="disk drive" from="17" to="27"/>
-            <aspectTerm term="USB ports" from="41" to="50"/>
-            <aspectTerm term="WiFi capability" from="0" to="15"/>
+            <aspectTerm term="disk drive" polarity="positive"  from="17" to="27"/>
+            <aspectTerm term="USB ports" polarity="positive"  from="41" to="50"/>
+            <aspectTerm term="WiFi capability" polarity="positive"  from="0" to="15"/>
         </aspectTerms>
     </sentence>
     <sentence id="1053:13">
         <text>The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.</text>
         <aspectTerms>
-            <aspectTerm term="SD card reader" from="4" to="18"/>
-            <aspectTerm term="nail slot on the card" from="61" to="82"/>
-            <aspectTerm term="slot" from="132" to="136"/>
+            <aspectTerm term="SD card reader" polarity="negative"  from="4" to="18"/>
+            <aspectTerm term="nail slot on the card" polarity="negative"  from="61" to="82"/>
+            <aspectTerm term="slot" polarity="negative"  from="132" to="136"/>
         </aspectTerms>
     </sentence>
     <sentence id="615:1">
         <text>Soft touch, anodized aluminum with laser cut precision and no flaws.</text>
         <aspectTerms>
-            <aspectTerm term="touch" from="5" to="10"/>
-            <aspectTerm term="anodized aluminum" from="12" to="29"/>
+            <aspectTerm term="touch" polarity="positive"  from="5" to="10"/>
+            <aspectTerm term="anodized aluminum" polarity="positive"  from="12" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:873">
         <text>Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.</text>
         <aspectTerms>
-            <aspectTerm term="aluminium" from="24" to="33"/>
-            <aspectTerm term="glass" from="43" to="48"/>
+            <aspectTerm term="aluminium" polarity="positive"  from="24" to="33"/>
+            <aspectTerm term="glass" polarity="positive"  from="43" to="48"/>
         </aspectTerms>
     </sentence>
     <sentence id="261:0">
         <text>First of all yes this is a mac and it has that nice brushed aluminum .</text>
         <aspectTerms>
-            <aspectTerm term="aluminum" from="60" to="68"/>
+            <aspectTerm term="aluminum" polarity="positive"  from="60" to="68"/>
         </aspectTerms>
     </sentence>
     <sentence id="336:0">
@@ -2799,16 +2799,16 @@
     <sentence id="115:1">
         <text>After all was said and done, I essentially used that $450 savings to buy 16GB of RAM, TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive.</text>
         <aspectTerms>
-            <aspectTerm term="16GB of RAM" from="73" to="84"/>
-            <aspectTerm term="Seagate Momentus XT hybrid drives" from="90" to="123"/>
-            <aspectTerm term="OWC upgrade kit" from="131" to="146"/>
-            <aspectTerm term="hard drive" from="169" to="179"/>
+            <aspectTerm term="16GB of RAM" polarity="neutral"  from="73" to="84"/>
+            <aspectTerm term="Seagate Momentus XT hybrid drives" polarity="neutral"  from="90" to="123"/>
+            <aspectTerm term="OWC upgrade kit" polarity="neutral"  from="131" to="146"/>
+            <aspectTerm term="hard drive" polarity="neutral"  from="169" to="179"/>
         </aspectTerms>
     </sentence>
     <sentence id="843:1">
         <text>The Dell Inspiron is fast and has a number pad on the keyboard, which I miss on my Apple laptops.</text>
         <aspectTerms>
-            <aspectTerm term="number pad on the keyboard" from="36" to="62"/>
+            <aspectTerm term="number pad on the keyboard" polarity="positive"  from="36" to="62"/>
         </aspectTerms>
     </sentence>
     <sentence id="338:0">
@@ -2820,31 +2820,31 @@
     <sentence id="578:1">
         <text>I was concerned that the downgrade to the regular hard drive would make it unacceptably slow but I need not have worried - this machine is the fastest I have ever owned...</text>
         <aspectTerms>
-            <aspectTerm term="regular hard drive" from="42" to="60"/>
+            <aspectTerm term="regular hard drive" polarity="positive"  from="42" to="60"/>
         </aspectTerms>
     </sentence>
     <sentence id="523:1">
         <text>This one still has the CD slot.</text>
         <aspectTerms>
-            <aspectTerm term="CD slot" from="23" to="30"/>
+            <aspectTerm term="CD slot" polarity="neutral"  from="23" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="754:11">
         <text>No HDMI port.</text>
         <aspectTerms>
-            <aspectTerm term="HDMI port" from="3" to="12"/>
+            <aspectTerm term="HDMI port" polarity="neutral"  from="3" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="787:619">
         <text>I had to install Mountain Lion and it took a good two hours.</text>
         <aspectTerms>
-            <aspectTerm term="install Mountain Lion" from="9" to="30"/>
+            <aspectTerm term="install Mountain Lion" polarity="negative"  from="9" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="266:25">
         <text>Customization on mac is impossible.</text>
         <aspectTerms>
-            <aspectTerm term="Customization" from="0" to="13"/>
+            <aspectTerm term="Customization" polarity="negative"  from="0" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="385:14">
@@ -2856,15 +2856,15 @@
     <sentence id="29:322">
         <text>I am replacing the HD with a Micron SSD soon.</text>
         <aspectTerms>
-            <aspectTerm term="HD" from="19" to="21"/>
-            <aspectTerm term="Micron SSD" from="29" to="39"/>
+            <aspectTerm term="HD" polarity="neutral"  from="19" to="21"/>
+            <aspectTerm term="Micron SSD" polarity="neutral"  from="29" to="39"/>
         </aspectTerms>
     </sentence>
     <sentence id="275:12">
         <text>Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.</text>
         <aspectTerms>
-            <aspectTerm term="two finger clicking" from="5" to="24"/>
-            <aspectTerm term="right click button" from="50" to="68"/>
+            <aspectTerm term="two finger clicking" polarity="positive"  from="5" to="24"/>
+            <aspectTerm term="right click button" polarity="neutral"  from="50" to="68"/>
         </aspectTerms>
     </sentence>
     <sentence id="397:15">
@@ -2873,7 +2873,7 @@
     <sentence id="397:17">
         <text>The SuperDrive is quiet.</text>
         <aspectTerms>
-            <aspectTerm term="SuperDrive" from="4" to="14"/>
+            <aspectTerm term="SuperDrive" polarity="positive"  from="4" to="14"/>
         </aspectTerms>
     </sentence>
     <sentence id="408:9">
@@ -2882,9 +2882,9 @@
     <sentence id="1035:1">
         <text>The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.</text>
         <aspectTerms>
-            <aspectTerm term="power plug" from="4" to="14"/>
-            <aspectTerm term="power adaptor" from="42" to="55"/>
-            <aspectTerm term="battery" from="70" to="77"/>
+            <aspectTerm term="power plug" polarity="negative"  from="4" to="14"/>
+            <aspectTerm term="power adaptor" polarity="neutral"  from="42" to="55"/>
+            <aspectTerm term="battery" polarity="neutral"  from="70" to="77"/>
         </aspectTerms>
     </sentence>
     <sentence id="409:0">
@@ -2893,7 +2893,7 @@
     <sentence id="1064:1">
         <text>The battery was completely dead, in fact it had grown about a quarter inch thick lump on the underside.</text>
         <aspectTerms>
-            <aspectTerm term="battery" from="4" to="11"/>
+            <aspectTerm term="battery" polarity="negative"  from="4" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="417:8">
@@ -2902,13 +2902,13 @@
     <sentence id="429:0">
         <text>if yo like practicality this is the laptop for you.</text>
         <aspectTerms>
-            <aspectTerm term="practicality" from="11" to="23"/>
+            <aspectTerm term="practicality" polarity="positive"  from="11" to="23"/>
         </aspectTerms>
     </sentence>
     <sentence id="398:2">
         <text>The OS is great.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="4" to="6"/>
+            <aspectTerm term="OS" polarity="positive"  from="4" to="6"/>
         </aspectTerms>
     </sentence>
     <sentence id="472:0">
@@ -2917,14 +2917,14 @@
     <sentence id="203:1">
         <text>I tried several monitors and several HDMI cables and this was the case each time.</text>
         <aspectTerms>
-            <aspectTerm term="monitors" from="16" to="24"/>
-            <aspectTerm term="HDMI cables" from="37" to="48"/>
+            <aspectTerm term="monitors" polarity="neutral"  from="16" to="24"/>
+            <aspectTerm term="HDMI cables" polarity="neutral"  from="37" to="48"/>
         </aspectTerms>
     </sentence>
     <sentence id="497:3">
         <text>CONS: Price is a bit ridiculous, kinda heavy.</text>
         <aspectTerms>
-            <aspectTerm term="Price" from="6" to="11"/>
+            <aspectTerm term="Price" polarity="negative"  from="6" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="534:4">
@@ -2936,7 +2936,7 @@
     <sentence id="1160:2">
         <text>The troubleshooting said it was the AC adaptor so we ordered a new one.</text>
         <aspectTerms>
-            <aspectTerm term="AC adaptor" from="36" to="46"/>
+            <aspectTerm term="AC adaptor" polarity="neutral"  from="36" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="478:2">
@@ -2945,39 +2945,39 @@
     <sentence id="47:1">
         <text>Fan only comes on when you are playing a game.</text>
         <aspectTerms>
-            <aspectTerm term="Fan" from="0" to="3"/>
-            <aspectTerm term="playing a game" from="31" to="45"/>
+            <aspectTerm term="Fan" polarity="neutral"  from="0" to="3"/>
+            <aspectTerm term="playing a game" polarity="neutral"  from="31" to="45"/>
         </aspectTerms>
     </sentence>
     <sentence id="961:1">
         <text>Which it did not have, only 3 USB 2 ports.</text>
         <aspectTerms>
-            <aspectTerm term="USB 2 ports" from="30" to="41"/>
+            <aspectTerm term="USB 2 ports" polarity="neutral"  from="30" to="41"/>
         </aspectTerms>
     </sentence>
     <sentence id="279:2">
         <text>No startup disk was not included but that may be my fault.</text>
         <aspectTerms>
-            <aspectTerm term="startup disk" from="3" to="15"/>
+            <aspectTerm term="startup disk" polarity="neutral"  from="3" to="15"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:1175">
         <text>There is no "tools" menu.</text>
         <aspectTerms>
-            <aspectTerm term="&quot;tools&quot; menu" from="12" to="24"/>
+            <aspectTerm term="&quot;tools&quot; menu" polarity="neutral"  from="12" to="24"/>
         </aspectTerms>
     </sentence>
     <sentence id="716:1">
         <text>It is very fast and has everything that I need except for a word program.</text>
         <aspectTerms>
-            <aspectTerm term="word program" from="60" to="72"/>
+            <aspectTerm term="word program" polarity="negative"  from="60" to="72"/>
         </aspectTerms>
     </sentence>
     <sentence id="217:1">
         <text>Needs a CD/DVD drive and a bigger power switch.</text>
         <aspectTerms>
-            <aspectTerm term="CD/DVD drive" from="8" to="20"/>
-            <aspectTerm term="power switch" from="34" to="46"/>
+            <aspectTerm term="CD/DVD drive" polarity="neutral"  from="8" to="20"/>
+            <aspectTerm term="power switch" polarity="negative"  from="34" to="46"/>
         </aspectTerms>
     </sentence>
     <sentence id="624:1">
@@ -2986,8 +2986,8 @@
     <sentence id="840:1">
         <text>My laptop with Windows 7 crashed and I did not want Windows 8.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 7" from="15" to="24"/>
-            <aspectTerm term="Windows 8" from="52" to="61"/>
+            <aspectTerm term="Windows 7" polarity="negative"  from="15" to="24"/>
+            <aspectTerm term="Windows 8" polarity="negative"  from="52" to="61"/>
         </aspectTerms>
     </sentence>
     <sentence id="1130:1">
@@ -2999,8 +2999,8 @@
     <sentence id="121:1">
         <text>Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.</text>
         <aspectTerms>
-            <aspectTerm term="install" from="8" to="15"/>
-            <aspectTerm term="configure for ADSl cable or wifi" from="79" to="111"/>
+            <aspectTerm term="install" polarity="positive"  from="8" to="15"/>
+            <aspectTerm term="configure for ADSl cable or wifi" polarity="positive"  from="79" to="111"/>
         </aspectTerms>
     </sentence>
     <sentence id="721:0">
@@ -3009,7 +3009,7 @@
     <sentence id="1008:1">
         <text>The speakers could have been better but it wasn't a deal breaker... this is a great little laptop... love it!</text>
         <aspectTerms>
-            <aspectTerm term="speakers" from="4" to="12"/>
+            <aspectTerm term="speakers" polarity="conflict"  from="4" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="572:0">
@@ -3021,7 +3021,7 @@
     <sentence id="688:1">
         <text>Nice packing.</text>
         <aspectTerms>
-            <aspectTerm term="packing" from="5" to="12"/>
+            <aspectTerm term="packing" polarity="positive"  from="5" to="12"/>
         </aspectTerms>
     </sentence>
     <sentence id="630:10">
@@ -3030,7 +3030,7 @@
     <sentence id="62:1">
         <text>I switched to this because I wanted something different, even though I miss windows.</text>
         <aspectTerms>
-            <aspectTerm term="windows" from="76" to="83"/>
+            <aspectTerm term="windows" polarity="positive"  from="76" to="83"/>
         </aspectTerms>
     </sentence>
     <sentence id="630:14">
@@ -3039,25 +3039,25 @@
     <sentence id="464:4">
         <text>Apple no longer includes iDVD with the computer and furthermore, Apple doesn't even offer it anymore!</text>
         <aspectTerms>
-            <aspectTerm term="iDVD" from="25" to="29"/>
+            <aspectTerm term="iDVD" polarity="negative"  from="25" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="991:1">
         <text>I also wanted Windows 7, which this one has.</text>
         <aspectTerms>
-            <aspectTerm term="Windows 7" from="14" to="23"/>
+            <aspectTerm term="Windows 7" polarity="positive"  from="14" to="23"/>
         </aspectTerms>
     </sentence>
     <sentence id="941:1">
         <text>At first, I feel a little bit uncomfortable in using the Mac system.</text>
         <aspectTerms>
-            <aspectTerm term="Mac system" from="57" to="67"/>
+            <aspectTerm term="Mac system" polarity="negative"  from="57" to="67"/>
         </aspectTerms>
     </sentence>
     <sentence id="440:1">
         <text>I am used to computers with windows so I am having a little difficulty finding my way around.</text>
         <aspectTerms>
-            <aspectTerm term="windows" from="28" to="35"/>
+            <aspectTerm term="windows" polarity="neutral"  from="28" to="35"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:173">
@@ -3066,9 +3066,9 @@
     <sentence id="626:1">
         <text>It just works out of the box and you have a lot of cool software included with the OS.</text>
         <aspectTerms>
-            <aspectTerm term="works" from="8" to="13"/>
-            <aspectTerm term="software" from="56" to="64"/>
-            <aspectTerm term="OS" from="83" to="85"/>
+            <aspectTerm term="works" polarity="positive"  from="8" to="13"/>
+            <aspectTerm term="software" polarity="positive"  from="56" to="64"/>
+            <aspectTerm term="OS" polarity="neutral"  from="83" to="85"/>
         </aspectTerms>
     </sentence>
     <sentence id="574:0">
@@ -3077,7 +3077,7 @@
     <sentence id="525:1">
         <text>its as advertised on here..... it works great and is not a waste of money!</text>
         <aspectTerms>
-            <aspectTerm term="works" from="34" to="39"/>
+            <aspectTerm term="works" polarity="positive"  from="34" to="39"/>
         </aspectTerms>
     </sentence>
     <sentence id="644:1">
@@ -3089,7 +3089,7 @@
     <sentence id="786:82">
         <text>Runs like a champ.....</text>
         <aspectTerms>
-            <aspectTerm term="Runs" from="0" to="4"/>
+            <aspectTerm term="Runs" polarity="positive"  from="0" to="4"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:155">
@@ -3098,8 +3098,8 @@
     <sentence id="692:1">
         <text>Premium price for the OS more than anything else.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="8" to="13"/>
-            <aspectTerm term="OS" from="22" to="24"/>
+            <aspectTerm term="price" polarity="positive"  from="8" to="13"/>
+            <aspectTerm term="OS" polarity="neutral"  from="22" to="24"/>
         </aspectTerms>
     </sentence>
     <sentence id="575:0">
@@ -3108,33 +3108,33 @@
     <sentence id="976:1">
         <text>I was a little concerned about the touch pad based on reviews, but I've found it fine to work with.</text>
         <aspectTerms>
-            <aspectTerm term="touch pad" from="35" to="44"/>
+            <aspectTerm term="touch pad" polarity="positive"  from="35" to="44"/>
         </aspectTerms>
     </sentence>
     <sentence id="762:1">
         <text>I bought this Mac book pro along with a new 27" iMac and while they are still light years more reliable than a PC I have noticed a decline in the reliability of my Mac computers.</text>
         <aspectTerms>
-            <aspectTerm term="reliability" from="146" to="157"/>
+            <aspectTerm term="reliability" polarity="conflict"  from="146" to="157"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:1301">
         <text>The sound as mentioned earlier isn't the best, but it can be solved with headphones.</text>
         <aspectTerms>
-            <aspectTerm term="sound" from="4" to="9"/>
-            <aspectTerm term="headphones" from="73" to="83"/>
+            <aspectTerm term="sound" polarity="conflict"  from="4" to="9"/>
+            <aspectTerm term="headphones" polarity="neutral"  from="73" to="83"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:1054">
         <text>The track pad is a bit squirrely at times- sometimes too sensitive, and sometimes a bit unresponsive, but it's usable.</text>
         <aspectTerms>
-            <aspectTerm term="track pad" from="4" to="13"/>
+            <aspectTerm term="track pad" polarity="conflict"  from="4" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="479:6">
         <text>However, the experience was great since the OS does not become unstable and the application will simply shutdown and reopen.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="44" to="46"/>
-            <aspectTerm term="application" from="80" to="91"/>
+            <aspectTerm term="OS" polarity="positive"  from="44" to="46"/>
+            <aspectTerm term="application" polarity="positive"  from="80" to="91"/>
         </aspectTerms>
     </sentence>
     <sentence id="478:3">
@@ -3143,20 +3143,20 @@
     <sentence id="258:1">
         <text>If you ask me, for this price it should be included.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="24" to="29"/>
+            <aspectTerm term="price" polarity="negative"  from="24" to="29"/>
         </aspectTerms>
     </sentence>
     <sentence id="1044:1">
         <text>The battery is not as shown in the product photos.</text>
         <aspectTerms>
-            <aspectTerm term="battery" from="4" to="11"/>
+            <aspectTerm term="battery" polarity="negative"  from="4" to="11"/>
         </aspectTerms>
     </sentence>
     <sentence id="416:1">
         <text>Even though I could have gotten a pc twice the speed for the same price I still think there's nothing like a Mac.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="66" to="71"/>
-            <aspectTerm term="speed" from="47" to="52"/>
+            <aspectTerm term="price" polarity="conflict"  from="66" to="71"/>
+            <aspectTerm term="speed" polarity="conflict"  from="47" to="52"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:95">
@@ -3165,7 +3165,7 @@
     <sentence id="367:1">
         <text>Shipping was quick and product described was the product sent and so much more...</text>
         <aspectTerms>
-            <aspectTerm term="Shipping" from="0" to="8"/>
+            <aspectTerm term="Shipping" polarity="positive"  from="0" to="8"/>
         </aspectTerms>
     </sentence>
     <sentence id="478:5">
@@ -3177,7 +3177,7 @@
     <sentence id="718:1">
         <text>the retina display display make pictures i took years ago jaw dropping.</text>
         <aspectTerms>
-            <aspectTerm term="retina display display" from="4" to="26"/>
+            <aspectTerm term="retina display display" polarity="positive"  from="4" to="26"/>
         </aspectTerms>
     </sentence>
     <sentence id="445:22">
@@ -3186,13 +3186,13 @@
     <sentence id="109:1">
         <text>The Mac Mini is probably the simplest example of compact computing out there.</text>
         <aspectTerms>
-            <aspectTerm term="compact computing" from="49" to="66"/>
+            <aspectTerm term="compact computing" polarity="positive"  from="49" to="66"/>
         </aspectTerms>
     </sentence>
     <sentence id="96:1">
         <text>Instead, I'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which Mac to buy.</text>
         <aspectTerms>
-            <aspectTerm term="performance and feature set of the hardware" from="39" to="82"/>
+            <aspectTerm term="performance and feature set of the hardware" polarity="neutral"  from="39" to="82"/>
         </aspectTerms>
     </sentence>
     <sentence id="448:11">
@@ -3207,11 +3207,11 @@
     <sentence id="786:572">
         <text>Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.</text>
         <aspectTerms>
-            <aspectTerm term="ports" from="6" to="11"/>
-            <aspectTerm term="FireWire 800" from="20" to="32"/>
-            <aspectTerm term="Gigabit Ethernet" from="34" to="50"/>
-            <aspectTerm term="MagSafe port" from="52" to="64"/>
-            <aspectTerm term="Microphone jack" from="66" to="81"/>
+            <aspectTerm term="ports" polarity="neutral"  from="6" to="11"/>
+            <aspectTerm term="FireWire 800" polarity="neutral"  from="20" to="32"/>
+            <aspectTerm term="Gigabit Ethernet" polarity="neutral"  from="34" to="50"/>
+            <aspectTerm term="MagSafe port" polarity="neutral"  from="52" to="64"/>
+            <aspectTerm term="Microphone jack" polarity="neutral"  from="66" to="81"/>
         </aspectTerms>
     </sentence>
     <sentence id="388:2">
@@ -3223,9 +3223,9 @@
     <sentence id="325:1">
         <text>Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.</text>
         <aspectTerms>
-            <aspectTerm term="ventilation system" from="32" to="50"/>
-            <aspectTerm term="watching videos" from="100" to="115"/>
-            <aspectTerm term="playing steam games" from="126" to="145"/>
+            <aspectTerm term="ventilation system" polarity="negative"  from="32" to="50"/>
+            <aspectTerm term="watching videos" polarity="neutral"  from="100" to="115"/>
+            <aspectTerm term="playing steam games" polarity="neutral"  from="126" to="145"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:594">
@@ -3234,40 +3234,40 @@
     <sentence id="965:1">
         <text>Chatting with Acer support, I was advised the problem was corrupted operating system files.</text>
         <aspectTerms>
-            <aspectTerm term="Acer support" from="14" to="26"/>
-            <aspectTerm term="operating system files" from="68" to="90"/>
+            <aspectTerm term="Acer support" polarity="neutral"  from="14" to="26"/>
+            <aspectTerm term="operating system files" polarity="neutral"  from="68" to="90"/>
         </aspectTerms>
     </sentence>
     <sentence id="50:1">
         <text>It's been a couple weeks since the purchase and I'm struggle with finding the correct keys (but that was expected).</text>
         <aspectTerms>
-            <aspectTerm term="keys" from="86" to="90"/>
+            <aspectTerm term="keys" polarity="neutral"  from="86" to="90"/>
         </aspectTerms>
     </sentence>
     <sentence id="326:3">
         <text>Many people complain about the new OS, and it's urgent for Apple to fix it asap!</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="35" to="37"/>
+            <aspectTerm term="OS" polarity="negative"  from="35" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:237">
         <text>Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.</text>
         <aspectTerms>
-            <aspectTerm term="Lion" from="28" to="32"/>
-            <aspectTerm term="MAC OS" from="57" to="63"/>
+            <aspectTerm term="Lion" polarity="positive"  from="28" to="32"/>
+            <aspectTerm term="MAC OS" polarity="positive"  from="57" to="63"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:179">
         <text>User upgradeable RAM and HDD.</text>
         <aspectTerms>
-            <aspectTerm term="RAM" from="17" to="20"/>
-            <aspectTerm term="HDD" from="25" to="28"/>
+            <aspectTerm term="RAM" polarity="positive"  from="17" to="20"/>
+            <aspectTerm term="HDD" polarity="positive"  from="25" to="28"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:331">
         <text>But I wanted the Pro for the CD/DVD player.</text>
         <aspectTerms>
-            <aspectTerm term="CD/DVD player" from="29" to="42"/>
+            <aspectTerm term="CD/DVD player" polarity="positive"  from="29" to="42"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:636">
@@ -3279,7 +3279,7 @@
     <sentence id="347:1">
         <text>The RAM memory is good but should have splurged for 8Mb instead of 4Mb.</text>
         <aspectTerms>
-            <aspectTerm term="RAM memory" from="4" to="14"/>
+            <aspectTerm term="RAM memory" polarity="conflict"  from="4" to="14"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:417">
@@ -3291,9 +3291,9 @@
     <sentence id="500:1">
         <text>I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.</text>
         <aspectTerms>
-            <aspectTerm term="os.x" from="76" to="80"/>
-            <aspectTerm term="windows" from="85" to="92"/>
-            <aspectTerm term="windows" from="155" to="162"/>
+            <aspectTerm term="os.x" polarity="neutral"  from="76" to="80"/>
+            <aspectTerm term="windows" polarity="positive"  from="85" to="92"/>
+            <aspectTerm term="windows" polarity="neutral"  from="155" to="162"/>
         </aspectTerms>
     </sentence>
     <sentence id="301:5">
@@ -3305,8 +3305,8 @@
     <sentence id="574:1">
         <text>With the softwares supporting the use of other OS makes it much better.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="47" to="49"/>
-            <aspectTerm term="softwares" from="9" to="18"/>
+            <aspectTerm term="OS" polarity="neutral"  from="47" to="49"/>
+            <aspectTerm term="softwares" polarity="neutral"  from="9" to="18"/>
         </aspectTerms>
     </sentence>
     <sentence id="303:13">
@@ -3315,7 +3315,7 @@
     <sentence id="305:3">
         <text>I then upgraded to Mac OS X 10.8 "Mountain Lion".</text>
         <aspectTerms>
-            <aspectTerm term="Mac OS X 10.8 &quot;Mountain Lion&quot;" from="19" to="48"/>
+            <aspectTerm term="Mac OS X 10.8 &quot;Mountain Lion&quot;" polarity="neutral"  from="19" to="48"/>
         </aspectTerms>
     </sentence>
     <sentence id="293:2">
@@ -3327,14 +3327,14 @@
     <sentence id="898:1">
         <text>I was considering buying the Air, but in reality, this one has a more powerful performance and seems much more convenient, even though it's about .20 inch thicker and 2 lbs heavier.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="79" to="90"/>
+            <aspectTerm term="performance" polarity="positive"  from="79" to="90"/>
         </aspectTerms>
     </sentence>
     <sentence id="891:1">
         <text>At home and the office it gets plugged into an external 24" LCD screen, so built in screen size is not terribly important.</text>
         <aspectTerms>
-            <aspectTerm term="built in screen size" from="75" to="95"/>
-            <aspectTerm term="external 24&quot; LCD screen" from="47" to="70"/>
+            <aspectTerm term="built in screen size" polarity="neutral"  from="75" to="95"/>
+            <aspectTerm term="external 24&quot; LCD screen" polarity="neutral"  from="47" to="70"/>
         </aspectTerms>
     </sentence>
     <sentence id="301:10">
@@ -3343,21 +3343,21 @@
     <sentence id="65:1">
         <text>Just beware no DVD slot so when I went to install software I had on CD I couldn't.</text>
         <aspectTerms>
-            <aspectTerm term="install software" from="42" to="58"/>
-            <aspectTerm term="DVD slot" from="15" to="23"/>
+            <aspectTerm term="install software" polarity="negative"  from="42" to="58"/>
+            <aspectTerm term="DVD slot" polarity="neutral"  from="15" to="23"/>
         </aspectTerms>
     </sentence>
     <sentence id="994:1">
         <text>I bought it to be able to dedicate a small, portable laptop to my writing and was surprised to learn that I needed to buy a word processing program to do so.</text>
         <aspectTerms>
-            <aspectTerm term="word processing program" from="124" to="147"/>
+            <aspectTerm term="word processing program" polarity="neutral"  from="124" to="147"/>
         </aspectTerms>
     </sentence>
     <sentence id="443:1">
         <text>This version of MacBook Pro runs on a third-generation CPU ("Ivy Bridge"), not the latest fourth-generation Haswell CPU the 2013 version has.</text>
         <aspectTerms>
-            <aspectTerm term="third-generation CPU (&quot;Ivy Bridge&quot;)" from="38" to="73"/>
-            <aspectTerm term="fourth-generation Haswell CPU" from="90" to="119"/>
+            <aspectTerm term="third-generation CPU (&quot;Ivy Bridge&quot;)" polarity="neutral"  from="38" to="73"/>
+            <aspectTerm term="fourth-generation Haswell CPU" polarity="neutral"  from="90" to="119"/>
         </aspectTerms>
     </sentence>
     <sentence id="316:1">
@@ -3366,8 +3366,8 @@
     <sentence id="245:1">
         <text>No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.</text>
         <aspectTerms>
-            <aspectTerm term="Cd Rom" from="3" to="9"/>
-            <aspectTerm term="features" from="98" to="106"/>
+            <aspectTerm term="Cd Rom" polarity="neutral"  from="3" to="9"/>
+            <aspectTerm term="features" polarity="negative"  from="98" to="106"/>
         </aspectTerms>
     </sentence>
     <sentence id="380:1">
@@ -3379,8 +3379,8 @@
     <sentence id="1063:403">
         <text>the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer</text>
         <aspectTerms>
-            <aspectTerm term="volume" from="4" to="10"/>
-            <aspectTerm term="volume" from="63" to="69"/>
+            <aspectTerm term="volume" polarity="negative"  from="4" to="10"/>
+            <aspectTerm term="volume" polarity="negative"  from="63" to="69"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:1388">
@@ -3392,7 +3392,7 @@
     <sentence id="786:842">
         <text>and its not hard to accidentally bang it against something so i recommend getting a case to protect it.</text>
         <aspectTerms>
-            <aspectTerm term="case" from="84" to="88"/>
+            <aspectTerm term="case" polarity="neutral"  from="84" to="88"/>
         </aspectTerms>
     </sentence>
     <sentence id="397:1">
@@ -3401,13 +3401,13 @@
     <sentence id="285:1">
         <text>I got this at an amazing price from Amazon and it arrived just in time.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="25" to="30"/>
+            <aspectTerm term="price" polarity="positive"  from="25" to="30"/>
         </aspectTerms>
     </sentence>
     <sentence id="43:1">
         <text>Every time I log into the system after a few hours, there is this endlessly frustrating process that I have to go through.</text>
         <aspectTerms>
-            <aspectTerm term="log into the system" from="13" to="32"/>
+            <aspectTerm term="log into the system" polarity="negative"  from="13" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="870:0">
@@ -3416,9 +3416,9 @@
     <sentence id="123:1">
         <text>Put a SSD and use a 21" LED screen, this set up is silky smooth!</text>
         <aspectTerms>
-            <aspectTerm term="21&quot; LED screen" from="20" to="34"/>
-            <aspectTerm term="SSD" from="6" to="9"/>
-            <aspectTerm term="set up" from="41" to="47"/>
+            <aspectTerm term="21&quot; LED screen" polarity="neutral"  from="20" to="34"/>
+            <aspectTerm term="SSD" polarity="neutral"  from="6" to="9"/>
+            <aspectTerm term="set up" polarity="positive"  from="41" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:379">
@@ -3427,35 +3427,35 @@
     <sentence id="11:1">
         <text>The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.</text>
         <aspectTerms>
-            <aspectTerm term="case" from="4" to="8"/>
-            <aspectTerm term="size" from="135" to="139"/>
-            <aspectTerm term="external power supply" from="81" to="102"/>
+            <aspectTerm term="case" polarity="negative"  from="4" to="8"/>
+            <aspectTerm term="size" polarity="conflict"  from="135" to="139"/>
+            <aspectTerm term="external power supply" polarity="neutral"  from="81" to="102"/>
         </aspectTerms>
     </sentence>
     <sentence id="1009:1">
         <text>I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.</text>
         <aspectTerms>
-            <aspectTerm term="wireless mouse" from="15" to="29"/>
-            <aspectTerm term="pad" from="77" to="80"/>
-            <aspectTerm term="works" from="123" to="128"/>
-            <aspectTerm term="key board" from="164" to="173"/>
+            <aspectTerm term="wireless mouse" polarity="neutral"  from="15" to="29"/>
+            <aspectTerm term="pad" polarity="negative"  from="77" to="80"/>
+            <aspectTerm term="works" polarity="positive"  from="123" to="128"/>
+            <aspectTerm term="key board" polarity="neutral"  from="164" to="173"/>
         </aspectTerms>
     </sentence>
     <sentence id="404:1">
         <text>When considering a Mac, look at the total cost of ownership and not just the initial price tag.</text>
         <aspectTerms>
-            <aspectTerm term="cost of ownership" from="42" to="59"/>
-            <aspectTerm term="price tag" from="85" to="94"/>
+            <aspectTerm term="cost of ownership" polarity="neutral"  from="42" to="59"/>
+            <aspectTerm term="price tag" polarity="neutral"  from="85" to="94"/>
         </aspectTerms>
     </sentence>
     <sentence id="1020:1">
         <text>Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="18" to="26"/>
-            <aspectTerm term="VGA port" from="48" to="56"/>
-            <aspectTerm term="HDMI" from="58" to="62"/>
-            <aspectTerm term="ethernet" from="64" to="72"/>
-            <aspectTerm term="USB ports" from="79" to="88"/>
+            <aspectTerm term="features" polarity="positive"  from="18" to="26"/>
+            <aspectTerm term="VGA port" polarity="neutral"  from="48" to="56"/>
+            <aspectTerm term="HDMI" polarity="neutral"  from="58" to="62"/>
+            <aspectTerm term="ethernet" polarity="neutral"  from="64" to="72"/>
+            <aspectTerm term="USB ports" polarity="neutral"  from="79" to="88"/>
         </aspectTerms>
     </sentence>
     <sentence id="540:3">
@@ -3464,7 +3464,7 @@
     <sentence id="271:28">
         <text>The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip.</text>
         <aspectTerms>
-            <aspectTerm term="rubber pads" from="51" to="62"/>
+            <aspectTerm term="rubber pads" polarity="negative"  from="51" to="62"/>
         </aspectTerms>
     </sentence>
     <sentence id="264:5">
@@ -3473,13 +3473,13 @@
     <sentence id="1143:1">
         <text>It's a decent computer for the price and hopefully it will last a long time.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="31" to="36"/>
+            <aspectTerm term="price" polarity="neutral"  from="31" to="36"/>
         </aspectTerms>
     </sentence>
     <sentence id="29:1">
         <text>I was really happy because it is a much better price on amazon.com than it was in the Mac store.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="47" to="52"/>
+            <aspectTerm term="price" polarity="conflict"  from="47" to="52"/>
         </aspectTerms>
     </sentence>
     <sentence id="483:6">
@@ -3488,8 +3488,8 @@
     <sentence id="29:1027">
         <text>The nicest  part is the low heat output and ultra quiet operation.</text>
         <aspectTerms>
-            <aspectTerm term="heat output" from="28" to="39"/>
-            <aspectTerm term="operation" from="56" to="65"/>
+            <aspectTerm term="heat output" polarity="positive"  from="28" to="39"/>
+            <aspectTerm term="operation" polarity="positive"  from="56" to="65"/>
         </aspectTerms>
     </sentence>
     <sentence id="264:12">
@@ -3501,34 +3501,34 @@
     <sentence id="805:1">
         <text>I will upgrade the ram myself (because with this model you can you can do it) later on.</text>
         <aspectTerms>
-            <aspectTerm term="upgrade the ram" from="7" to="22"/>
+            <aspectTerm term="upgrade the ram" polarity="positive"  from="7" to="22"/>
         </aspectTerms>
     </sentence>
     <sentence id="568:1">
         <text>The price is 200 dollars down.</text>
         <aspectTerms>
-            <aspectTerm term="price" from="4" to="9"/>
+            <aspectTerm term="price" polarity="positive"  from="4" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="75:1">
         <text>this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.</text>
         <aspectTerms>
-            <aspectTerm term="built-in mic" from="30" to="42"/>
-            <aspectTerm term="Mac OS 10.9" from="71" to="82"/>
-            <aspectTerm term="external microphones" from="99" to="119"/>
+            <aspectTerm term="built-in mic" polarity="neutral"  from="30" to="42"/>
+            <aspectTerm term="Mac OS 10.9" polarity="negative"  from="71" to="82"/>
+            <aspectTerm term="external microphones" polarity="neutral"  from="99" to="119"/>
         </aspectTerms>
     </sentence>
     <sentence id="859:1">
         <text>A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.</text>
         <aspectTerms>
-            <aspectTerm term="features" from="9" to="17"/>
-            <aspectTerm term="shortcuts" from="22" to="31"/>
+            <aspectTerm term="features" polarity="neutral"  from="9" to="17"/>
+            <aspectTerm term="shortcuts" polarity="neutral"  from="22" to="31"/>
         </aspectTerms>
     </sentence>
     <sentence id="768:1">
         <text>Wasn't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different.</text>
         <aspectTerms>
-            <aspectTerm term="IOS system" from="113" to="123"/>
+            <aspectTerm term="IOS system" polarity="positive"  from="113" to="123"/>
         </aspectTerms>
     </sentence>
     <sentence id="271:10">
@@ -3537,8 +3537,8 @@
     <sentence id="272:10">
         <text>air has higher resolution but the fonts are small.</text>
         <aspectTerms>
-            <aspectTerm term="resolution" from="15" to="25"/>
-            <aspectTerm term="fonts" from="34" to="39"/>
+            <aspectTerm term="resolution" polarity="positive"  from="15" to="25"/>
+            <aspectTerm term="fonts" polarity="negative"  from="34" to="39"/>
         </aspectTerms>
     </sentence>
     <sentence id="272:22">
@@ -3550,8 +3550,8 @@
     <sentence id="862:1">
         <text>working with Mac is so much easier, so many cool features.</text>
         <aspectTerms>
-            <aspectTerm term="working" from="0" to="7"/>
-            <aspectTerm term="features" from="49" to="57"/>
+            <aspectTerm term="working" polarity="positive"  from="0" to="7"/>
+            <aspectTerm term="features" polarity="positive"  from="49" to="57"/>
         </aspectTerms>
     </sentence>
     <sentence id="170:6">
@@ -3563,8 +3563,8 @@
     <sentence id="643:1">
         <text>I like the brightness and adjustments.</text>
         <aspectTerms>
-            <aspectTerm term="brightness" from="11" to="21"/>
-            <aspectTerm term="adjustments" from="26" to="37"/>
+            <aspectTerm term="brightness" polarity="positive"  from="11" to="21"/>
+            <aspectTerm term="adjustments" polarity="positive"  from="26" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="899:1">
@@ -3573,25 +3573,25 @@
     <sentence id="164:1">
         <text>I only wish this mac had a CD/DVD player built in.</text>
         <aspectTerms>
-            <aspectTerm term="CD/DVD player" from="27" to="40"/>
+            <aspectTerm term="CD/DVD player" polarity="neutral"  from="27" to="40"/>
         </aspectTerms>
     </sentence>
     <sentence id="969:5">
         <text>The only thing I miss is that my old Alienware laptop had backlit keys.</text>
         <aspectTerms>
-            <aspectTerm term="backlit keys" from="58" to="70"/>
+            <aspectTerm term="backlit keys" polarity="negative"  from="58" to="70"/>
         </aspectTerms>
     </sentence>
     <sentence id="933:1">
         <text>The only thing I miss are the "Home/End" type keys and other things that I grew accustomed to after so long.</text>
         <aspectTerms>
-            <aspectTerm term="&quot;Home/End&quot; type keys" from="30" to="50"/>
+            <aspectTerm term="&quot;Home/End&quot; type keys" polarity="neutral"  from="30" to="50"/>
         </aspectTerms>
     </sentence>
     <sentence id="535:1">
         <text>So happy with this purchase, I just wish it came with Microsoft Word.</text>
         <aspectTerms>
-            <aspectTerm term="Microsoft Word" from="54" to="68"/>
+            <aspectTerm term="Microsoft Word" polarity="neutral"  from="54" to="68"/>
         </aspectTerms>
     </sentence>
     <sentence id="1080:1">
@@ -3600,17 +3600,17 @@
     <sentence id="1133:1">
         <text>It has enough memory and speed to run my business with all the flexibility that comes with a laptop.</text>
         <aspectTerms>
-            <aspectTerm term="memory" from="14" to="20"/>
-            <aspectTerm term="speed" from="25" to="30"/>
-            <aspectTerm term="flexibility" from="63" to="74"/>
+            <aspectTerm term="memory" polarity="positive"  from="14" to="20"/>
+            <aspectTerm term="speed" polarity="positive"  from="25" to="30"/>
+            <aspectTerm term="flexibility" polarity="positive"  from="63" to="74"/>
         </aspectTerms>
     </sentence>
     <sentence id="881:4">
         <text>The speed, the simplicity, the design.. it is lightyears ahead of any PC I have ever owned.</text>
         <aspectTerms>
-            <aspectTerm term="speed" from="4" to="9"/>
-            <aspectTerm term="simplicity" from="15" to="25"/>
-            <aspectTerm term="design" from="31" to="37"/>
+            <aspectTerm term="speed" polarity="positive"  from="4" to="9"/>
+            <aspectTerm term="simplicity" polarity="positive"  from="15" to="25"/>
+            <aspectTerm term="design" polarity="positive"  from="31" to="37"/>
         </aspectTerms>
     </sentence>
     <sentence id="713:1">
@@ -3622,17 +3622,17 @@
     <sentence id="390:1">
         <text>The battery life is excellent, the display is excellent, and downloading apps is a  breeze.</text>
         <aspectTerms>
-            <aspectTerm term="battery life" from="4" to="16"/>
-            <aspectTerm term="display" from="35" to="42"/>
-            <aspectTerm term="downloading apps" from="61" to="77"/>
+            <aspectTerm term="battery life" polarity="positive"  from="4" to="16"/>
+            <aspectTerm term="display" polarity="positive"  from="35" to="42"/>
+            <aspectTerm term="downloading apps" polarity="positive"  from="61" to="77"/>
         </aspectTerms>
     </sentence>
     <sentence id="940:1">
         <text>The screen, the software and the smoothness of the operating system.</text>
         <aspectTerms>
-            <aspectTerm term="screen" from="4" to="10"/>
-            <aspectTerm term="software" from="16" to="24"/>
-            <aspectTerm term="operating system" from="51" to="67"/>
+            <aspectTerm term="screen" polarity="positive"  from="4" to="10"/>
+            <aspectTerm term="software" polarity="positive"  from="16" to="24"/>
+            <aspectTerm term="operating system" polarity="positive"  from="51" to="67"/>
         </aspectTerms>
     </sentence>
     <sentence id="374:1">
@@ -3644,13 +3644,13 @@
     <sentence id="547:16">
         <text>i have dropped mine a couple times with only a slim plastic case covering it.</text>
         <aspectTerms>
-            <aspectTerm term="slim plastic case" from="47" to="64"/>
+            <aspectTerm term="slim plastic case" polarity="neutral"  from="47" to="64"/>
         </aspectTerms>
     </sentence>
     <sentence id="991:8">
         <text>I also made a recovery USB stick.</text>
         <aspectTerms>
-            <aspectTerm term="recovery USB stick" from="14" to="32"/>
+            <aspectTerm term="recovery USB stick" polarity="neutral"  from="14" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="785:1">
@@ -3659,8 +3659,8 @@
     <sentence id="311:18">
         <text>But with this laptop, the bass is very weak and the sound comes out sounding tinny.</text>
         <aspectTerms>
-            <aspectTerm term="bass" from="26" to="30"/>
-            <aspectTerm term="sound" from="52" to="57"/>
+            <aspectTerm term="bass" polarity="negative"  from="26" to="30"/>
+            <aspectTerm term="sound" polarity="negative"  from="52" to="57"/>
         </aspectTerms>
     </sentence>
     <sentence id="635:1">
@@ -3672,13 +3672,13 @@
     <sentence id="339:1">
         <text>The built quality is really good, I was so Happy and excited about this Product.</text>
         <aspectTerms>
-            <aspectTerm term="built quality" from="4" to="17"/>
+            <aspectTerm term="built quality" polarity="positive"  from="4" to="17"/>
         </aspectTerms>
     </sentence>
     <sentence id="484:1">
         <text>I am loving the fast performance also.</text>
         <aspectTerms>
-            <aspectTerm term="performance" from="21" to="32"/>
+            <aspectTerm term="performance" polarity="positive"  from="21" to="32"/>
         </aspectTerms>
     </sentence>
     <sentence id="1038:1">
@@ -3687,9 +3687,9 @@
     <sentence id="29:313">
         <text>Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.</text>
         <aspectTerms>
-            <aspectTerm term="Bluetooth interface" from="36" to="55"/>
-            <aspectTerm term="Mac OS" from="73" to="79"/>
-            <aspectTerm term="range" from="89" to="94"/>
+            <aspectTerm term="Bluetooth interface" polarity="negative"  from="36" to="55"/>
+            <aspectTerm term="Mac OS" polarity="negative"  from="73" to="79"/>
+            <aspectTerm term="range" polarity="negative"  from="89" to="94"/>
         </aspectTerms>
     </sentence>
     <sentence id="869:0">
@@ -3698,7 +3698,7 @@
     <sentence id="1063:161">
         <text>If you start on the far right side and scroll to your left the start menu will automatically come up.</text>
         <aspectTerms>
-            <aspectTerm term="start menu" from="63" to="73"/>
+            <aspectTerm term="start menu" polarity="neutral"  from="63" to="73"/>
         </aspectTerms>
     </sentence>
     <sentence id="736:1">
@@ -3707,7 +3707,7 @@
     <sentence id="67:1">
         <text>My only gripe would be the need to add more RAM.</text>
         <aspectTerms>
-            <aspectTerm term="RAM" from="44" to="47"/>
+            <aspectTerm term="RAM" polarity="negative"  from="44" to="47"/>
         </aspectTerms>
     </sentence>
     <sentence id="73:1">
@@ -3716,7 +3716,7 @@
     <sentence id="1107:3">
         <text>Fine if you have a touch screen.</text>
         <aspectTerms>
-            <aspectTerm term="touch screen" from="19" to="31"/>
+            <aspectTerm term="touch screen" polarity="neutral"  from="19" to="31"/>
         </aspectTerms>
     </sentence>
     <sentence id="930:1">
@@ -3725,8 +3725,8 @@
     <sentence id="32:1">
         <text>As far as user type - I dabble in everything from games (WoW) to Photoshop, but nothing professionally.</text>
         <aspectTerms>
-            <aspectTerm term="games" from="50" to="55"/>
-            <aspectTerm term="Photoshop" from="65" to="74"/>
+            <aspectTerm term="games" polarity="neutral"  from="50" to="55"/>
+            <aspectTerm term="Photoshop" polarity="neutral"  from="65" to="74"/>
         </aspectTerms>
     </sentence>
     <sentence id="769:1">
@@ -3735,15 +3735,15 @@
     <sentence id="997:12">
         <text>I re-seated the "WLAN" card inside and re-installed the LAN device drivers.</text>
         <aspectTerms>
-            <aspectTerm term="&quot;WLAN&quot; card" from="16" to="27"/>
-            <aspectTerm term="LAN device drivers" from="56" to="74"/>
+            <aspectTerm term="&quot;WLAN&quot; card" polarity="neutral"  from="16" to="27"/>
+            <aspectTerm term="LAN device drivers" polarity="neutral"  from="56" to="74"/>
         </aspectTerms>
     </sentence>
     <sentence id="934:1">
         <text>This by far beats any computer out on the market today built well, battery life AMAZING.</text>
         <aspectTerms>
-            <aspectTerm term="built" from="55" to="60"/>
-            <aspectTerm term="battery life" from="67" to="79"/>
+            <aspectTerm term="built" polarity="positive"  from="55" to="60"/>
+            <aspectTerm term="battery life" polarity="positive"  from="67" to="79"/>
         </aspectTerms>
     </sentence>
     <sentence id="118:2">
@@ -3752,13 +3752,13 @@
     <sentence id="787:543">
         <text>The OS is easy, and offers all kinds of surprises.</text>
         <aspectTerms>
-            <aspectTerm term="OS" from="4" to="6"/>
+            <aspectTerm term="OS" polarity="positive"  from="4" to="6"/>
         </aspectTerms>
     </sentence>
     <sentence id="884:1">
         <text>I had to get Apple Customer Support to correct the problem.</text>
         <aspectTerms>
-            <aspectTerm term="Apple Customer Support" from="13" to="35"/>
+            <aspectTerm term="Apple Customer Support" polarity="neutral"  from="13" to="35"/>
         </aspectTerms>
     </sentence>
     <sentence id="986:1">
@@ -3767,27 +3767,27 @@
     <sentence id="834:1">
         <text>A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.</text>
         <aspectTerms>
-            <aspectTerm term="Firewire 800" from="27" to="39"/>
-            <aspectTerm term="USB3" from="81" to="85"/>
-            <aspectTerm term="USB3" from="106" to="110"/>
-            <aspectTerm term="MAC OS" from="144" to="150"/>
-            <aspectTerm term="Windows 7" from="190" to="199"/>
+            <aspectTerm term="Firewire 800" polarity="positive"  from="27" to="39"/>
+            <aspectTerm term="USB3" polarity="negative"  from="81" to="85"/>
+            <aspectTerm term="USB3" polarity="neutral"  from="106" to="110"/>
+            <aspectTerm term="MAC OS" polarity="negative"  from="144" to="150"/>
+            <aspectTerm term="Windows 7" polarity="positive"  from="190" to="199"/>
         </aspectTerms>
     </sentence>
     <sentence id="146:1">
         <text>I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.</text>
         <aspectTerms>
-            <aspectTerm term="iTunes" from="7" to="13"/>
-            <aspectTerm term="security" from="28" to="36"/>
-            <aspectTerm term="Mini form factor" from="42" to="58"/>
-            <aspectTerm term="graphics stuff" from="73" to="87"/>
+            <aspectTerm term="iTunes" polarity="positive"  from="7" to="13"/>
+            <aspectTerm term="security" polarity="positive"  from="28" to="36"/>
+            <aspectTerm term="Mini form factor" polarity="positive"  from="42" to="58"/>
+            <aspectTerm term="graphics stuff" polarity="positive"  from="73" to="87"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:1472">
         <text>The first time I used the card reader it took half an hour and a pair of tweezers to remove the card.</text>
         <aspectTerms>
-            <aspectTerm term="card reader" from="26" to="37"/>
-            <aspectTerm term="remove the card" from="85" to="100"/>
+            <aspectTerm term="card reader" polarity="negative"  from="26" to="37"/>
+            <aspectTerm term="remove the card" polarity="negative"  from="85" to="100"/>
         </aspectTerms>
     </sentence>
     <sentence id="263:4">
@@ -3796,21 +3796,21 @@
     <sentence id="755:1">
         <text>After replacing the spinning hard disk with an ssd drive, my mac is just flying.</text>
         <aspectTerms>
-            <aspectTerm term="spinning hard disk" from="20" to="38"/>
-            <aspectTerm term="ssd drive" from="47" to="56"/>
+            <aspectTerm term="spinning hard disk" polarity="neutral"  from="20" to="38"/>
+            <aspectTerm term="ssd drive" polarity="positive"  from="47" to="56"/>
         </aspectTerms>
     </sentence>
     <sentence id="55:1">
         <text>I know some people complained about HDMI issues but they released a firmware patch to address that issue.</text>
         <aspectTerms>
-            <aspectTerm term="HDMI" from="36" to="40"/>
-            <aspectTerm term="firmware patch" from="68" to="82"/>
+            <aspectTerm term="HDMI" polarity="neutral"  from="36" to="40"/>
+            <aspectTerm term="firmware patch" polarity="neutral"  from="68" to="82"/>
         </aspectTerms>
     </sentence>
     <sentence id="762:7">
         <text>With the needs of a professional photographer I generally need to keep up with the best specs.</text>
         <aspectTerms>
-            <aspectTerm term="specs" from="88" to="93"/>
+            <aspectTerm term="specs" polarity="neutral"  from="88" to="93"/>
         </aspectTerms>
     </sentence>
     <sentence id="277:1">
@@ -3819,7 +3819,7 @@
     <sentence id="685:1">
         <text>packing and everything was perfect</text>
         <aspectTerms>
-            <aspectTerm term="packing" from="0" to="7"/>
+            <aspectTerm term="packing" polarity="positive"  from="0" to="7"/>
         </aspectTerms>
     </sentence>
     <sentence id="1079:1">
@@ -3828,51 +3828,51 @@
     <sentence id="1068:1">
         <text>I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards.</text>
         <aspectTerms>
-            <aspectTerm term="mother boards" from="112" to="125"/>
+            <aspectTerm term="mother boards" polarity="neutral"  from="112" to="125"/>
         </aspectTerms>
     </sentence>
     <sentence id="474:1">
         <text>I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.</text>
         <aspectTerms>
-            <aspectTerm term="Mother Board" from="43" to="55"/>
-            <aspectTerm term="graphics card" from="107" to="120"/>
+            <aspectTerm term="Mother Board" polarity="negative"  from="43" to="55"/>
+            <aspectTerm term="graphics card" polarity="negative"  from="107" to="120"/>
         </aspectTerms>
     </sentence>
     <sentence id="946:1">
         <text>It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.</text>
         <aspectTerms>
-            <aspectTerm term="4G of RAM" from="19" to="28"/>
-            <aspectTerm term="8G of RAM" from="97" to="106"/>
-            <aspectTerm term="performs" from="150" to="158"/>
+            <aspectTerm term="4G of RAM" polarity="neutral"  from="19" to="28"/>
+            <aspectTerm term="8G of RAM" polarity="neutral"  from="97" to="106"/>
+            <aspectTerm term="performs" polarity="positive"  from="150" to="158"/>
         </aspectTerms>
     </sentence>
     <sentence id="184:1">
         <text>This computer is also awesome for my sons virtual home schooling.</text>
         <aspectTerms>
-            <aspectTerm term="virtual home schooling" from="42" to="64"/>
+            <aspectTerm term="virtual home schooling" polarity="positive"  from="42" to="64"/>
         </aspectTerms>
     </sentence>
     <sentence id="786:31">
         <text>Cost is more as compared to other brands.</text>
         <aspectTerms>
-            <aspectTerm term="Cost" from="0" to="4"/>
+            <aspectTerm term="Cost" polarity="negative"  from="0" to="4"/>
         </aspectTerms>
     </sentence>
     <sentence id="932:1">
         <text>also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-</text>
         <aspectTerms>
-            <aspectTerm term="operating system" from="19" to="35"/>
-            <aspectTerm term="size" from="37" to="41"/>
-            <aspectTerm term="weight" from="46" to="52"/>
-            <aspectTerm term="mobility" from="65" to="73"/>
-            <aspectTerm term="durability of the battery" from="85" to="110"/>
-            <aspectTerm term="functions provided by the trackpad" from="116" to="150"/>
+            <aspectTerm term="operating system" polarity="positive"  from="19" to="35"/>
+            <aspectTerm term="size" polarity="positive"  from="37" to="41"/>
+            <aspectTerm term="weight" polarity="positive"  from="46" to="52"/>
+            <aspectTerm term="mobility" polarity="positive"  from="65" to="73"/>
+            <aspectTerm term="durability of the battery" polarity="positive"  from="85" to="110"/>
+            <aspectTerm term="functions provided by the trackpad" polarity="positive"  from="116" to="150"/>
         </aspectTerms>
     </sentence>
     <sentence id="256:1">
         <text>This hardware seems to be better than the iMac in that it isn't $1400 and smaller.</text>
         <aspectTerms>
-            <aspectTerm term="hardware" from="5" to="13"/>
+            <aspectTerm term="hardware" polarity="positive"  from="5" to="13"/>
         </aspectTerms>
     </sentence>
     <sentence id="246:1">
@@ -3881,21 +3881,21 @@
     <sentence id="520:1">
         <text>I've had it for about 2 months now and found no issues with software or updates.</text>
         <aspectTerms>
-            <aspectTerm term="software" from="60" to="68"/>
-            <aspectTerm term="updates" from="72" to="79"/>
+            <aspectTerm term="software" polarity="neutral"  from="60" to="68"/>
+            <aspectTerm term="updates" polarity="neutral"  from="72" to="79"/>
         </aspectTerms>
     </sentence>
     <sentence id="306:2">
         <text>the latest version does not have a disc drive.</text>
         <aspectTerms>
-            <aspectTerm term="disc drive" from="35" to="45"/>
+            <aspectTerm term="disc drive" polarity="neutral"  from="35" to="45"/>
         </aspectTerms>
     </sentence>
     <sentence id="280:11">
         <text>Screen - although some people might complain about low res which I think is ridiculous.</text>
         <aspectTerms>
-            <aspectTerm term="Screen" from="0" to="6"/>
-            <aspectTerm term="res" from="55" to="58"/>
+            <aspectTerm term="Screen" polarity="positive"  from="0" to="6"/>
+            <aspectTerm term="res" polarity="positive"  from="55" to="58"/>
         </aspectTerms>
     </sentence>
 </sentences>
