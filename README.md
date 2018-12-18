@@ -13,7 +13,7 @@ Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ran
 
 ## Preprocessing
 * Window-based input (window size is 3, as done in Pengfei's [work](http://www.aclweb.org/anthology/D15-1168)).
-* Replacing the OOVs with the same token `PUNCT`.
+* Replacing the punctuations with the same token `PUNCT`.
 * Only the sentimental words with strong subjectivity are employed to provide distant supervision.
 
 ## Running
