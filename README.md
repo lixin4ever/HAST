@@ -1,5 +1,5 @@
 # HAST
-Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ransformation. (Currently, code is only available upon request)
+Aspect Term Extraction with **H**istory **A**ttention and **S**elective **T**ransformation.
 
 ## Requirements
 * Python 3.6
