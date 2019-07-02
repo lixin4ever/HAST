@@ -26,13 +26,16 @@ def run(args, flag2embedding_path, test_ids):
     ds_name = args.ds_name
     train_set, test_test, vocab, _, tag_vocab, tag_inv_vocab = build_dataset(ds_name=ds_name, win=win_size,
                                                                              mode=args.running_mode, test_ids=test_ids)
-
+    
     embedding_flag = args.flag
     embedding_path = flag2embedding_path[embedding_flag]
     if args.running_mode == 'cross-validation':
         embedding_pkl_path = './embeddings/%s_%s_cv.pkl' % (ds_name, embedding_flag)
     else:
         embedding_pkl_path = './embeddings/%s_%s.pkl' % (ds_name, embedding_flag)
+        
+    if not os.path.exists('./embeddings'):
+        os.mkdir('./embeddings')
 
     if not os.path.exists(embedding_pkl_path):
         print("Load embedding from %s..." % embedding_path)
